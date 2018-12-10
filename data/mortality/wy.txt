@@ -1,0 +1,1601 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Underlying Cause of death"	"Underlying Cause of death Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	30	491780	6.1
+	"1999"	"1999"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	491780	4.9
+	"1999"	"1999"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	74	491780	15.0
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	55	491780	11.2
+	"1999"	"1999"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	239	491780	48.6
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	491780	12.2
+	"1999"	"1999"	"Wyoming"	"56"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	16	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	57	491780	11.6
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	491780	4.9
+	"1999"	"1999"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	23	491780	4.7
+	"1999"	"1999"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	51	491780	10.4
+	"1999"	"1999"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	19	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	23	491780	4.7
+	"1999"	"1999"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	67	491780	13.6
+	"1999"	"1999"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	49	491780	10.0
+	"1999"	"1999"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	16	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Parkinson disease"	"G20"	24	491780	4.9
+	"1999"	"1999"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	95	491780	19.3
+	"1999"	"1999"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	266	491780	54.1
+	"1999"	"1999"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	70	491780	14.2
+	"1999"	"1999"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	319	491780	64.9
+	"1999"	"1999"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	491780	4.7
+	"1999"	"1999"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	24	491780	4.9
+	"1999"	"1999"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	16	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	20	491780	4.1
+	"1999"	"1999"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	16	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	104	491780	21.1
+	"1999"	"1999"	"Wyoming"	"56"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	18	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	27	491780	5.5
+	"1999"	"1999"	"Wyoming"	"56"	"Cerebral infarction, unspecified"	"I63.9"	10	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	152	491780	30.9
+	"1999"	"1999"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	20	491780	4.1
+	"1999"	"1999"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	18	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	108	491780	22.0
+	"1999"	"1999"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	31	491780	6.3
+	"1999"	"1999"	"Wyoming"	"56"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	281	491780	57.1
+	"1999"	"1999"	"Wyoming"	"56"	"Asthma, unspecified"	"J45.9"	10	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	17	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	17	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	17	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	25	491780	5.1
+	"1999"	"1999"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	12	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	47	491780	9.6
+	"1999"	"1999"	"Wyoming"	"56"	"Unspecified fall"	"W19"	14	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	20	491780	4.1
+	"1999"	"1999"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	491780	Unreliable
+	"1999"	"1999"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	44	491780	8.9
+	"2000"	"2000"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	30	493782	6.1
+	"2000"	"2000"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	13	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	76	493782	15.4
+	"2000"	"2000"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	38	493782	7.7
+	"2000"	"2000"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	231	493782	46.8
+	"2000"	"2000"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	18	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	65	493782	13.2
+	"2000"	"2000"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	25	493782	5.1
+	"2000"	"2000"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	61	493782	12.4
+	"2000"	"2000"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	493782	4.9
+	"2000"	"2000"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	47	493782	9.5
+	"2000"	"2000"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	493782	4.9
+	"2000"	"2000"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	25	493782	5.1
+	"2000"	"2000"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	55	493782	11.1
+	"2000"	"2000"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	51	493782	10.3
+	"2000"	"2000"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	17	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Parkinson disease"	"G20"	29	493782	5.9
+	"2000"	"2000"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	99	493782	20.0
+	"2000"	"2000"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	11	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	290	493782	58.7
+	"2000"	"2000"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	59	493782	11.9
+	"2000"	"2000"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	279	493782	56.5
+	"2000"	"2000"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	14	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	15	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	493782	4.5
+	"2000"	"2000"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	12	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	18	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	17	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	16	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	31	493782	6.3
+	"2000"	"2000"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	110	493782	22.3
+	"2000"	"2000"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	493782	4.3
+	"2000"	"2000"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	164	493782	33.2
+	"2000"	"2000"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	11	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	24	493782	4.9
+	"2000"	"2000"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	13	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	113	493782	22.9
+	"2000"	"2000"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	34	493782	6.9
+	"2000"	"2000"	"Wyoming"	"56"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	12	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	228	493782	46.2
+	"2000"	"2000"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	12	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Acute vascular disorders of intestine"	"K55.0"	10	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	16	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	10	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	493782	4.1
+	"2000"	"2000"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	14	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	20	493782	4.1
+	"2000"	"2000"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	20	493782	4.1
+	"2000"	"2000"	"Wyoming"	"56"	"Senility"	"R54"	10	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	10	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	12	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	38	493782	7.7
+	"2000"	"2000"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	12	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	18	493782	Unreliable
+	"2000"	"2000"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	25	493782	5.1
+	"2001"	"2001"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	36	494657	7.3
+	"2001"	"2001"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	494657	4.9
+	"2001"	"2001"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	86	494657	17.4
+	"2001"	"2001"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	12	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	494657	9.9
+	"2001"	"2001"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	232	494657	46.9
+	"2001"	"2001"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	494657	12.1
+	"2001"	"2001"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	26	494657	5.3
+	"2001"	"2001"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	67	494657	13.5
+	"2001"	"2001"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	23	494657	4.6
+	"2001"	"2001"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	494657	4.0
+	"2001"	"2001"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	43	494657	8.7
+	"2001"	"2001"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	24	494657	4.9
+	"2001"	"2001"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	494657	4.6
+	"2001"	"2001"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	20	494657	4.0
+	"2001"	"2001"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	67	494657	13.5
+	"2001"	"2001"	"Wyoming"	"56"	"Unspecified protein-energy malnutrition"	"E46"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	51	494657	10.3
+	"2001"	"2001"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	12	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Parkinson disease"	"G20"	26	494657	5.3
+	"2001"	"2001"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	108	494657	21.8
+	"2001"	"2001"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	12	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	289	494657	58.4
+	"2001"	"2001"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	494657	10.9
+	"2001"	"2001"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	267	494657	54.0
+	"2001"	"2001"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	12	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	35	494657	7.1
+	"2001"	"2001"	"Wyoming"	"56"	"Primary pulmonary hypertension"	"I27.0"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	18	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	21	494657	4.2
+	"2001"	"2001"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	19	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	20	494657	4.0
+	"2001"	"2001"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	108	494657	21.8
+	"2001"	"2001"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	30	494657	6.1
+	"2001"	"2001"	"Wyoming"	"56"	"Cerebral infarction, unspecified"	"I63.9"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	149	494657	30.1
+	"2001"	"2001"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	14	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	95	494657	19.2
+	"2001"	"2001"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	18	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	226	494657	45.7
+	"2001"	"2001"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	20	494657	4.0
+	"2001"	"2001"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	494657	4.2
+	"2001"	"2001"	"Wyoming"	"56"	"Acute vascular disorders of intestine"	"K55.0"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	14	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	27	494657	5.5
+	"2001"	"2001"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	31	494657	6.3
+	"2001"	"2001"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	494657	4.9
+	"2001"	"2001"	"Wyoming"	"56"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	19	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	17	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	17	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	13	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	11	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	494657	Unreliable
+	"2001"	"2001"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	40	494657	8.1
+	"2002"	"2002"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	38	500017	7.6
+	"2002"	"2002"	"Wyoming"	"56"	"Acute hepatitis C"	"B17.1"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	30	500017	6.0
+	"2002"	"2002"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	75	500017	15.0
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	41	500017	8.2
+	"2002"	"2002"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	241	500017	48.2
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	15	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	54	500017	10.8
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	34	500017	6.8
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	59	500017	11.8
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	500017	4.4
+	"2002"	"2002"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	36	500017	7.2
+	"2002"	"2002"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	25	500017	5.0
+	"2002"	"2002"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	35	500017	7.0
+	"2002"	"2002"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	76	500017	15.2
+	"2002"	"2002"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	72	500017	14.4
+	"2002"	"2002"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Parkinson disease"	"G20"	22	500017	4.4
+	"2002"	"2002"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	117	500017	23.4
+	"2002"	"2002"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	275	500017	55.0
+	"2002"	"2002"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	500017	7.8
+	"2002"	"2002"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	303	500017	60.6
+	"2002"	"2002"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	26	500017	5.2
+	"2002"	"2002"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	19	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Sudden cardiac death, so described"	"I46.1"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	25	500017	5.0
+	"2002"	"2002"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	23	500017	4.6
+	"2002"	"2002"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	125	500017	25.0
+	"2002"	"2002"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	23	500017	4.6
+	"2002"	"2002"	"Wyoming"	"56"	"Cerebral infarction, unspecified"	"I63.9"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	137	500017	27.4
+	"2002"	"2002"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	15	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	16	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Dissection of aorta [any part]"	"I71.0"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	104	500017	20.8
+	"2002"	"2002"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	26	500017	5.2
+	"2002"	"2002"	"Wyoming"	"56"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	277	500017	55.4
+	"2002"	"2002"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	17	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	500017	4.0
+	"2002"	"2002"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	22	500017	4.4
+	"2002"	"2002"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	22	500017	4.4
+	"2002"	"2002"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	13	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	13	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	13	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	34	500017	6.8
+	"2002"	"2002"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	19	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	500017	Unreliable
+	"2002"	"2002"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	24	500017	4.8
+	"2002"	"2002"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	49	500017	9.8
+	"2003"	"2003"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	35	503453	7.0
+	"2003"	"2003"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	503453	6.6
+	"2003"	"2003"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	86	503453	17.1
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	52	503453	10.3
+	"2003"	"2003"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	245	503453	48.7
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	66	503453	13.1
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	25	503453	5.0
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	40	503453	7.9
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	26	503453	5.2
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	55	503453	10.9
+	"2003"	"2003"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	503453	6.2
+	"2003"	"2003"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	18	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	28	503453	5.6
+	"2003"	"2003"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	79	503453	15.7
+	"2003"	"2003"	"Wyoming"	"56"	"Volume depletion"	"E86"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	53	503453	10.5
+	"2003"	"2003"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	19	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	17	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Parkinson disease"	"G20"	24	503453	4.8
+	"2003"	"2003"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	140	503453	27.8
+	"2003"	"2003"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	253	503453	50.3
+	"2003"	"2003"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	503453	6.0
+	"2003"	"2003"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	287	503453	57.0
+	"2003"	"2003"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	16	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Primary pulmonary hypertension"	"I27.0"	20	503453	4.0
+	"2003"	"2003"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	18	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	17	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	16	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	19	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	117	503453	23.2
+	"2003"	"2003"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	18	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	503453	4.2
+	"2003"	"2003"	"Wyoming"	"56"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	129	503453	25.6
+	"2003"	"2003"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	21	503453	4.2
+	"2003"	"2003"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	14	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	11	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	115	503453	22.8
+	"2003"	"2003"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	24	503453	4.8
+	"2003"	"2003"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	238	503453	47.3
+	"2003"	"2003"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	503453	4.0
+	"2003"	"2003"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	503453	4.8
+	"2003"	"2003"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	14	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	27	503453	5.4
+	"2003"	"2003"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	20	503453	4.0
+	"2003"	"2003"	"Wyoming"	"56"	"Senility"	"R54"	12	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	17	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	11	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	10	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Other fall on same level"	"W18"	16	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Unspecified fall"	"W19"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	15	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	503453	4.4
+	"2003"	"2003"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	19	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	13	503453	Unreliable
+	"2003"	"2003"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	43	503453	8.5
+	"2004"	"2004"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	34	509106	6.7
+	"2004"	"2004"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	34	509106	6.7
+	"2004"	"2004"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	71	509106	13.9
+	"2004"	"2004"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	54	509106	10.6
+	"2004"	"2004"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	205	509106	40.3
+	"2004"	"2004"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	19	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	12	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	70	509106	13.7
+	"2004"	"2004"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	34	509106	6.7
+	"2004"	"2004"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	51	509106	10.0
+	"2004"	"2004"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	23	509106	4.5
+	"2004"	"2004"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	27	509106	5.3
+	"2004"	"2004"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	43	509106	8.4
+	"2004"	"2004"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	33	509106	6.5
+	"2004"	"2004"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	27	509106	5.3
+	"2004"	"2004"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	54	509106	10.6
+	"2004"	"2004"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	11	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	53	509106	10.4
+	"2004"	"2004"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	22	509106	4.3
+	"2004"	"2004"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	16	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Parkinson disease"	"G20"	17	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	104	509106	20.4
+	"2004"	"2004"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	16	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	284	509106	55.8
+	"2004"	"2004"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	40	509106	7.9
+	"2004"	"2004"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	263	509106	51.7
+	"2004"	"2004"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	27	509106	5.3
+	"2004"	"2004"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	23	509106	4.5
+	"2004"	"2004"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	20	509106	3.9
+	"2004"	"2004"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	15	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	16	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	18	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	16	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	99	509106	19.4
+	"2004"	"2004"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	25	509106	4.9
+	"2004"	"2004"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	126	509106	24.7
+	"2004"	"2004"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	21	509106	4.1
+	"2004"	"2004"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	91	509106	17.9
+	"2004"	"2004"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	28	509106	5.5
+	"2004"	"2004"	"Wyoming"	"56"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	17	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	254	509106	49.9
+	"2004"	"2004"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	21	509106	4.1
+	"2004"	"2004"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	12	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	10	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	20	509106	3.9
+	"2004"	"2004"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	26	509106	5.1
+	"2004"	"2004"	"Wyoming"	"56"	"Extreme immaturity"	"P07.2"	10	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Senility"	"R54"	13	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	10	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	14	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	17	509106	Unreliable
+	"2004"	"2004"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	25	509106	4.9
+	"2005"	"2005"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	26	514157	5.1
+	"2005"	"2005"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	13	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	514157	5.4
+	"2005"	"2005"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	54	514157	10.5
+	"2005"	"2005"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	514157	12.3
+	"2005"	"2005"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	249	514157	48.4
+	"2005"	"2005"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	514157	11.5
+	"2005"	"2005"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	22	514157	4.3
+	"2005"	"2005"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	33	514157	6.4
+	"2005"	"2005"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	514157	3.9
+	"2005"	"2005"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	514157	4.3
+	"2005"	"2005"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	514157	3.9
+	"2005"	"2005"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	47	514157	9.1
+	"2005"	"2005"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	24	514157	4.7
+	"2005"	"2005"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	514157	4.3
+	"2005"	"2005"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	16	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	34	514157	6.6
+	"2005"	"2005"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	77	514157	15.0
+	"2005"	"2005"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	73	514157	14.2
+	"2005"	"2005"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	16	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"	"F17.9"	14	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Parkinson disease"	"G20"	27	514157	5.3
+	"2005"	"2005"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	107	514157	20.8
+	"2005"	"2005"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	12	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	286	514157	55.6
+	"2005"	"2005"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	514157	5.8
+	"2005"	"2005"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	253	514157	49.2
+	"2005"	"2005"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	15	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	26	514157	5.1
+	"2005"	"2005"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	13	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	23	514157	4.5
+	"2005"	"2005"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Sudden cardiac death, so described"	"I46.1"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	17	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	21	514157	4.1
+	"2005"	"2005"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	113	514157	22.0
+	"2005"	"2005"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	514157	3.9
+	"2005"	"2005"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	128	514157	24.9
+	"2005"	"2005"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	12	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	12	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	14	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	93	514157	18.1
+	"2005"	"2005"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	23	514157	4.5
+	"2005"	"2005"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	248	514157	48.2
+	"2005"	"2005"	"Wyoming"	"56"	"Asthma, unspecified"	"J45.9"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	24	514157	4.7
+	"2005"	"2005"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	24	514157	4.7
+	"2005"	"2005"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Rheumatoid arthritis, unspecified"	"M06.9"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	18	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	37	514157	7.2
+	"2005"	"2005"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	19	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Senility"	"R54"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	514157	4.9
+	"2005"	"2005"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	14	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	15	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	32	514157	6.2
+	"2005"	"2005"	"Wyoming"	"56"	"Other fall on same level"	"W18"	10	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Unspecified fall"	"W19"	13	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	12	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	11	514157	Unreliable
+	"2005"	"2005"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	37	514157	7.2
+	"2006"	"2006"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	26	522667	5.0
+	"2006"	"2006"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	15	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	522667	4.4
+	"2006"	"2006"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	19	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	77	522667	14.7
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	522667	12.1
+	"2006"	"2006"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	232	522667	44.4
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	18	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	66	522667	12.6
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	22	522667	4.2
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	58	522667	11.1
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	522667	4.6
+	"2006"	"2006"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	522667	3.8
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	52	522667	9.9
+	"2006"	"2006"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	522667	4.4
+	"2006"	"2006"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	20	522667	3.8
+	"2006"	"2006"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	11	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	522667	4.2
+	"2006"	"2006"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	57	522667	10.9
+	"2006"	"2006"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	85	522667	16.3
+	"2006"	"2006"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	16	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	16	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Parkinson disease"	"G20"	31	522667	5.9
+	"2006"	"2006"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	112	522667	21.4
+	"2006"	"2006"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	522667	3.8
+	"2006"	"2006"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	248	522667	47.4
+	"2006"	"2006"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	522667	5.9
+	"2006"	"2006"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	234	522667	44.8
+	"2006"	"2006"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	18	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	17	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	24	522667	4.6
+	"2006"	"2006"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	14	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	17	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	17	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	15	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Sudden cardiac death, so described"	"I46.1"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	19	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	22	522667	4.2
+	"2006"	"2006"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	23	522667	4.4
+	"2006"	"2006"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	139	522667	26.6
+	"2006"	"2006"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	23	522667	4.4
+	"2006"	"2006"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	26	522667	5.0
+	"2006"	"2006"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	150	522667	28.7
+	"2006"	"2006"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	95	522667	18.2
+	"2006"	"2006"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	17	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	303	522667	58.0
+	"2006"	"2006"	"Wyoming"	"56"	"Asthma, unspecified"	"J45.9"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	29	522667	5.5
+	"2006"	"2006"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	19	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	24	522667	4.6
+	"2006"	"2006"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	16	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	22	522667	4.2
+	"2006"	"2006"	"Wyoming"	"56"	"End-stage renal disease"	"N18.0"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	14	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	29	522667	5.5
+	"2006"	"2006"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	29	522667	5.5
+	"2006"	"2006"	"Wyoming"	"56"	"Senility"	"R54"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	18	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	16	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	45	522667	8.6
+	"2006"	"2006"	"Wyoming"	"56"	"Unspecified fall"	"W19"	11	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Exposure to unspecified factor"	"X59"	24	522667	4.6
+	"2006"	"2006"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	17	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	522667	Unreliable
+	"2006"	"2006"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	20	522667	3.8
+	"2006"	"2006"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	46	522667	8.8
+	"2007"	"2007"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	37	534876	6.9
+	"2007"	"2007"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	534876	4.5
+	"2007"	"2007"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	83	534876	15.5
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	12	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	62	534876	11.6
+	"2007"	"2007"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	249	534876	46.6
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	18	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	67	534876	12.5
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	30	534876	5.6
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	45	534876	8.4
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	26	534876	4.9
+	"2007"	"2007"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	534876	3.7
+	"2007"	"2007"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	534876	3.9
+	"2007"	"2007"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	54	534876	10.1
+	"2007"	"2007"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	534876	4.3
+	"2007"	"2007"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	21	534876	3.9
+	"2007"	"2007"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	38	534876	7.1
+	"2007"	"2007"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	71	534876	13.3
+	"2007"	"2007"	"Wyoming"	"56"	"Unspecified protein-energy malnutrition"	"E46"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Volume depletion"	"E86"	13	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	107	534876	20.0
+	"2007"	"2007"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Parkinson disease"	"G20"	35	534876	6.5
+	"2007"	"2007"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	110	534876	20.6
+	"2007"	"2007"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	21	534876	3.9
+	"2007"	"2007"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	292	534876	54.6
+	"2007"	"2007"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	534876	6.7
+	"2007"	"2007"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	223	534876	41.7
+	"2007"	"2007"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	20	534876	3.7
+	"2007"	"2007"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	534876	4.1
+	"2007"	"2007"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	12	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	17	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	16	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	16	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	26	534876	4.9
+	"2007"	"2007"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	18	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	106	534876	19.8
+	"2007"	"2007"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	15	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	11	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	25	534876	4.7
+	"2007"	"2007"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	130	534876	24.3
+	"2007"	"2007"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Dissection of aorta [any part]"	"I71.0"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	90	534876	16.8
+	"2007"	"2007"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	25	534876	4.7
+	"2007"	"2007"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	250	534876	46.7
+	"2007"	"2007"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	23	534876	4.3
+	"2007"	"2007"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	16	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	13	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	19	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	15	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	534876	4.5
+	"2007"	"2007"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Rheumatoid arthritis, unspecified"	"M06.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	42	534876	7.9
+	"2007"	"2007"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	17	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Senility"	"R54"	18	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	534876	3.7
+	"2007"	"2007"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	44	534876	8.2
+	"2007"	"2007"	"Wyoming"	"56"	"Other fall on same level"	"W18"	10	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Unspecified fall"	"W19"	14	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	534876	3.7
+	"2007"	"2007"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	13	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	534876	Unreliable
+	"2007"	"2007"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	29	534876	5.4
+	"2007"	"2007"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	29	534876	5.4
+	"2008"	"2008"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	46	546043	8.4
+	"2008"	"2008"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	70	546043	12.8
+	"2008"	"2008"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	58	546043	10.6
+	"2008"	"2008"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	221	546043	40.5
+	"2008"	"2008"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	18	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	53	546043	9.7
+	"2008"	"2008"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	19	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	50	546043	9.2
+	"2008"	"2008"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	26	546043	4.8
+	"2008"	"2008"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	546043	3.7
+	"2008"	"2008"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	54	546043	9.9
+	"2008"	"2008"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	22	546043	4.0
+	"2008"	"2008"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	16	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	29	546043	5.3
+	"2008"	"2008"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	60	546043	11.0
+	"2008"	"2008"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	11	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	102	546043	18.7
+	"2008"	"2008"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	16	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Parkinson disease"	"G20"	34	546043	6.2
+	"2008"	"2008"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	125	546043	22.9
+	"2008"	"2008"	"Wyoming"	"56"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	13	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	291	546043	53.3
+	"2008"	"2008"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	546043	6.4
+	"2008"	"2008"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	181	546043	33.1
+	"2008"	"2008"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	22	546043	4.0
+	"2008"	"2008"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	21	546043	3.8
+	"2008"	"2008"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	14	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	24	546043	4.4
+	"2008"	"2008"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	18	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	23	546043	4.2
+	"2008"	"2008"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	32	546043	5.9
+	"2008"	"2008"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	17	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	126	546043	23.1
+	"2008"	"2008"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	546043	3.7
+	"2008"	"2008"	"Wyoming"	"56"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	12	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	129	546043	23.6
+	"2008"	"2008"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	12	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	11	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	101	546043	18.5
+	"2008"	"2008"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	28	546043	5.1
+	"2008"	"2008"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	56	546043	10.3
+	"2008"	"2008"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	207	546043	37.9
+	"2008"	"2008"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	18	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	546043	3.7
+	"2008"	"2008"	"Wyoming"	"56"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	23	546043	4.2
+	"2008"	"2008"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	14	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	27	546043	4.9
+	"2008"	"2008"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	546043	4.4
+	"2008"	"2008"	"Wyoming"	"56"	"Acute pancreatitis, unspecified"	"K85.9"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	10	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	25	546043	4.6
+	"2008"	"2008"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Senility"	"R54"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	25	546043	4.6
+	"2008"	"2008"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	44	546043	8.1
+	"2008"	"2008"	"Wyoming"	"56"	"Other fall on same level"	"W18"	19	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Unspecified fall"	"W19"	13	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	546043	4.2
+	"2008"	"2008"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	546043	6.2
+	"2008"	"2008"	"Wyoming"	"56"	"Accidental poisoning by and exposure to alcohol"	"X45"	16	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	15	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	19	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	30	546043	5.5
+	"2008"	"2008"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	546043	Unreliable
+	"2008"	"2008"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	45	546043	8.2
+	"2009"	"2009"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	45	559851	8.0
+	"2009"	"2009"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	559851	5.0
+	"2009"	"2009"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	58	559851	10.4
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	59	559851	10.5
+	"2009"	"2009"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	240	559851	42.9
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	69	559851	12.3
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	25	559851	4.5
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	39	559851	7.0
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	559851	3.8
+	"2009"	"2009"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	559851	3.9
+	"2009"	"2009"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	29	559851	5.2
+	"2009"	"2009"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	58	559851	10.4
+	"2009"	"2009"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	25	559851	4.5
+	"2009"	"2009"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	17	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	25	559851	4.5
+	"2009"	"2009"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	56	559851	10.0
+	"2009"	"2009"	"Wyoming"	"56"	"Other obesity"	"E66.8"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Volume depletion"	"E86"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	138	559851	24.6
+	"2009"	"2009"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Parkinson disease"	"G20"	19	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	135	559851	24.1
+	"2009"	"2009"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	559851	3.6
+	"2009"	"2009"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	11	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	269	559851	48.0
+	"2009"	"2009"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	559851	6.4
+	"2009"	"2009"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	201	559851	35.9
+	"2009"	"2009"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	18	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	15	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	26	559851	4.6
+	"2009"	"2009"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	15	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Sudden cardiac death, so described"	"I46.1"	15	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	18	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	29	559851	5.2
+	"2009"	"2009"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	23	559851	4.1
+	"2009"	"2009"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	124	559851	22.1
+	"2009"	"2009"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	11	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	16	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	559851	5.5
+	"2009"	"2009"	"Wyoming"	"56"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	120	559851	21.4
+	"2009"	"2009"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Bronchopneumonia, unspecified"	"J18.0"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	111	559851	19.8
+	"2009"	"2009"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	30	559851	5.4
+	"2009"	"2009"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	61	559851	10.9
+	"2009"	"2009"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	207	559851	37.0
+	"2009"	"2009"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	20	559851	3.6
+	"2009"	"2009"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	20	559851	3.6
+	"2009"	"2009"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	12	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	559851	3.9
+	"2009"	"2009"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	29	559851	5.2
+	"2009"	"2009"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"End-stage renal disease"	"N18.0"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	13	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	36	559851	6.4
+	"2009"	"2009"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	17	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Senility"	"R54"	11	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	10	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	14	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	39	559851	7.0
+	"2009"	"2009"	"Wyoming"	"56"	"Other fall on same level"	"W18"	18	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Unspecified fall"	"W19"	18	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	559851	3.9
+	"2009"	"2009"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	559851	5.7
+	"2009"	"2009"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	34	559851	6.1
+	"2009"	"2009"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	559851	Unreliable
+	"2009"	"2009"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	31	559851	5.5
+	"2010"	"2010"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	48	563626	8.5
+	"2010"	"2010"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	36	563626	6.4
+	"2010"	"2010"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	71	563626	12.6
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	20	563626	3.5
+	"2010"	"2010"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	65	563626	11.5
+	"2010"	"2010"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	233	563626	41.3
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	72	563626	12.8
+	"2010"	"2010"	"Wyoming"	"56"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	28	563626	5.0
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	61	563626	10.8
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	23	563626	4.1
+	"2010"	"2010"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	31	563626	5.5
+	"2010"	"2010"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	28	563626	5.0
+	"2010"	"2010"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	61	563626	10.8
+	"2010"	"2010"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	563626	4.1
+	"2010"	"2010"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	19	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	19	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24	563626	4.3
+	"2010"	"2010"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	52	563626	9.2
+	"2010"	"2010"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	108	563626	19.2
+	"2010"	"2010"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Parkinson disease"	"G20"	37	563626	6.6
+	"2010"	"2010"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	143	563626	25.4
+	"2010"	"2010"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	254	563626	45.1
+	"2010"	"2010"	"Wyoming"	"56"	"Acute ischaemic heart disease, unspecified"	"I24.9"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	563626	8.5
+	"2010"	"2010"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	208	563626	36.9
+	"2010"	"2010"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	19	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	563626	3.9
+	"2010"	"2010"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	20	563626	3.5
+	"2010"	"2010"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	25	563626	4.4
+	"2010"	"2010"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	14	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	14	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	31	563626	5.5
+	"2010"	"2010"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	129	563626	22.9
+	"2010"	"2010"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	125	563626	22.2
+	"2010"	"2010"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	97	563626	17.2
+	"2010"	"2010"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	19	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	49	563626	8.7
+	"2010"	"2010"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	243	563626	43.1
+	"2010"	"2010"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	30	563626	5.3
+	"2010"	"2010"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	25	563626	4.4
+	"2010"	"2010"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	21	563626	3.7
+	"2010"	"2010"	"Wyoming"	"56"	"Other disorders of lung"	"J98.4"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	17	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	16	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	30	563626	5.3
+	"2010"	"2010"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	23	563626	4.1
+	"2010"	"2010"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	40	563626	7.1
+	"2010"	"2010"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Senility"	"R54"	14	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	21	563626	3.7
+	"2010"	"2010"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	51	563626	9.0
+	"2010"	"2010"	"Wyoming"	"56"	"Other fall on same level"	"W18"	17	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Unspecified fall"	"W19"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	13	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	563626	4.8
+	"2010"	"2010"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	36	563626	6.4
+	"2010"	"2010"	"Wyoming"	"56"	"Accidental poisoning by and exposure to alcohol"	"X45"	11	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	12	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	40	563626	7.1
+	"2010"	"2010"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	14	563626	Unreliable
+	"2010"	"2010"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	29	563626	5.1
+	"2011"	"2011"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	42	568158	7.4
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	36	568158	6.3
+	"2011"	"2011"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	64	568158	11.3
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	12	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	568158	8.6
+	"2011"	"2011"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	225	568158	39.6
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	23	568158	4.0
+	"2011"	"2011"	"Wyoming"	"56"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	70	568158	12.3
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	17	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	46	568158	8.1
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	568158	4.8
+	"2011"	"2011"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	30	568158	5.3
+	"2011"	"2011"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	61	568158	10.7
+	"2011"	"2011"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	21	568158	3.7
+	"2011"	"2011"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	568158	4.2
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	19	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	14	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	51	568158	9.0
+	"2011"	"2011"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	16	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	12	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	129	568158	22.7
+	"2011"	"2011"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	15	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Parkinson disease"	"G20"	33	568158	5.8
+	"2011"	"2011"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	146	568158	25.7
+	"2011"	"2011"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	16	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	568158	3.5
+	"2011"	"2011"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	281	568158	49.5
+	"2011"	"2011"	"Wyoming"	"56"	"Acute ischaemic heart disease, unspecified"	"I24.9"	19	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	568158	8.4
+	"2011"	"2011"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	184	568158	32.4
+	"2011"	"2011"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	568158	3.5
+	"2011"	"2011"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	15	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	26	568158	4.6
+	"2011"	"2011"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	21	568158	3.7
+	"2011"	"2011"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	25	568158	4.4
+	"2011"	"2011"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	98	568158	17.2
+	"2011"	"2011"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	12	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	22	568158	3.9
+	"2011"	"2011"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	127	568158	22.4
+	"2011"	"2011"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	97	568158	17.1
+	"2011"	"2011"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	23	568158	4.0
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	58	568158	10.2
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	232	568158	40.8
+	"2011"	"2011"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	22	568158	3.9
+	"2011"	"2011"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	568158	4.2
+	"2011"	"2011"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	18	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	27	568158	4.8
+	"2011"	"2011"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	14	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	11	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	568158	4.0
+	"2011"	"2011"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	24	568158	4.2
+	"2011"	"2011"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	56	568158	9.9
+	"2011"	"2011"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	17	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Senility"	"R54"	14	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	12	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	36	568158	6.3
+	"2011"	"2011"	"Wyoming"	"56"	"Other fall on same level"	"W18"	21	568158	3.7
+	"2011"	"2011"	"Wyoming"	"56"	"Unspecified fall"	"W19"	24	568158	4.2
+	"2011"	"2011"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	24	568158	4.2
+	"2011"	"2011"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	28	568158	4.9
+	"2011"	"2011"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	13	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	14	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	568158	Unreliable
+	"2011"	"2011"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	29	568158	5.1
+	"2011"	"2011"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	49	568158	8.6
+	"2011"	"2011"	"Wyoming"	"56"	"Assault by other and unspecified firearm discharge"	"X95"	12	568158	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Enterocolitis due to Clostridium difficile"	"A04.7"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	53	576412	9.2
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	576412	5.7
+	"2012"	"2012"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	15	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	77	576412	13.4
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	55	576412	9.5
+	"2012"	"2012"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	230	576412	39.9
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	53	576412	9.2
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	41	576412	7.1
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	42	576412	7.3
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	23	576412	4.0
+	"2012"	"2012"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	28	576412	4.9
+	"2012"	"2012"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	30	576412	5.2
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	62	576412	10.8
+	"2012"	"2012"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	576412	4.2
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	40	576412	6.9
+	"2012"	"2012"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	145	576412	25.2
+	"2012"	"2012"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	18	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Parkinson disease"	"G20"	39	576412	6.8
+	"2012"	"2012"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	120	576412	20.8
+	"2012"	"2012"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	15	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	326	576412	56.6
+	"2012"	"2012"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	72	576412	12.5
+	"2012"	"2012"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	169	576412	29.3
+	"2012"	"2012"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	15	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	18	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	16	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	18	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	18	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	54	576412	9.4
+	"2012"	"2012"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	107	576412	18.6
+	"2012"	"2012"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	26	576412	4.5
+	"2012"	"2012"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	115	576412	20.0
+	"2012"	"2012"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	80	576412	13.9
+	"2012"	"2012"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	16	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	44	576412	7.6
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	254	576412	44.1
+	"2012"	"2012"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	27	576412	4.7
+	"2012"	"2012"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	19	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Other disorders of lung"	"J98.4"	10	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	14	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	43	576412	7.5
+	"2012"	"2012"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	12	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	33	576412	5.7
+	"2012"	"2012"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	25	576412	4.3
+	"2012"	"2012"	"Wyoming"	"56"	"Rheumatoid arthritis, unspecified"	"M06.9"	11	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	15	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	28	576412	4.9
+	"2012"	"2012"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	34	576412	5.9
+	"2012"	"2012"	"Wyoming"	"56"	"Other fall on same level"	"W18"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Unspecified fall"	"W19"	24	576412	4.2
+	"2012"	"2012"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	576412	3.5
+	"2012"	"2012"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	43	576412	7.5
+	"2012"	"2012"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	17	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	31	576412	5.4
+	"2012"	"2012"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	31	576412	5.4
+	"2012"	"2012"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	13	576412	Unreliable
+	"2012"	"2012"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	58	576412	10.1
+	"2013"	"2013"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	63	582658	10.8
+	"2013"	"2013"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	582658	4.8
+	"2013"	"2013"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	58	582658	10.0
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	67	582658	11.5
+	"2013"	"2013"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	229	582658	39.3
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	15	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	74	582658	12.7
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	19	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	42	582658	7.2
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	16	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	582658	4.3
+	"2013"	"2013"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	23	582658	3.9
+	"2013"	"2013"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	56	582658	9.6
+	"2013"	"2013"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	27	582658	4.6
+	"2013"	"2013"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	582658	3.9
+	"2013"	"2013"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	33	582658	5.7
+	"2013"	"2013"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	582658	5.1
+	"2013"	"2013"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	13	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Volume depletion"	"E86"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	16	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	171	582658	29.3
+	"2013"	"2013"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	13	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Parkinson disease"	"G20"	35	582658	6.0
+	"2013"	"2013"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	122	582658	20.9
+	"2013"	"2013"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	26	582658	4.5
+	"2013"	"2013"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	582658	4.3
+	"2013"	"2013"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	228	582658	39.1
+	"2013"	"2013"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	80	582658	13.7
+	"2013"	"2013"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	172	582658	29.5
+	"2013"	"2013"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	19	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	28	582658	4.8
+	"2013"	"2013"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	18	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	38	582658	6.5
+	"2013"	"2013"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	119	582658	20.4
+	"2013"	"2013"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	18	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	22	582658	3.8
+	"2013"	"2013"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	17	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	22	582658	3.8
+	"2013"	"2013"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	144	582658	24.7
+	"2013"	"2013"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	11	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	20	582658	3.4
+	"2013"	"2013"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	89	582658	15.3
+	"2013"	"2013"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	17	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	60	582658	10.3
+	"2013"	"2013"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	284	582658	48.7
+	"2013"	"2013"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	27	582658	4.6
+	"2013"	"2013"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	582658	3.9
+	"2013"	"2013"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	15	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	17	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	45	582658	7.7
+	"2013"	"2013"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	14	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	32	582658	5.5
+	"2013"	"2013"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	11	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	28	582658	4.8
+	"2013"	"2013"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	21	582658	3.6
+	"2013"	"2013"	"Wyoming"	"56"	"Senility"	"R54"	12	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	35	582658	6.0
+	"2013"	"2013"	"Wyoming"	"56"	"Other fall on same level"	"W18"	13	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Unspecified fall"	"W19"	28	582658	4.8
+	"2013"	"2013"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	30	582658	5.1
+	"2013"	"2013"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	39	582658	6.7
+	"2013"	"2013"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	11	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	18	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	13	582658	Unreliable
+	"2013"	"2013"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	58	582658	10.0
+	"2014"	"2014"	"Wyoming"	"56"	"Enterocolitis due to Clostridium difficile"	"A04.7"	12	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	57	584153	9.8
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	31	584153	5.3
+	"2014"	"2014"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	50	584153	8.6
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	20	584153	3.4
+	"2014"	"2014"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	68	584153	11.6
+	"2014"	"2014"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	215	584153	36.8
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	584153	3.6
+	"2014"	"2014"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	584153	8.9
+	"2014"	"2014"	"Wyoming"	"56"	"Endometrium - Malignant neoplasms"	"C54.1"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	25	584153	4.3
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	45	584153	7.7
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	26	584153	4.5
+	"2014"	"2014"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	29	584153	5.0
+	"2014"	"2014"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	30	584153	5.1
+	"2014"	"2014"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	51	584153	8.7
+	"2014"	"2014"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	18	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	584153	3.8
+	"2014"	"2014"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	584153	6.0
+	"2014"	"2014"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	14	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	206	584153	35.3
+	"2014"	"2014"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	17	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Parkinson disease"	"G20"	47	584153	8.0
+	"2014"	"2014"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	157	584153	26.9
+	"2014"	"2014"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	15	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	16	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	584153	4.6
+	"2014"	"2014"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	10	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	268	584153	45.9
+	"2014"	"2014"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	109	584153	18.7
+	"2014"	"2014"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	161	584153	27.6
+	"2014"	"2014"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	12	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	17	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	29	584153	5.0
+	"2014"	"2014"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	15	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	21	584153	3.6
+	"2014"	"2014"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	32	584153	5.5
+	"2014"	"2014"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	12	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	45	584153	7.7
+	"2014"	"2014"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	112	584153	19.2
+	"2014"	"2014"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	19	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Myocardial degeneration"	"I51.5"	10	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Cardiovascular disease, unspecified"	"I51.6"	14	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	22	584153	3.8
+	"2014"	"2014"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	584153	19.2
+	"2014"	"2014"	"Wyoming"	"56"	"Cerebrovascular disease, unspecified"	"I67.9"	15	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	22	584153	3.8
+	"2014"	"2014"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	93	584153	15.9
+	"2014"	"2014"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	56	584153	9.6
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	260	584153	44.5
+	"2014"	"2014"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	38	584153	6.5
+	"2014"	"2014"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	584153	4.1
+	"2014"	"2014"	"Wyoming"	"56"	"Interstitial pulmonary disease, unspecified"	"J84.9"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	10	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	16	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	34	584153	5.8
+	"2014"	"2014"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Hepatic failure, unspecified"	"K72.9"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	584153	4.3
+	"2014"	"2014"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	29	584153	5.0
+	"2014"	"2014"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	14	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	16	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	14	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	34	584153	5.8
+	"2014"	"2014"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	23	584153	3.9
+	"2014"	"2014"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	23	584153	3.9
+	"2014"	"2014"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	44	584153	7.5
+	"2014"	"2014"	"Wyoming"	"56"	"Other fall on same level"	"W18"	17	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Unspecified fall"	"W19"	17	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	30	584153	5.1
+	"2014"	"2014"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	45	584153	7.7
+	"2014"	"2014"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	16	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	30	584153	5.1
+	"2014"	"2014"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	584153	Unreliable
+	"2014"	"2014"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	36	584153	6.2
+	"2015"	"2015"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	42	586107	7.2
+	"2015"	"2015"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	35	586107	6.0
+	"2015"	"2015"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	70	586107	11.9
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	11	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	67	586107	11.4
+	"2015"	"2015"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	206	586107	35.1
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	71	586107	12.1
+	"2015"	"2015"	"Wyoming"	"56"	"Endometrium - Malignant neoplasms"	"C54.1"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	23	586107	3.9
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	39	586107	6.7
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	586107	3.6
+	"2015"	"2015"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	35	586107	6.0
+	"2015"	"2015"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	51	586107	8.7
+	"2015"	"2015"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	17	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	21	586107	3.6
+	"2015"	"2015"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	63	586107	10.7
+	"2015"	"2015"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	168	586107	28.7
+	"2015"	"2015"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	24	586107	4.1
+	"2015"	"2015"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	19	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	16	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Parkinson disease"	"G20"	41	586107	7.0
+	"2015"	"2015"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	143	586107	24.4
+	"2015"	"2015"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	25	586107	4.3
+	"2015"	"2015"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	586107	4.3
+	"2015"	"2015"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	15	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	267	586107	45.6
+	"2015"	"2015"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	112	586107	19.1
+	"2015"	"2015"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	180	586107	30.7
+	"2015"	"2015"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	20	586107	3.4
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	14	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	586107	3.4
+	"2015"	"2015"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	14	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	23	586107	3.9
+	"2015"	"2015"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	23	586107	3.9
+	"2015"	"2015"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	18	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Cardiac arrest, unspecified"	"I46.9"	12	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	44	586107	7.5
+	"2015"	"2015"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	121	586107	20.6
+	"2015"	"2015"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	12	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	25	586107	4.3
+	"2015"	"2015"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	586107	19.1
+	"2015"	"2015"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	72	586107	12.3
+	"2015"	"2015"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	15	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	54	586107	9.2
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	22	586107	3.8
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	261	586107	44.5
+	"2015"	"2015"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	21	586107	3.6
+	"2015"	"2015"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	586107	4.1
+	"2015"	"2015"	"Wyoming"	"56"	"Respiratory failure, unspecified"	"J96.9"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Other disorders of lung"	"J98.4"	15	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	15	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	41	586107	7.0
+	"2015"	"2015"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	17	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	16	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	33	586107	5.6
+	"2015"	"2015"	"Wyoming"	"56"	"Liver disease, unspecified"	"K76.9"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	24	586107	4.1
+	"2015"	"2015"	"Wyoming"	"56"	"Rheumatoid arthritis, unspecified"	"M06.9"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Acute renal failure, unspecified"	"N17.9"	11	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	10	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	22	586107	3.8
+	"2015"	"2015"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	33	586107	5.6
+	"2015"	"2015"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	23	586107	3.9
+	"2015"	"2015"	"Wyoming"	"56"	"Senility"	"R54"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	18	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	63	586107	10.7
+	"2015"	"2015"	"Wyoming"	"56"	"Other fall on same level"	"W18"	23	586107	3.9
+	"2015"	"2015"	"Wyoming"	"56"	"Unspecified fall"	"W19"	34	586107	5.8
+	"2015"	"2015"	"Wyoming"	"56"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	14	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	586107	4.6
+	"2015"	"2015"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	39	586107	6.7
+	"2015"	"2015"	"Wyoming"	"56"	"Accidental poisoning by and exposure to alcohol"	"X45"	14	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	13	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	12	586107	Unreliable
+	"2015"	"2015"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	35	586107	6.0
+	"2015"	"2015"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	38	586107	6.5
+	"2015"	"2015"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	50	586107	8.5
+	"2015"	"2015"	"Wyoming"	"56"	"Assault by other and unspecified firearm discharge"	"X95"	11	586107	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	38	585501	6.5
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	585501	3.9
+	"2016"	"2016"	"Wyoming"	"56"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	48	585501	8.2
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant neoplasm of rectum"	"C20"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	25	585501	4.3
+	"2016"	"2016"	"Wyoming"	"56"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	21	585501	3.6
+	"2016"	"2016"	"Wyoming"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	68	585501	11.6
+	"2016"	"2016"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	200	585501	34.2
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	23	585501	3.9
+	"2016"	"2016"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	71	585501	12.1
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	19	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	59	585501	10.1
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	585501	3.4
+	"2016"	"2016"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	585501	3.6
+	"2016"	"2016"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	38	585501	6.5
+	"2016"	"2016"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	59	585501	10.1
+	"2016"	"2016"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	585501	3.9
+	"2016"	"2016"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	18	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	21	585501	3.6
+	"2016"	"2016"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	34	585501	5.8
+	"2016"	"2016"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	33	585501	5.6
+	"2016"	"2016"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	167	585501	28.5
+	"2016"	"2016"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	23	585501	3.9
+	"2016"	"2016"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	21	585501	3.6
+	"2016"	"2016"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Parkinson disease"	"G20"	47	585501	8.0
+	"2016"	"2016"	"Wyoming"	"56"	"Alzheimer disease with late onset"	"G30.1"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	126	585501	21.5
+	"2016"	"2016"	"Wyoming"	"56"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	19	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	585501	4.4
+	"2016"	"2016"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	260	585501	44.4
+	"2016"	"2016"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	108	585501	18.4
+	"2016"	"2016"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	176	585501	30.1
+	"2016"	"2016"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	22	585501	3.8
+	"2016"	"2016"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	585501	3.4
+	"2016"	"2016"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	21	585501	3.6
+	"2016"	"2016"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	34	585501	5.8
+	"2016"	"2016"	"Wyoming"	"56"	"Endocarditis, valve unspecified"	"I38"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Other hypertrophic cardiomyopathy"	"I42.2"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	16	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	51	585501	8.7
+	"2016"	"2016"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	107	585501	18.3
+	"2016"	"2016"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	18	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Myocardial degeneration"	"I51.5"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Other ill-defined heart diseases"	"I51.8"	13	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	124	585501	21.2
+	"2016"	"2016"	"Wyoming"	"56"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	14	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	78	585501	13.3
+	"2016"	"2016"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	35	585501	6.0
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	16	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	248	585501	42.4
+	"2016"	"2016"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	43	585501	7.3
+	"2016"	"2016"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	15	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Perforation of intestine (nontraumatic)"	"K63.1"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	34	585501	5.8
+	"2016"	"2016"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	13	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	24	585501	4.1
+	"2016"	"2016"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	16	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	18	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	30	585501	5.1
+	"2016"	"2016"	"Wyoming"	"56"	"Senility"	"R54"	14	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	17	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	22	585501	3.8
+	"2016"	"2016"	"Wyoming"	"56"	"Other fall on same level"	"W18"	27	585501	4.6
+	"2016"	"2016"	"Wyoming"	"56"	"Unspecified fall"	"W19"	40	585501	6.8
+	"2016"	"2016"	"Wyoming"	"56"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	29	585501	5.0
+	"2016"	"2016"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	39	585501	6.7
+	"2016"	"2016"	"Wyoming"	"56"	"Accidental poisoning by and exposure to alcohol"	"X45"	14	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Exposure to unspecified factor causing fracture"	"X59.0"	13	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	10	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	29	585501	5.0
+	"2016"	"2016"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	38	585501	6.5
+	"2016"	"2016"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11	585501	Unreliable
+	"2016"	"2016"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	585501	6.5
+	"2017"	"2017"	"Wyoming"	"56"	"Enterocolitis due to Clostridium difficile"	"A04.7"	12	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Septicaemia, unspecified"	"A41.9"	43	579315	7.4
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic viral hepatitis C"	"B18.2"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	579315	4.0
+	"2017"	"2017"	"Wyoming"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	57	579315	9.8
+	"2017"	"2017"	"Wyoming"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	579315	4.1
+	"2017"	"2017"	"Wyoming"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	71	579315	12.3
+	"2017"	"2017"	"Wyoming"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	212	579315	36.6
+	"2017"	"2017"	"Wyoming"	"56"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	23	579315	4.0
+	"2017"	"2017"	"Wyoming"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	579315	10.2
+	"2017"	"2017"	"Wyoming"	"56"	"Malignant neoplasm of ovary"	"C56"	31	579315	5.4
+	"2017"	"2017"	"Wyoming"	"56"	"Malignant neoplasm of prostate"	"C61"	41	579315	7.1
+	"2017"	"2017"	"Wyoming"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	36	579315	6.2
+	"2017"	"2017"	"Wyoming"	"56"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	43	579315	7.4
+	"2017"	"2017"	"Wyoming"	"56"	"Malignant neoplasm without specification of site"	"C80"	62	579315	10.7
+	"2017"	"2017"	"Wyoming"	"56"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	19	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	23	579315	4.0
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	38	579315	6.6
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified severe protein-energy malnutrition"	"E43"	10	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Hyperlipidaemia, unspecified"	"E78.5"	17	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Vascular dementia, unspecified"	"F01.9"	20	579315	3.5
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified dementia"	"F03"	103	579315	17.8
+	"2017"	"2017"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	22	579315	3.8
+	"2017"	"2017"	"Wyoming"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	18	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Motor neuron disease"	"G12.2"	12	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Parkinson disease"	"G20"	48	579315	8.3
+	"2017"	"2017"	"Wyoming"	"56"	"Alzheimer disease with late onset"	"G30.1"	45	579315	7.8
+	"2017"	"2017"	"Wyoming"	"56"	"Alzheimer disease, unspecified"	"G30.9"	164	579315	28.3
+	"2017"	"2017"	"Wyoming"	"56"	"Multiple sclerosis"	"G35"	10	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Essential (primary) hypertension"	"I10"	19	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	579315	4.0
+	"2017"	"2017"	"Wyoming"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	579315	7.4
+	"2017"	"2017"	"Wyoming"	"56"	"Hypertensive renal disease with renal failure"	"I12.0"	10	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	261	579315	45.1
+	"2017"	"2017"	"Wyoming"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	76	579315	13.1
+	"2017"	"2017"	"Wyoming"	"56"	"Atherosclerotic heart disease"	"I25.1"	194	579315	33.5
+	"2017"	"2017"	"Wyoming"	"56"	"Ischaemic cardiomyopathy"	"I25.5"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	17	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Other secondary pulmonary hypertension"	"I27.2"	19	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Aortic (valve) stenosis"	"I35.0"	27	579315	4.7
+	"2017"	"2017"	"Wyoming"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	15	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Atrial fibrillation and flutter"	"I48"	61	579315	10.5
+	"2017"	"2017"	"Wyoming"	"56"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Congestive heart failure"	"I50.0"	106	579315	18.3
+	"2017"	"2017"	"Wyoming"	"56"	"Heart failure, unspecified"	"I50.9"	14	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Cerebral infarction, unspecified"	"I63.9"	14	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	101	579315	17.4
+	"2017"	"2017"	"Wyoming"	"56"	"Peripheral vascular disease, unspecified"	"I73.9"	19	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Pneumonia, unspecified"	"J18.9"	96	579315	16.6
+	"2017"	"2017"	"Wyoming"	"56"	"Emphysema, unspecified"	"J43.9"	16	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	65	579315	11.2
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	18	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	252	579315	43.5
+	"2017"	"2017"	"Wyoming"	"56"	"Pneumonitis due to food and vomit"	"J69.0"	57	579315	9.8
+	"2017"	"2017"	"Wyoming"	"56"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	579315	3.6
+	"2017"	"2017"	"Wyoming"	"56"	"Interstitial pulmonary disease, unspecified"	"J84.9"	13	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Other and unspecified intestinal obstruction"	"K56.6"	15	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	39	579315	6.7
+	"2017"	"2017"	"Wyoming"	"56"	"Alcoholic hepatic failure"	"K70.4"	14	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Alcoholic liver disease, unspecified"	"K70.9"	14	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	579315	4.3
+	"2017"	"2017"	"Wyoming"	"56"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	22	579315	3.8
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic kidney disease, stage 5"	"N18.5"	16	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Chronic renal failure, unspecified"	"N18.9"	17	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified renal failure"	"N19"	18	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Urinary tract infection, site not specified"	"N39.0"	25	579315	4.3
+	"2017"	"2017"	"Wyoming"	"56"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	15	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	37	579315	6.4
+	"2017"	"2017"	"Wyoming"	"56"	"Other fall on same level"	"W18"	19	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Unspecified fall"	"W19"	32	579315	5.5
+	"2017"	"2017"	"Wyoming"	"56"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	579315	3.6
+	"2017"	"2017"	"Wyoming"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	579315	3.5
+	"2017"	"2017"	"Wyoming"	"56"	"Accidental poisoning by and exposure to alcohol"	"X45"	15	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	36	579315	6.2
+	"2017"	"2017"	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	39	579315	6.7
+	"2017"	"2017"	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11	579315	Unreliable
+	"2017"	"2017"	"Wyoming"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	49	579315	8.5

@@ -1,0 +1,1681 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Underlying Cause of death"	"Underlying Cause of death Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	36	604683	6.0
+	"1999"	"1999"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	604683	4.6
+	"1999"	"1999"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	17	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	109	604683	18.0
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	17	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	79	604683	13.1
+	"1999"	"1999"	"Vermont"	"50"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	332	604683	54.9
+	"1999"	"1999"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	91	604683	15.0
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	24	604683	4.0
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	79	604683	13.1
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	24	604683	4.0
+	"1999"	"1999"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	32	604683	5.3
+	"1999"	"1999"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	604683	3.5
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	68	604683	11.2
+	"1999"	"1999"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	54	604683	8.9
+	"1999"	"1999"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	604683	4.0
+	"1999"	"1999"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	17	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	17	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	16	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	115	604683	19.0
+	"1999"	"1999"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Unspecified dementia"	"F03"	85	604683	14.1
+	"1999"	"1999"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	13	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Parkinson disease"	"G20"	50	604683	8.3
+	"1999"	"1999"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	126	604683	20.8
+	"1999"	"1999"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	21	604683	3.5
+	"1999"	"1999"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	11	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	370	604683	61.2
+	"1999"	"1999"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	204	604683	33.7
+	"1999"	"1999"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	384	604683	63.5
+	"1999"	"1999"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	22	604683	3.6
+	"1999"	"1999"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	25	604683	4.1
+	"1999"	"1999"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	11	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	25	604683	4.1
+	"1999"	"1999"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	19	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Cardiac arrest, unspecified"	"I46.9"	25	604683	4.1
+	"1999"	"1999"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	25	604683	4.1
+	"1999"	"1999"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	77	604683	12.7
+	"1999"	"1999"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	604683	5.1
+	"1999"	"1999"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	18	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	16	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	170	604683	28.1
+	"1999"	"1999"	"Vermont"	"50"	"Cerebrovascular disease, unspecified"	"I67.9"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	26	604683	4.3
+	"1999"	"1999"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	37	604683	6.1
+	"1999"	"1999"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	16	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	19	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	15	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	106	604683	17.5
+	"1999"	"1999"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	26	604683	4.3
+	"1999"	"1999"	"Vermont"	"50"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	12	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	244	604683	40.4
+	"1999"	"1999"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	28	604683	4.6
+	"1999"	"1999"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	26	604683	4.3
+	"1999"	"1999"	"Vermont"	"50"	"Acute vascular disorders of intestine"	"K55.0"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	11	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Hepatic failure, unspecified"	"K72.9"	12	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	29	604683	4.8
+	"1999"	"1999"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	24	604683	4.0
+	"1999"	"1999"	"Vermont"	"50"	"Acute renal failure, unspecified"	"N17.9"	12	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	10	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	23	604683	3.8
+	"1999"	"1999"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	27	604683	4.5
+	"1999"	"1999"	"Vermont"	"50"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	11	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26	604683	4.3
+	"1999"	"1999"	"Vermont"	"50"	"Unspecified fall"	"W19"	16	604683	Unreliable
+	"1999"	"1999"	"Vermont"	"50"	"Exposure to unspecified factor"	"X59"	33	604683	5.5
+	"1999"	"1999"	"Vermont"	"50"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	29	604683	4.8
+	"2000"	"2000"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	31	608827	5.1
+	"2000"	"2000"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	608827	4.3
+	"2000"	"2000"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	608827	3.3
+	"2000"	"2000"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	102	608827	16.8
+	"2000"	"2000"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	21	608827	3.4
+	"2000"	"2000"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	74	608827	12.2
+	"2000"	"2000"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	329	608827	54.0
+	"2000"	"2000"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	22	608827	3.6
+	"2000"	"2000"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	106	608827	17.4
+	"2000"	"2000"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	12	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	24	608827	3.9
+	"2000"	"2000"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	54	608827	8.9
+	"2000"	"2000"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	34	608827	5.6
+	"2000"	"2000"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	32	608827	5.3
+	"2000"	"2000"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	608827	3.9
+	"2000"	"2000"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	80	608827	13.1
+	"2000"	"2000"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	58	608827	9.5
+	"2000"	"2000"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	16	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	12	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	30	608827	4.9
+	"2000"	"2000"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	86	608827	14.1
+	"2000"	"2000"	"Vermont"	"50"	"Volume depletion"	"E86"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Unspecified dementia"	"F03"	100	608827	16.4
+	"2000"	"2000"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	16	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Parkinson disease"	"G20"	34	608827	5.6
+	"2000"	"2000"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	134	608827	22.0
+	"2000"	"2000"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	31	608827	5.1
+	"2000"	"2000"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	608827	3.4
+	"2000"	"2000"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	10	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	381	608827	62.6
+	"2000"	"2000"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	224	608827	36.8
+	"2000"	"2000"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	403	608827	66.2
+	"2000"	"2000"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	25	608827	4.1
+	"2000"	"2000"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	14	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Primary pulmonary hypertension"	"I27.0"	10	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	46	608827	7.6
+	"2000"	"2000"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	20	608827	3.3
+	"2000"	"2000"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	14	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Cardiac arrest, unspecified"	"I46.9"	19	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	22	608827	3.6
+	"2000"	"2000"	"Vermont"	"50"	"Cardiac arrhythmia, unspecified"	"I49.9"	14	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	95	608827	15.6
+	"2000"	"2000"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	14	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	38	608827	6.2
+	"2000"	"2000"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	24	608827	3.9
+	"2000"	"2000"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	166	608827	27.3
+	"2000"	"2000"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	22	608827	3.6
+	"2000"	"2000"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	608827	5.1
+	"2000"	"2000"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	19	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	22	608827	3.6
+	"2000"	"2000"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	16	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	98	608827	16.1
+	"2000"	"2000"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	25	608827	4.1
+	"2000"	"2000"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	259	608827	42.5
+	"2000"	"2000"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	35	608827	5.7
+	"2000"	"2000"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	608827	3.8
+	"2000"	"2000"	"Vermont"	"50"	"Acute vascular disorders of intestine"	"K55.0"	10	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	14	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	21	608827	3.4
+	"2000"	"2000"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	27	608827	4.4
+	"2000"	"2000"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	35	608827	5.7
+	"2000"	"2000"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	23	608827	3.8
+	"2000"	"2000"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	32	608827	5.3
+	"2000"	"2000"	"Vermont"	"50"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Exposure to uncontrolled fire in building or structure"	"X00"	17	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Exposure to unspecified factor"	"X59"	27	608827	4.4
+	"2000"	"2000"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	608827	Unreliable
+	"2000"	"2000"	"Vermont"	"50"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	32	608827	5.3
+	"2001"	"2001"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	41	612223	6.7
+	"2001"	"2001"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	612223	5.4
+	"2001"	"2001"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	27	612223	4.4
+	"2001"	"2001"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	99	612223	16.2
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	24	612223	3.9
+	"2001"	"2001"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	44	612223	7.2
+	"2001"	"2001"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	345	612223	56.4
+	"2001"	"2001"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	20	612223	3.3
+	"2001"	"2001"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	108	612223	17.6
+	"2001"	"2001"	"Vermont"	"50"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	16	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	33	612223	5.4
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	73	612223	11.9
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	612223	3.3
+	"2001"	"2001"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	32	612223	5.2
+	"2001"	"2001"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	612223	3.9
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	66	612223	10.8
+	"2001"	"2001"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	42	612223	6.9
+	"2001"	"2001"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	21	612223	3.4
+	"2001"	"2001"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	16	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	27	612223	4.4
+	"2001"	"2001"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	19	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	28	612223	4.6
+	"2001"	"2001"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	14	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	76	612223	12.4
+	"2001"	"2001"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Volume depletion"	"E86"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Unspecified dementia"	"F03"	111	612223	18.1
+	"2001"	"2001"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	21	612223	3.4
+	"2001"	"2001"	"Vermont"	"50"	"Parkinson disease"	"G20"	64	612223	10.5
+	"2001"	"2001"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	149	612223	24.3
+	"2001"	"2001"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	14	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	19	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	13	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	363	612223	59.3
+	"2001"	"2001"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	200	612223	32.7
+	"2001"	"2001"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	397	612223	64.8
+	"2001"	"2001"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	27	612223	4.4
+	"2001"	"2001"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	22	612223	3.6
+	"2001"	"2001"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Primary pulmonary hypertension"	"I27.0"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	44	612223	7.2
+	"2001"	"2001"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	22	612223	3.6
+	"2001"	"2001"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	24	612223	3.9
+	"2001"	"2001"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	20	612223	3.3
+	"2001"	"2001"	"Vermont"	"50"	"Cardiac arrest, unspecified"	"I46.9"	21	612223	3.4
+	"2001"	"2001"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	25	612223	4.1
+	"2001"	"2001"	"Vermont"	"50"	"Cardiac arrhythmia, unspecified"	"I49.9"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	103	612223	16.8
+	"2001"	"2001"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	26	612223	4.2
+	"2001"	"2001"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	25	612223	4.1
+	"2001"	"2001"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	160	612223	26.1
+	"2001"	"2001"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	29	612223	4.7
+	"2001"	"2001"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	16	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	17	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	23	612223	3.8
+	"2001"	"2001"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	19	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	114	612223	18.6
+	"2001"	"2001"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	27	612223	4.4
+	"2001"	"2001"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	262	612223	42.8
+	"2001"	"2001"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	37	612223	6.0
+	"2001"	"2001"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	25	612223	4.1
+	"2001"	"2001"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Hepatic failure, unspecified"	"K72.9"	11	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	23	612223	3.8
+	"2001"	"2001"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	23	612223	3.8
+	"2001"	"2001"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	46	612223	7.5
+	"2001"	"2001"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	20	612223	3.3
+	"2001"	"2001"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26	612223	4.2
+	"2001"	"2001"	"Vermont"	"50"	"Unspecified fall"	"W19"	15	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Exposure to unspecified factor"	"X59"	38	612223	6.2
+	"2001"	"2001"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	612223	Unreliable
+	"2001"	"2001"	"Vermont"	"50"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	25	612223	4.1
+	"2002"	"2002"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	40	615442	6.5
+	"2002"	"2002"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	37	615442	6.0
+	"2002"	"2002"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	18	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	118	615442	19.2
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	17	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	55	615442	8.9
+	"2002"	"2002"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	314	615442	51.0
+	"2002"	"2002"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	22	615442	3.6
+	"2002"	"2002"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	82	615442	13.3
+	"2002"	"2002"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	13	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm of uterus, part unspecified"	"C55"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	36	615442	5.8
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	62	615442	10.1
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	615442	3.4
+	"2002"	"2002"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	615442	6.8
+	"2002"	"2002"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	28	615442	4.5
+	"2002"	"2002"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	69	615442	11.2
+	"2002"	"2002"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	44	615442	7.1
+	"2002"	"2002"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	27	615442	4.4
+	"2002"	"2002"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	40	615442	6.5
+	"2002"	"2002"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	16	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	93	615442	15.1
+	"2002"	"2002"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	15	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Unspecified dementia"	"F03"	107	615442	17.4
+	"2002"	"2002"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	15	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Parkinson disease"	"G20"	36	615442	5.8
+	"2002"	"2002"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	162	615442	26.3
+	"2002"	"2002"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	19	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	615442	3.6
+	"2002"	"2002"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	615442	6.2
+	"2002"	"2002"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	18	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	347	615442	56.4
+	"2002"	"2002"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	252	615442	40.9
+	"2002"	"2002"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	328	615442	53.3
+	"2002"	"2002"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	22	615442	3.6
+	"2002"	"2002"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	615442	3.7
+	"2002"	"2002"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Primary pulmonary hypertension"	"I27.0"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Mitral (valve) insufficiency"	"I34.0"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	33	615442	5.4
+	"2002"	"2002"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	30	615442	4.9
+	"2002"	"2002"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	33	615442	5.4
+	"2002"	"2002"	"Vermont"	"50"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	66	615442	10.7
+	"2002"	"2002"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	17	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	12	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	27	615442	4.4
+	"2002"	"2002"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	169	615442	27.5
+	"2002"	"2002"	"Vermont"	"50"	"Cerebrovascular disease, unspecified"	"I67.9"	10	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	34	615442	5.5
+	"2002"	"2002"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	615442	5.0
+	"2002"	"2002"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	31	615442	5.0
+	"2002"	"2002"	"Vermont"	"50"	"Dissection of aorta [any part]"	"I71.0"	12	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	19	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	10	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	85	615442	13.8
+	"2002"	"2002"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	20	615442	3.2
+	"2002"	"2002"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	233	615442	37.9
+	"2002"	"2002"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	34	615442	5.5
+	"2002"	"2002"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	34	615442	5.5
+	"2002"	"2002"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	34	615442	5.5
+	"2002"	"2002"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Acute renal failure, unspecified"	"N17.9"	10	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	30	615442	4.9
+	"2002"	"2002"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	22	615442	3.6
+	"2002"	"2002"	"Vermont"	"50"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	14	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26	615442	4.2
+	"2002"	"2002"	"Vermont"	"50"	"Other fall on same level"	"W18"	29	615442	4.7
+	"2002"	"2002"	"Vermont"	"50"	"Unspecified fall"	"W19"	18	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	19	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	15	615442	Unreliable
+	"2002"	"2002"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	30	615442	4.9
+	"2003"	"2003"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	30	617858	4.9
+	"2003"	"2003"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	34	617858	5.5
+	"2003"	"2003"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	24	617858	3.9
+	"2003"	"2003"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	92	617858	14.9
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	19	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	58	617858	9.4
+	"2003"	"2003"	"Vermont"	"50"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	315	617858	51.0
+	"2003"	"2003"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	98	617858	15.9
+	"2003"	"2003"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	30	617858	4.9
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	77	617858	12.5
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	25	617858	4.0
+	"2003"	"2003"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	32	617858	5.2
+	"2003"	"2003"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	26	617858	4.2
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	71	617858	11.5
+	"2003"	"2003"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	39	617858	6.3
+	"2003"	"2003"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	25	617858	4.0
+	"2003"	"2003"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	40	617858	6.5
+	"2003"	"2003"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	12	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	107	617858	17.3
+	"2003"	"2003"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	13	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	12	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Volume depletion"	"E86"	16	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Unspecified dementia"	"F03"	135	617858	21.8
+	"2003"	"2003"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	23	617858	3.7
+	"2003"	"2003"	"Vermont"	"50"	"Parkinson disease"	"G20"	51	617858	8.3
+	"2003"	"2003"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	167	617858	27.0
+	"2003"	"2003"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	15	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	12	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	617858	3.6
+	"2003"	"2003"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	39	617858	6.3
+	"2003"	"2003"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	15	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	291	617858	47.1
+	"2003"	"2003"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	258	617858	41.8
+	"2003"	"2003"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	355	617858	57.5
+	"2003"	"2003"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	22	617858	3.6
+	"2003"	"2003"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Primary pulmonary hypertension"	"I27.0"	13	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Pulmonary heart disease, unspecified"	"I27.9"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	32	617858	5.2
+	"2003"	"2003"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	34	617858	5.5
+	"2003"	"2003"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	19	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	38	617858	6.2
+	"2003"	"2003"	"Vermont"	"50"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	63	617858	10.2
+	"2003"	"2003"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	12	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	617858	3.4
+	"2003"	"2003"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	17	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	140	617858	22.7
+	"2003"	"2003"	"Vermont"	"50"	"Cerebrovascular disease, unspecified"	"I67.9"	20	617858	3.2
+	"2003"	"2003"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	34	617858	5.5
+	"2003"	"2003"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	29	617858	4.7
+	"2003"	"2003"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	16	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	14	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	12	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	100	617858	16.2
+	"2003"	"2003"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	19	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	16	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	250	617858	40.5
+	"2003"	"2003"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	23	617858	3.7
+	"2003"	"2003"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	617858	3.7
+	"2003"	"2003"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	26	617858	4.2
+	"2003"	"2003"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Acute pancreatitis"	"K85"	10	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	20	617858	3.2
+	"2003"	"2003"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	14	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	23	617858	3.7
+	"2003"	"2003"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	27	617858	4.4
+	"2003"	"2003"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Other fall on same level"	"W18"	32	617858	5.2
+	"2003"	"2003"	"Vermont"	"50"	"Unspecified fall"	"W19"	15	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	617858	4.4
+	"2003"	"2003"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	23	617858	3.7
+	"2003"	"2003"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	17	617858	Unreliable
+	"2003"	"2003"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15	617858	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	22	619920	3.5
+	"2004"	"2004"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	28	619920	4.5
+	"2004"	"2004"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	619920	4.0
+	"2004"	"2004"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	90	619920	14.5
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	20	619920	3.2
+	"2004"	"2004"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	69	619920	11.1
+	"2004"	"2004"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	319	619920	51.5
+	"2004"	"2004"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	16	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	12	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	98	619920	15.8
+	"2004"	"2004"	"Vermont"	"50"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	12	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	15	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	32	619920	5.2
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	77	619920	12.4
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	33	619920	5.3
+	"2004"	"2004"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	31	619920	5.0
+	"2004"	"2004"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	22	619920	3.5
+	"2004"	"2004"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	61	619920	9.8
+	"2004"	"2004"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	619920	5.0
+	"2004"	"2004"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	619920	3.5
+	"2004"	"2004"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	17	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	95	619920	15.3
+	"2004"	"2004"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	16	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	14	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Unspecified dementia"	"F03"	123	619920	19.8
+	"2004"	"2004"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	24	619920	3.9
+	"2004"	"2004"	"Vermont"	"50"	"Parkinson disease"	"G20"	52	619920	8.4
+	"2004"	"2004"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	170	619920	27.4
+	"2004"	"2004"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	20	619920	3.2
+	"2004"	"2004"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	24	619920	3.9
+	"2004"	"2004"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	40	619920	6.5
+	"2004"	"2004"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	14	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	280	619920	45.2
+	"2004"	"2004"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	251	619920	40.5
+	"2004"	"2004"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	309	619920	49.8
+	"2004"	"2004"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	27	619920	4.4
+	"2004"	"2004"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	11	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	44	619920	7.1
+	"2004"	"2004"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	16	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	22	619920	3.5
+	"2004"	"2004"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	27	619920	4.4
+	"2004"	"2004"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	101	619920	16.3
+	"2004"	"2004"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	619920	3.9
+	"2004"	"2004"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	15	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	159	619920	25.6
+	"2004"	"2004"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	23	619920	3.7
+	"2004"	"2004"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	28	619920	4.5
+	"2004"	"2004"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	18	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	69	619920	11.1
+	"2004"	"2004"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	32	619920	5.2
+	"2004"	"2004"	"Vermont"	"50"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	237	619920	38.2
+	"2004"	"2004"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	31	619920	5.0
+	"2004"	"2004"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	35	619920	5.6
+	"2004"	"2004"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	25	619920	4.0
+	"2004"	"2004"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Arthrosis, unspecified"	"M19.9"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	14	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	24	619920	3.9
+	"2004"	"2004"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	30	619920	4.8
+	"2004"	"2004"	"Vermont"	"50"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	10	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Other fall on same level"	"W18"	47	619920	7.6
+	"2004"	"2004"	"Vermont"	"50"	"Unspecified fall"	"W19"	24	619920	3.9
+	"2004"	"2004"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	619920	3.4
+	"2004"	"2004"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	619920	Unreliable
+	"2004"	"2004"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	619920	3.5
+	"2004"	"2004"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	36	619920	5.8
+	"2004"	"2004"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	619920	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	24	621215	3.9
+	"2005"	"2005"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	21	621215	3.4
+	"2005"	"2005"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	621215	4.7
+	"2005"	"2005"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	13	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	101	621215	16.3
+	"2005"	"2005"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	76	621215	12.2
+	"2005"	"2005"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	328	621215	52.8
+	"2005"	"2005"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	23	621215	3.7
+	"2005"	"2005"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	81	621215	13.0
+	"2005"	"2005"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	10	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	25	621215	4.0
+	"2005"	"2005"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	60	621215	9.7
+	"2005"	"2005"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	32	621215	5.2
+	"2005"	"2005"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	44	621215	7.1
+	"2005"	"2005"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	28	621215	4.5
+	"2005"	"2005"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	66	621215	10.6
+	"2005"	"2005"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	621215	5.0
+	"2005"	"2005"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	621215	3.7
+	"2005"	"2005"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	621215	3.9
+	"2005"	"2005"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	39	621215	6.3
+	"2005"	"2005"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	92	621215	14.8
+	"2005"	"2005"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Unspecified dementia"	"F03"	124	621215	20.0
+	"2005"	"2005"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	21	621215	3.4
+	"2005"	"2005"	"Vermont"	"50"	"Parkinson disease"	"G20"	57	621215	9.2
+	"2005"	"2005"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	181	621215	29.1
+	"2005"	"2005"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	12	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	25	621215	4.0
+	"2005"	"2005"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	621215	6.0
+	"2005"	"2005"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	232	621215	37.3
+	"2005"	"2005"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	249	621215	40.1
+	"2005"	"2005"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	322	621215	51.8
+	"2005"	"2005"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	34	621215	5.5
+	"2005"	"2005"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	20	621215	3.2
+	"2005"	"2005"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Pulmonary heart disease, unspecified"	"I27.9"	10	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	38	621215	6.1
+	"2005"	"2005"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	13	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	13	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	24	621215	3.9
+	"2005"	"2005"	"Vermont"	"50"	"Sudden cardiac death, so described"	"I46.1"	10	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	33	621215	5.3
+	"2005"	"2005"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	76	621215	12.2
+	"2005"	"2005"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	621215	3.9
+	"2005"	"2005"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	142	621215	22.9
+	"2005"	"2005"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	20	621215	3.2
+	"2005"	"2005"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	19	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	27	621215	4.3
+	"2005"	"2005"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	72	621215	11.6
+	"2005"	"2005"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	45	621215	7.2
+	"2005"	"2005"	"Vermont"	"50"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	18	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	298	621215	48.0
+	"2005"	"2005"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	38	621215	6.1
+	"2005"	"2005"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	41	621215	6.6
+	"2005"	"2005"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	15	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	31	621215	5.0
+	"2005"	"2005"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Rheumatoid arthritis, unspecified"	"M06.9"	13	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	15	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	21	621215	3.4
+	"2005"	"2005"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	28	621215	4.5
+	"2005"	"2005"	"Vermont"	"50"	"Senility"	"R54"	10	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	11	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Other fall on same level"	"W18"	44	621215	7.1
+	"2005"	"2005"	"Vermont"	"50"	"Unspecified fall"	"W19"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Exposure to unspecified factor"	"X59"	17	621215	Unreliable
+	"2005"	"2005"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	621215	3.2
+	"2005"	"2005"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	20	621215	3.2
+	"2006"	"2006"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	15	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	18	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	622892	5.3
+	"2006"	"2006"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	95	622892	15.3
+	"2006"	"2006"	"Vermont"	"50"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	58	622892	9.3
+	"2006"	"2006"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	344	622892	55.2
+	"2006"	"2006"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	622892	3.4
+	"2006"	"2006"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	94	622892	15.1
+	"2006"	"2006"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	29	622892	4.7
+	"2006"	"2006"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	56	622892	9.0
+	"2006"	"2006"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	622892	3.2
+	"2006"	"2006"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	40	622892	6.4
+	"2006"	"2006"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	29	622892	4.7
+	"2006"	"2006"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	74	622892	11.9
+	"2006"	"2006"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	622892	5.0
+	"2006"	"2006"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	21	622892	3.4
+	"2006"	"2006"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	30	622892	4.8
+	"2006"	"2006"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	34	622892	5.5
+	"2006"	"2006"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	15	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	84	622892	13.5
+	"2006"	"2006"	"Vermont"	"50"	"Other obesity"	"E66.8"	16	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	23	622892	3.7
+	"2006"	"2006"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	23	622892	3.7
+	"2006"	"2006"	"Vermont"	"50"	"Unspecified dementia"	"F03"	166	622892	26.6
+	"2006"	"2006"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Parkinson disease"	"G20"	50	622892	8.0
+	"2006"	"2006"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	184	622892	29.5
+	"2006"	"2006"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	19	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	622892	6.9
+	"2006"	"2006"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	12	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	251	622892	40.3
+	"2006"	"2006"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	269	622892	43.2
+	"2006"	"2006"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	306	622892	49.1
+	"2006"	"2006"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	22	622892	3.5
+	"2006"	"2006"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	21	622892	3.4
+	"2006"	"2006"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	10	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	51	622892	8.2
+	"2006"	"2006"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	12	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	27	622892	4.3
+	"2006"	"2006"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	39	622892	6.3
+	"2006"	"2006"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	67	622892	10.8
+	"2006"	"2006"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	622892	5.0
+	"2006"	"2006"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	136	622892	21.8
+	"2006"	"2006"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	24	622892	3.9
+	"2006"	"2006"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	622892	4.0
+	"2006"	"2006"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	15	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	54	622892	8.7
+	"2006"	"2006"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	33	622892	5.3
+	"2006"	"2006"	"Vermont"	"50"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	259	622892	41.6
+	"2006"	"2006"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	37	622892	5.9
+	"2006"	"2006"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	622892	3.9
+	"2006"	"2006"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	20	622892	3.2
+	"2006"	"2006"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Acute renal failure, unspecified"	"N17.9"	10	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	11	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	23	622892	3.7
+	"2006"	"2006"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	27	622892	4.3
+	"2006"	"2006"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	11	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Other fall on same level"	"W18"	55	622892	8.8
+	"2006"	"2006"	"Vermont"	"50"	"Unspecified fall"	"W19"	16	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	37	622892	5.9
+	"2006"	"2006"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Exposure to unspecified factor"	"X59"	14	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	622892	Unreliable
+	"2006"	"2006"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	26	622892	4.2
+	"2006"	"2006"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	14	622892	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	15	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	27	623481	4.3
+	"2007"	"2007"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	12	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	39	623481	6.3
+	"2007"	"2007"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	623481	3.4
+	"2007"	"2007"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	86	623481	13.8
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm of rectosigmoid junction"	"C19"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	22	623481	3.5
+	"2007"	"2007"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	74	623481	11.9
+	"2007"	"2007"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	397	623481	63.7
+	"2007"	"2007"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	20	623481	3.2
+	"2007"	"2007"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	99	623481	15.9
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	36	623481	5.8
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	56	623481	9.0
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	28	623481	4.5
+	"2007"	"2007"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	41	623481	6.6
+	"2007"	"2007"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	31	623481	5.0
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	70	623481	11.2
+	"2007"	"2007"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	33	623481	5.3
+	"2007"	"2007"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	623481	3.7
+	"2007"	"2007"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	23	623481	3.7
+	"2007"	"2007"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	37	623481	5.9
+	"2007"	"2007"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	16	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	80	623481	12.8
+	"2007"	"2007"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	13	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	20	623481	3.2
+	"2007"	"2007"	"Vermont"	"50"	"Unspecified dementia"	"F03"	181	623481	29.0
+	"2007"	"2007"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	18	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Parkinson disease"	"G20"	55	623481	8.8
+	"2007"	"2007"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	201	623481	32.2
+	"2007"	"2007"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	15	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	23	623481	3.7
+	"2007"	"2007"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	623481	3.7
+	"2007"	"2007"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	623481	5.8
+	"2007"	"2007"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	17	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	210	623481	33.7
+	"2007"	"2007"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	274	623481	43.9
+	"2007"	"2007"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	299	623481	48.0
+	"2007"	"2007"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	16	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	13	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	36	623481	5.8
+	"2007"	"2007"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	15	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	20	623481	3.2
+	"2007"	"2007"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	43	623481	6.9
+	"2007"	"2007"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	43	623481	6.9
+	"2007"	"2007"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	137	623481	22.0
+	"2007"	"2007"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	33	623481	5.3
+	"2007"	"2007"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	32	623481	5.1
+	"2007"	"2007"	"Vermont"	"50"	"Dissection of aorta [any part]"	"I71.0"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	17	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	18	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	60	623481	9.6
+	"2007"	"2007"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	32	623481	5.1
+	"2007"	"2007"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	12	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	254	623481	40.7
+	"2007"	"2007"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	32	623481	5.1
+	"2007"	"2007"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	28	623481	4.5
+	"2007"	"2007"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	31	623481	5.0
+	"2007"	"2007"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Acute renal failure, unspecified"	"N17.9"	14	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	19	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	20	623481	3.2
+	"2007"	"2007"	"Vermont"	"50"	"Senility"	"R54"	11	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	12	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Other fall on same level"	"W18"	83	623481	13.3
+	"2007"	"2007"	"Vermont"	"50"	"Unspecified fall"	"W19"	16	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	623481	4.3
+	"2007"	"2007"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	26	623481	4.2
+	"2007"	"2007"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	15	623481	Unreliable
+	"2007"	"2007"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	22	623481	3.5
+	"2008"	"2008"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	24	624151	3.8
+	"2008"	"2008"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	18	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	37	624151	5.9
+	"2008"	"2008"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	80	624151	12.8
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	22	624151	3.5
+	"2008"	"2008"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	624151	3.7
+	"2008"	"2008"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	93	624151	14.9
+	"2008"	"2008"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	376	624151	60.2
+	"2008"	"2008"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	27	624151	4.3
+	"2008"	"2008"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	68	624151	10.9
+	"2008"	"2008"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	10	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm of uterus, part unspecified"	"C55"	12	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	25	624151	4.0
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	69	624151	11.1
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	29	624151	4.6
+	"2008"	"2008"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	624151	6.7
+	"2008"	"2008"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	29	624151	4.6
+	"2008"	"2008"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	70	624151	11.2
+	"2008"	"2008"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	29	624151	4.6
+	"2008"	"2008"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	23	624151	3.7
+	"2008"	"2008"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	13	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	36	624151	5.8
+	"2008"	"2008"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	12	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	75	624151	12.0
+	"2008"	"2008"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	19	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	12	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	27	624151	4.3
+	"2008"	"2008"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	15	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Unspecified dementia"	"F03"	205	624151	32.8
+	"2008"	"2008"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	15	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	25	624151	4.0
+	"2008"	"2008"	"Vermont"	"50"	"Parkinson disease"	"G20"	53	624151	8.5
+	"2008"	"2008"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	216	624151	34.6
+	"2008"	"2008"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	16	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	25	624151	4.0
+	"2008"	"2008"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	624151	4.8
+	"2008"	"2008"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	19	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	262	624151	42.0
+	"2008"	"2008"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	266	624151	42.6
+	"2008"	"2008"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	286	624151	45.8
+	"2008"	"2008"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	19	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	21	624151	3.4
+	"2008"	"2008"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	11	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Pulmonary heart disease, unspecified"	"I27.9"	10	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	53	624151	8.5
+	"2008"	"2008"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	10	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	11	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	28	624151	4.5
+	"2008"	"2008"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	39	624151	6.2
+	"2008"	"2008"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	39	624151	6.2
+	"2008"	"2008"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	12	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	148	624151	23.7
+	"2008"	"2008"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	26	624151	4.2
+	"2008"	"2008"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	28	624151	4.5
+	"2008"	"2008"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	11	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	56	624151	9.0
+	"2008"	"2008"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	33	624151	5.3
+	"2008"	"2008"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	88	624151	14.1
+	"2008"	"2008"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	196	624151	31.4
+	"2008"	"2008"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	30	624151	4.8
+	"2008"	"2008"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	624151	3.8
+	"2008"	"2008"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	14	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	16	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	24	624151	3.8
+	"2008"	"2008"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	624151	3.4
+	"2008"	"2008"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	11	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	14	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Senility"	"R54"	18	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26	624151	4.2
+	"2008"	"2008"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	12	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Other fall on same level"	"W18"	69	624151	11.1
+	"2008"	"2008"	"Vermont"	"50"	"Unspecified fall"	"W19"	22	624151	3.5
+	"2008"	"2008"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	36	624151	5.8
+	"2008"	"2008"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	624151	Unreliable
+	"2008"	"2008"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	26	624151	4.2
+	"2008"	"2008"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	24	624151	3.8
+	"2008"	"2008"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	624151	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	20	624817	3.2
+	"2009"	"2009"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	28	624817	4.5
+	"2009"	"2009"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	624817	3.5
+	"2009"	"2009"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	13	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	72	624817	11.5
+	"2009"	"2009"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	21	624817	3.4
+	"2009"	"2009"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	29	624817	4.6
+	"2009"	"2009"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	18	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	97	624817	15.5
+	"2009"	"2009"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	373	624817	59.7
+	"2009"	"2009"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	24	624817	3.8
+	"2009"	"2009"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	78	624817	12.5
+	"2009"	"2009"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	21	624817	3.4
+	"2009"	"2009"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	54	624817	8.6
+	"2009"	"2009"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	26	624817	4.2
+	"2009"	"2009"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	43	624817	6.9
+	"2009"	"2009"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	624817	3.8
+	"2009"	"2009"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	48	624817	7.7
+	"2009"	"2009"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	624817	5.0
+	"2009"	"2009"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	26	624817	4.2
+	"2009"	"2009"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	22	624817	3.5
+	"2009"	"2009"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	14	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	26	624817	4.2
+	"2009"	"2009"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	91	624817	14.6
+	"2009"	"2009"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	20	624817	3.2
+	"2009"	"2009"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	20	624817	3.2
+	"2009"	"2009"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	16	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Unspecified dementia"	"F03"	211	624817	33.8
+	"2009"	"2009"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	26	624817	4.2
+	"2009"	"2009"	"Vermont"	"50"	"Parkinson disease"	"G20"	65	624817	10.4
+	"2009"	"2009"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	188	624817	30.1
+	"2009"	"2009"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	22	624817	3.5
+	"2009"	"2009"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	624817	4.2
+	"2009"	"2009"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	624817	5.9
+	"2009"	"2009"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	17	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	227	624817	36.3
+	"2009"	"2009"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	240	624817	38.4
+	"2009"	"2009"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	274	624817	43.9
+	"2009"	"2009"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	14	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	14	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	15	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Pulmonary heart disease, unspecified"	"I27.9"	18	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	59	624817	9.4
+	"2009"	"2009"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Dilated cardiomyopathy"	"I42.0"	16	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	19	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	41	624817	6.6
+	"2009"	"2009"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	51	624817	8.2
+	"2009"	"2009"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	11	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	119	624817	19.0
+	"2009"	"2009"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	15	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	41	624817	6.6
+	"2009"	"2009"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	41	624817	6.6
+	"2009"	"2009"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	79	624817	12.6
+	"2009"	"2009"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	217	624817	34.7
+	"2009"	"2009"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	17	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	624817	4.3
+	"2009"	"2009"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	14	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	27	624817	4.3
+	"2009"	"2009"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	624817	3.7
+	"2009"	"2009"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	13	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	15	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	12	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Senility"	"R54"	15	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	23	624817	3.7
+	"2009"	"2009"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Other fall on same level"	"W18"	75	624817	12.0
+	"2009"	"2009"	"Vermont"	"50"	"Unspecified fall"	"W19"	22	624817	3.5
+	"2009"	"2009"	"Vermont"	"50"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	24	624817	3.8
+	"2009"	"2009"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	624817	Unreliable
+	"2009"	"2009"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	27	624817	4.3
+	"2009"	"2009"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	26	624817	4.2
+	"2010"	"2010"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	25	625741	4.0
+	"2010"	"2010"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	20	625741	3.2
+	"2010"	"2010"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	45	625741	7.2
+	"2010"	"2010"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	14	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	85	625741	13.6
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	28	625741	4.5
+	"2010"	"2010"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	34	625741	5.4
+	"2010"	"2010"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	75	625741	12.0
+	"2010"	"2010"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	400	625741	63.9
+	"2010"	"2010"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	25	625741	4.0
+	"2010"	"2010"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	12	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	83	625741	13.3
+	"2010"	"2010"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	15	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	39	625741	6.2
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	72	625741	11.5
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	29	625741	4.6
+	"2010"	"2010"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	36	625741	5.8
+	"2010"	"2010"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	44	625741	7.0
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	64	625741	10.2
+	"2010"	"2010"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	26	625741	4.2
+	"2010"	"2010"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	14	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24	625741	3.8
+	"2010"	"2010"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	12	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	81	625741	12.9
+	"2010"	"2010"	"Vermont"	"50"	"Other obesity"	"E66.8"	11	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	15	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	16	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	16	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Unspecified dementia"	"F03"	238	625741	38.0
+	"2010"	"2010"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	25	625741	4.0
+	"2010"	"2010"	"Vermont"	"50"	"Parkinson disease"	"G20"	70	625741	11.2
+	"2010"	"2010"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	230	625741	36.8
+	"2010"	"2010"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	15	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	22	625741	3.5
+	"2010"	"2010"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	31	625741	5.0
+	"2010"	"2010"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	40	625741	6.4
+	"2010"	"2010"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	26	625741	4.2
+	"2010"	"2010"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	218	625741	34.8
+	"2010"	"2010"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	258	625741	41.2
+	"2010"	"2010"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	270	625741	43.1
+	"2010"	"2010"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	23	625741	3.7
+	"2010"	"2010"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	13	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	45	625741	7.2
+	"2010"	"2010"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	12	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	20	625741	3.2
+	"2010"	"2010"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	58	625741	9.3
+	"2010"	"2010"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	55	625741	8.8
+	"2010"	"2010"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	625741	3.2
+	"2010"	"2010"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	18	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	132	625741	21.1
+	"2010"	"2010"	"Vermont"	"50"	"Cerebral atherosclerosis"	"I67.2"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Cerebrovascular disease, unspecified"	"I67.9"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	19	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Dissection of aorta [any part]"	"I71.0"	13	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	55	625741	8.8
+	"2010"	"2010"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	37	625741	5.9
+	"2010"	"2010"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	74	625741	11.8
+	"2010"	"2010"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	204	625741	32.6
+	"2010"	"2010"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	23	625741	3.7
+	"2010"	"2010"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	33	625741	5.3
+	"2010"	"2010"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	13	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	18	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	17	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	21	625741	3.4
+	"2010"	"2010"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	625741	3.7
+	"2010"	"2010"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	625741	3.4
+	"2010"	"2010"	"Vermont"	"50"	"Chronic nephritic syndrome, unspecified"	"N03.9"	10	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	12	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	12	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	29	625741	4.6
+	"2010"	"2010"	"Vermont"	"50"	"Senility"	"R54"	13	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	625741	3.2
+	"2010"	"2010"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	23	625741	3.7
+	"2010"	"2010"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	13	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Other fall on same level"	"W18"	91	625741	14.5
+	"2010"	"2010"	"Vermont"	"50"	"Unspecified fall"	"W19"	14	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	11	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	625741	Unreliable
+	"2010"	"2010"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	42	625741	6.7
+	"2010"	"2010"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	22	625741	3.5
+	"2011"	"2011"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	20	626431	3.2
+	"2011"	"2011"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	25	626431	4.0
+	"2011"	"2011"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	40	626431	6.4
+	"2011"	"2011"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	626431	3.2
+	"2011"	"2011"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	70	626431	11.2
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	19	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	17	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	82	626431	13.1
+	"2011"	"2011"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	373	626431	59.5
+	"2011"	"2011"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	13	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	81	626431	12.9
+	"2011"	"2011"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	18	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	35	626431	5.6
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	72	626431	11.5
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	23	626431	3.7
+	"2011"	"2011"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	626431	6.7
+	"2011"	"2011"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	41	626431	6.5
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	79	626431	12.6
+	"2011"	"2011"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	24	626431	3.8
+	"2011"	"2011"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	626431	3.5
+	"2011"	"2011"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	15	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	20	626431	3.2
+	"2011"	"2011"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	13	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	626431	3.5
+	"2011"	"2011"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	32	626431	5.1
+	"2011"	"2011"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	69	626431	11.0
+	"2011"	"2011"	"Vermont"	"50"	"Nutritional deficiency, unspecified"	"E63.9"	11	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Other obesity"	"E66.8"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	26	626431	4.2
+	"2011"	"2011"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	37	626431	5.9
+	"2011"	"2011"	"Vermont"	"50"	"Unspecified dementia"	"F03"	236	626431	37.7
+	"2011"	"2011"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	23	626431	3.7
+	"2011"	"2011"	"Vermont"	"50"	"Parkinson disease"	"G20"	57	626431	9.1
+	"2011"	"2011"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	256	626431	40.9
+	"2011"	"2011"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	22	626431	3.5
+	"2011"	"2011"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	626431	5.3
+	"2011"	"2011"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	32	626431	5.1
+	"2011"	"2011"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	20	626431	3.2
+	"2011"	"2011"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	196	626431	31.3
+	"2011"	"2011"	"Vermont"	"50"	"Acute ischaemic heart disease, unspecified"	"I24.9"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	253	626431	40.4
+	"2011"	"2011"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	285	626431	45.5
+	"2011"	"2011"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	13	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Other forms of chronic ischaemic heart disease"	"I25.8"	11	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	21	626431	3.4
+	"2011"	"2011"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	17	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	69	626431	11.0
+	"2011"	"2011"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	13	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	30	626431	4.8
+	"2011"	"2011"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	38	626431	6.1
+	"2011"	"2011"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	42	626431	6.7
+	"2011"	"2011"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	11	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	626431	17.9
+	"2011"	"2011"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	24	626431	3.8
+	"2011"	"2011"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	23	626431	3.7
+	"2011"	"2011"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	49	626431	7.8
+	"2011"	"2011"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	42	626431	6.7
+	"2011"	"2011"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	106	626431	16.9
+	"2011"	"2011"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	171	626431	27.3
+	"2011"	"2011"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	27	626431	4.3
+	"2011"	"2011"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	36	626431	5.7
+	"2011"	"2011"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	16	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	43	626431	6.9
+	"2011"	"2011"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	25	626431	4.0
+	"2011"	"2011"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Unspecified renal failure"	"N19"	16	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	19	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Senility"	"R54"	10	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	17	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Other fall on same level"	"W18"	73	626431	11.7
+	"2011"	"2011"	"Vermont"	"50"	"Unspecified fall"	"W19"	19	626431	Unreliable
+	"2011"	"2011"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	35	626431	5.6
+	"2011"	"2011"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	22	626431	3.5
+	"2011"	"2011"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	25	626431	4.0
+	"2011"	"2011"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	38	626431	6.1
+	"2011"	"2011"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	27	626431	4.3
+	"2012"	"2012"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	21	626011	3.4
+	"2012"	"2012"	"Vermont"	"50"	"Gastroenteritis and colitis of unspecified origin"	"A09.9"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	27	626011	4.3
+	"2012"	"2012"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	17	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	38	626011	6.1
+	"2012"	"2012"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	19	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	72	626011	11.5
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	18	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	626011	3.5
+	"2012"	"2012"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	99	626011	15.8
+	"2012"	"2012"	"Vermont"	"50"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	337	626011	53.8
+	"2012"	"2012"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	20	626011	3.2
+	"2012"	"2012"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	11	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	85	626011	13.6
+	"2012"	"2012"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	34	626011	5.4
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	67	626011	10.7
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	29	626011	4.6
+	"2012"	"2012"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	49	626011	7.8
+	"2012"	"2012"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	38	626011	6.1
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	55	626011	8.8
+	"2012"	"2012"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	626011	3.5
+	"2012"	"2012"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	626011	3.8
+	"2012"	"2012"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	16	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	14	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	26	626011	4.2
+	"2012"	"2012"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	39	626011	6.2
+	"2012"	"2012"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	73	626011	11.7
+	"2012"	"2012"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	32	626011	5.1
+	"2012"	"2012"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	18	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	29	626011	4.6
+	"2012"	"2012"	"Vermont"	"50"	"Unspecified dementia"	"F03"	194	626011	31.0
+	"2012"	"2012"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	26	626011	4.2
+	"2012"	"2012"	"Vermont"	"50"	"Parkinson disease"	"G20"	51	626011	8.1
+	"2012"	"2012"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	279	626011	44.6
+	"2012"	"2012"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	28	626011	4.5
+	"2012"	"2012"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	626011	6.5
+	"2012"	"2012"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	626011	6.1
+	"2012"	"2012"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	24	626011	3.8
+	"2012"	"2012"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	187	626011	29.9
+	"2012"	"2012"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	234	626011	37.4
+	"2012"	"2012"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	308	626011	49.2
+	"2012"	"2012"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	26	626011	4.2
+	"2012"	"2012"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	18	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	16	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	78	626011	12.5
+	"2012"	"2012"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	25	626011	4.0
+	"2012"	"2012"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	41	626011	6.5
+	"2012"	"2012"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	46	626011	7.3
+	"2012"	"2012"	"Vermont"	"50"	"Heart disease, unspecified"	"I51.9"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	25	626011	4.0
+	"2012"	"2012"	"Vermont"	"50"	"Cerebral infarction due to embolism of cerebral arteries"	"I63.4"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	16	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	127	626011	20.3
+	"2012"	"2012"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	28	626011	4.5
+	"2012"	"2012"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	23	626011	3.7
+	"2012"	"2012"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	22	626011	3.5
+	"2012"	"2012"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	57	626011	9.1
+	"2012"	"2012"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	48	626011	7.7
+	"2012"	"2012"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	101	626011	16.1
+	"2012"	"2012"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	16	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	183	626011	29.2
+	"2012"	"2012"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	34	626011	5.4
+	"2012"	"2012"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	40	626011	6.4
+	"2012"	"2012"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Other disorders of lung"	"J98.4"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	24	626011	3.8
+	"2012"	"2012"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Rheumatoid arthritis, unspecified"	"M06.9"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	16	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	15	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Other fall on same level"	"W18"	79	626011	12.6
+	"2012"	"2012"	"Vermont"	"50"	"Unspecified fall"	"W19"	27	626011	4.3
+	"2012"	"2012"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	626011	4.3
+	"2012"	"2012"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	12	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	626011	Unreliable
+	"2012"	"2012"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	30	626011	4.8
+	"2012"	"2012"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	19	626011	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	28	626630	4.5
+	"2013"	"2013"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	39	626630	6.2
+	"2013"	"2013"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	16	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	38	626630	6.1
+	"2013"	"2013"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	626630	3.2
+	"2013"	"2013"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	72	626630	11.5
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	24	626630	3.8
+	"2013"	"2013"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	96	626630	15.3
+	"2013"	"2013"	"Vermont"	"50"	"Upper lobe, bronchus or lung - Malignant neoplasms"	"C34.1"	11	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	335	626630	53.5
+	"2013"	"2013"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	79	626630	12.6
+	"2013"	"2013"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	16	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	30	626630	4.8
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	64	626630	10.2
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	626630	3.2
+	"2013"	"2013"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	43	626630	6.9
+	"2013"	"2013"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	43	626630	6.9
+	"2013"	"2013"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	57	626630	9.1
+	"2013"	"2013"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	33	626630	5.3
+	"2013"	"2013"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	21	626630	3.4
+	"2013"	"2013"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	13	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	35	626630	5.6
+	"2013"	"2013"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	44	626630	7.0
+	"2013"	"2013"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	12	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	26	626630	4.1
+	"2013"	"2013"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	57	626630	9.1
+	"2013"	"2013"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	38	626630	6.1
+	"2013"	"2013"	"Vermont"	"50"	"Unspecified dementia"	"F03"	216	626630	34.5
+	"2013"	"2013"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	25	626630	4.0
+	"2013"	"2013"	"Vermont"	"50"	"Parkinson disease"	"G20"	72	626630	11.5
+	"2013"	"2013"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	268	626630	42.8
+	"2013"	"2013"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	22	626630	3.5
+	"2013"	"2013"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	36	626630	5.7
+	"2013"	"2013"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	626630	6.1
+	"2013"	"2013"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	44	626630	7.0
+	"2013"	"2013"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	31	626630	4.9
+	"2013"	"2013"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	188	626630	30.0
+	"2013"	"2013"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	285	626630	45.5
+	"2013"	"2013"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	312	626630	49.8
+	"2013"	"2013"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	12	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	14	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	71	626630	11.3
+	"2013"	"2013"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	18	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	54	626630	8.6
+	"2013"	"2013"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	47	626630	7.5
+	"2013"	"2013"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	18	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	23	626630	3.7
+	"2013"	"2013"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	117	626630	18.7
+	"2013"	"2013"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	25	626630	4.0
+	"2013"	"2013"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	626630	4.0
+	"2013"	"2013"	"Vermont"	"50"	"Generalized and unspecified atherosclerosis"	"I70.9"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	15	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	56	626630	8.9
+	"2013"	"2013"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	35	626630	5.6
+	"2013"	"2013"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	84	626630	13.4
+	"2013"	"2013"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	16	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	199	626630	31.8
+	"2013"	"2013"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	36	626630	5.7
+	"2013"	"2013"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	29	626630	4.6
+	"2013"	"2013"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	14	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	17	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	40	626630	6.4
+	"2013"	"2013"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	626630	3.2
+	"2013"	"2013"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	21	626630	3.4
+	"2013"	"2013"	"Vermont"	"50"	"Senility"	"R54"	12	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	10	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Other fall on same level"	"W18"	99	626630	15.8
+	"2013"	"2013"	"Vermont"	"50"	"Unspecified fall"	"W19"	23	626630	3.7
+	"2013"	"2013"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	41	626630	6.5
+	"2013"	"2013"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	11	626630	Unreliable
+	"2013"	"2013"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	23	626630	3.7
+	"2013"	"2013"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	35	626630	5.6
+	"2013"	"2013"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	21	626630	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	18	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	21	626562	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	10	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	44	626562	7.0
+	"2014"	"2014"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	76	626562	12.1
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	19	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	85	626562	13.6
+	"2014"	"2014"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	392	626562	62.6
+	"2014"	"2014"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	626562	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	80	626562	12.8
+	"2014"	"2014"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	16	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	35	626562	5.6
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	63	626562	10.1
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	28	626562	4.5
+	"2014"	"2014"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	50	626562	8.0
+	"2014"	"2014"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	34	626562	5.4
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	74	626562	11.8
+	"2014"	"2014"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	15	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	626562	3.5
+	"2014"	"2014"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	32	626562	5.1
+	"2014"	"2014"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	33	626562	5.3
+	"2014"	"2014"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	58	626562	9.3
+	"2014"	"2014"	"Vermont"	"50"	"Nutritional deficiency, unspecified"	"E63.9"	17	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	15	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Pure hypercholesterolaemia"	"E78.0"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	20	626562	3.2
+	"2014"	"2014"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	64	626562	10.2
+	"2014"	"2014"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	30	626562	4.8
+	"2014"	"2014"	"Vermont"	"50"	"Unspecified dementia"	"F03"	208	626562	33.2
+	"2014"	"2014"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	17	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Parkinson disease"	"G20"	54	626562	8.6
+	"2014"	"2014"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	263	626562	42.0
+	"2014"	"2014"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	11	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	34	626562	5.4
+	"2014"	"2014"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	42	626562	6.7
+	"2014"	"2014"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	78	626562	12.4
+	"2014"	"2014"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	27	626562	4.3
+	"2014"	"2014"	"Vermont"	"50"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	194	626562	31.0
+	"2014"	"2014"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	324	626562	51.7
+	"2014"	"2014"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	275	626562	43.9
+	"2014"	"2014"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	15	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Mitral (valve) insufficiency"	"I34.0"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	61	626562	9.7
+	"2014"	"2014"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	21	626562	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	29	626562	4.6
+	"2014"	"2014"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	57	626562	9.1
+	"2014"	"2014"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	26	626562	4.1
+	"2014"	"2014"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	21	626562	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	10	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	25	626562	4.0
+	"2014"	"2014"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	10	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	122	626562	19.5
+	"2014"	"2014"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	19	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	30	626562	4.8
+	"2014"	"2014"	"Vermont"	"50"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	55	626562	8.8
+	"2014"	"2014"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	53	626562	8.5
+	"2014"	"2014"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	67	626562	10.7
+	"2014"	"2014"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	177	626562	28.2
+	"2014"	"2014"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	32	626562	5.1
+	"2014"	"2014"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	626562	4.3
+	"2014"	"2014"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	23	626562	3.7
+	"2014"	"2014"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	38	626562	6.1
+	"2014"	"2014"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	626562	3.4
+	"2014"	"2014"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	15	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Other fall on same level"	"W18"	107	626562	17.1
+	"2014"	"2014"	"Vermont"	"50"	"Unspecified fall"	"W19"	18	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	40	626562	6.4
+	"2014"	"2014"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	626562	Unreliable
+	"2014"	"2014"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28	626562	4.5
+	"2014"	"2014"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	35	626562	5.6
+	"2014"	"2014"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	20	626562	3.2
+	"2015"	"2015"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	45	626042	7.2
+	"2015"	"2015"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	42	626042	6.7
+	"2015"	"2015"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	626042	3.4
+	"2015"	"2015"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	98	626042	15.7
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	17	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	626042	3.8
+	"2015"	"2015"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	85	626042	13.6
+	"2015"	"2015"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	338	626042	54.0
+	"2015"	"2015"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	27	626042	4.3
+	"2015"	"2015"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	98	626042	15.7
+	"2015"	"2015"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	33	626042	5.3
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	54	626042	8.6
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	33	626042	5.3
+	"2015"	"2015"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	626042	6.7
+	"2015"	"2015"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	39	626042	6.2
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	74	626042	11.8
+	"2015"	"2015"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	15	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	28	626042	4.5
+	"2015"	"2015"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	29	626042	4.6
+	"2015"	"2015"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	19	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	21	626042	3.4
+	"2015"	"2015"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	38	626042	6.1
+	"2015"	"2015"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	51	626042	8.1
+	"2015"	"2015"	"Vermont"	"50"	"Other obesity"	"E66.8"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	16	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	32	626042	5.1
+	"2015"	"2015"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	34	626042	5.4
+	"2015"	"2015"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	44	626042	7.0
+	"2015"	"2015"	"Vermont"	"50"	"Unspecified dementia"	"F03"	194	626042	31.0
+	"2015"	"2015"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	19	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	28	626042	4.5
+	"2015"	"2015"	"Vermont"	"50"	"Parkinson disease"	"G20"	83	626042	13.3
+	"2015"	"2015"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	296	626042	47.3
+	"2015"	"2015"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	11	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	33	626042	5.3
+	"2015"	"2015"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	54	626042	8.6
+	"2015"	"2015"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	51	626042	8.1
+	"2015"	"2015"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	23	626042	3.7
+	"2015"	"2015"	"Vermont"	"50"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	153	626042	24.4
+	"2015"	"2015"	"Vermont"	"50"	"Acute ischaemic heart disease, unspecified"	"I24.9"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	413	626042	66.0
+	"2015"	"2015"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	264	626042	42.2
+	"2015"	"2015"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	19	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	14	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	18	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	62	626042	9.9
+	"2015"	"2015"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	25	626042	4.0
+	"2015"	"2015"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	61	626042	9.7
+	"2015"	"2015"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	33	626042	5.3
+	"2015"	"2015"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	33	626042	5.3
+	"2015"	"2015"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	13	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	134	626042	21.4
+	"2015"	"2015"	"Vermont"	"50"	"Cerebral atherosclerosis"	"I67.2"	14	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	24	626042	3.8
+	"2015"	"2015"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	24	626042	3.8
+	"2015"	"2015"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	20	626042	3.2
+	"2015"	"2015"	"Vermont"	"50"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	11	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	46	626042	7.3
+	"2015"	"2015"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	49	626042	7.8
+	"2015"	"2015"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	73	626042	11.7
+	"2015"	"2015"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	199	626042	31.8
+	"2015"	"2015"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	11	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	21	626042	3.4
+	"2015"	"2015"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	39	626042	6.2
+	"2015"	"2015"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	16	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	16	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Diverticular disease of intestine, part unspecified, without perforation or abscess"	"K57.9"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	38	626042	6.1
+	"2015"	"2015"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Fatty (change of) liver, not elsewhere classified"	"K76.0"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	24	626042	3.8
+	"2015"	"2015"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	16	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	12	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	10	626042	Unreliable
+	"2015"	"2015"	"Vermont"	"50"	"Other fall on same level"	"W18"	93	626042	14.9
+	"2015"	"2015"	"Vermont"	"50"	"Unspecified fall"	"W19"	28	626042	4.5
+	"2015"	"2015"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	60	626042	9.6
+	"2015"	"2015"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	626042	3.2
+	"2015"	"2015"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21	626042	3.4
+	"2015"	"2015"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	36	626042	5.8
+	"2015"	"2015"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	21	626042	3.4
+	"2016"	"2016"	"Vermont"	"50"	"Enterocolitis due to Clostridium difficile"	"A04.7"	19	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	27	624594	4.3
+	"2016"	"2016"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	39	624594	6.2
+	"2016"	"2016"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	13	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	81	624594	13.0
+	"2016"	"2016"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	30	624594	4.8
+	"2016"	"2016"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	624594	3.5
+	"2016"	"2016"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	86	624594	13.8
+	"2016"	"2016"	"Vermont"	"50"	"Upper lobe, bronchus or lung - Malignant neoplasms"	"C34.1"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	356	624594	57.0
+	"2016"	"2016"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	63	624594	10.1
+	"2016"	"2016"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	16	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	24	624594	3.8
+	"2016"	"2016"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	75	624594	12.0
+	"2016"	"2016"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	31	624594	5.0
+	"2016"	"2016"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	49	624594	7.8
+	"2016"	"2016"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	29	624594	4.6
+	"2016"	"2016"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	78	624594	12.5
+	"2016"	"2016"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	17	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	624594	5.0
+	"2016"	"2016"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	624594	3.8
+	"2016"	"2016"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	22	624594	3.5
+	"2016"	"2016"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	35	624594	5.6
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified diabetes mellitus, with multiple complications"	"E14.7"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	44	624594	7.0
+	"2016"	"2016"	"Vermont"	"50"	"Other obesity"	"E66.8"	17	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	20	624594	3.2
+	"2016"	"2016"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	33	624594	5.3
+	"2016"	"2016"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	72	624594	11.5
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified dementia"	"F03"	206	624594	33.0
+	"2016"	"2016"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	16	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	30	624594	4.8
+	"2016"	"2016"	"Vermont"	"50"	"Parkinson disease"	"G20"	76	624594	12.2
+	"2016"	"2016"	"Vermont"	"50"	"Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]"	"G23.1"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	303	624594	48.5
+	"2016"	"2016"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	19	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Multiple sclerosis"	"G35"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	49	624594	7.8
+	"2016"	"2016"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43	624594	6.9
+	"2016"	"2016"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	54	624594	8.6
+	"2016"	"2016"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	29	624594	4.6
+	"2016"	"2016"	"Vermont"	"50"	"Acute subendocardial myocardial infarction"	"I21.4"	20	624594	3.2
+	"2016"	"2016"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	155	624594	24.8
+	"2016"	"2016"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	399	624594	63.9
+	"2016"	"2016"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	292	624594	46.8
+	"2016"	"2016"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	14	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	15	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	23	624594	3.7
+	"2016"	"2016"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	64	624594	10.2
+	"2016"	"2016"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	21	624594	3.4
+	"2016"	"2016"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	66	624594	10.6
+	"2016"	"2016"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	38	624594	6.1
+	"2016"	"2016"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Cardiovascular disease, unspecified"	"I51.6"	19	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	624594	3.4
+	"2016"	"2016"	"Vermont"	"50"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	13	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	98	624594	15.7
+	"2016"	"2016"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	25	624594	4.0
+	"2016"	"2016"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	22	624594	3.5
+	"2016"	"2016"	"Vermont"	"50"	"Peripheral vascular disease, unspecified"	"I73.9"	16	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	37	624594	5.9
+	"2016"	"2016"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	47	624594	7.5
+	"2016"	"2016"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	58	624594	9.3
+	"2016"	"2016"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	210	624594	33.6
+	"2016"	"2016"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	12	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	26	624594	4.2
+	"2016"	"2016"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	30	624594	4.8
+	"2016"	"2016"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	19	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	48	624594	7.7
+	"2016"	"2016"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Fatty (change of) liver, not elsewhere classified"	"K76.0"	13	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	26	624594	4.2
+	"2016"	"2016"	"Vermont"	"50"	"Chronic renal failure, unspecified"	"N18.9"	12	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	20	624594	3.2
+	"2016"	"2016"	"Vermont"	"50"	"Senility"	"R54"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Fall involving bed"	"W06"	11	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	12	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Other fall on same level"	"W18"	82	624594	13.1
+	"2016"	"2016"	"Vermont"	"50"	"Unspecified fall"	"W19"	21	624594	3.4
+	"2016"	"2016"	"Vermont"	"50"	"Exposure to uncontrolled fire in building or structure"	"X00"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	80	624594	12.8
+	"2016"	"2016"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	10	624594	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	624594	3.5
+	"2016"	"2016"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	46	624594	7.4
+	"2016"	"2016"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	624594	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Septicaemia, unspecified"	"A41.9"	31	623657	5.0
+	"2017"	"2017"	"Vermont"	"50"	"Chronic viral hepatitis C"	"B18.2"	15	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	47	623657	7.5
+	"2017"	"2017"	"Vermont"	"50"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	18	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	71	623657	11.4
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm of rectosigmoid junction"	"C19"	13	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm of rectum"	"C20"	27	623657	4.3
+	"2017"	"2017"	"Vermont"	"50"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	29	623657	4.6
+	"2017"	"2017"	"Vermont"	"50"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	99	623657	15.9
+	"2017"	"2017"	"Vermont"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	341	623657	54.7
+	"2017"	"2017"	"Vermont"	"50"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	81	623657	13.0
+	"2017"	"2017"	"Vermont"	"50"	"Endometrium - Malignant neoplasms"	"C54.1"	22	623657	3.5
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm of ovary"	"C56"	28	623657	4.5
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm of prostate"	"C61"	70	623657	11.2
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	35	623657	5.6
+	"2017"	"2017"	"Vermont"	"50"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	41	623657	6.6
+	"2017"	"2017"	"Vermont"	"50"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	52	623657	8.3
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasm without specification of site"	"C80"	110	623657	17.6
+	"2017"	"2017"	"Vermont"	"50"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	21	623657	3.4
+	"2017"	"2017"	"Vermont"	"50"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	23	623657	3.7
+	"2017"	"2017"	"Vermont"	"50"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	15	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	20	623657	3.2
+	"2017"	"2017"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	22	623657	3.5
+	"2017"	"2017"	"Vermont"	"50"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	29	623657	4.6
+	"2017"	"2017"	"Vermont"	"50"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	28	623657	4.5
+	"2017"	"2017"	"Vermont"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	37	623657	5.9
+	"2017"	"2017"	"Vermont"	"50"	"Other obesity"	"E66.8"	12	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Obesity, unspecified"	"E66.9"	13	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Hyperlipidaemia, unspecified"	"E78.5"	33	623657	5.3
+	"2017"	"2017"	"Vermont"	"50"	"Other disorders of electrolyte and fluid balance, not elsewhere classified"	"E87.8"	12	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Vascular dementia, unspecified"	"F01.9"	59	623657	9.5
+	"2017"	"2017"	"Vermont"	"50"	"Unspecified dementia"	"F03"	209	623657	33.5
+	"2017"	"2017"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	16	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Motor neuron disease"	"G12.2"	21	623657	3.4
+	"2017"	"2017"	"Vermont"	"50"	"Parkinson disease"	"G20"	81	623657	13.0
+	"2017"	"2017"	"Vermont"	"50"	"Alzheimer disease, unspecified"	"G30.9"	358	623657	57.4
+	"2017"	"2017"	"Vermont"	"50"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Essential (primary) hypertension"	"I10"	44	623657	7.1
+	"2017"	"2017"	"Vermont"	"50"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	48	623657	7.7
+	"2017"	"2017"	"Vermont"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	76	623657	12.2
+	"2017"	"2017"	"Vermont"	"50"	"Hypertensive renal disease with renal failure"	"I12.0"	33	623657	5.3
+	"2017"	"2017"	"Vermont"	"50"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Acute subendocardial myocardial infarction"	"I21.4"	20	623657	3.2
+	"2017"	"2017"	"Vermont"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	153	623657	24.5
+	"2017"	"2017"	"Vermont"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	363	623657	58.2
+	"2017"	"2017"	"Vermont"	"50"	"Atherosclerotic heart disease"	"I25.1"	263	623657	42.2
+	"2017"	"2017"	"Vermont"	"50"	"Ischaemic cardiomyopathy"	"I25.5"	18	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	19	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Other secondary pulmonary hypertension"	"I27.2"	18	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Aortic (valve) stenosis"	"I35.0"	75	623657	12.0
+	"2017"	"2017"	"Vermont"	"50"	"Endocarditis, valve unspecified"	"I38"	11	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Cardiomyopathy, unspecified"	"I42.9"	22	623657	3.5
+	"2017"	"2017"	"Vermont"	"50"	"Atrial fibrillation and flutter"	"I48"	55	623657	8.8
+	"2017"	"2017"	"Vermont"	"50"	"Congestive heart failure"	"I50.0"	36	623657	5.8
+	"2017"	"2017"	"Vermont"	"50"	"Heart failure, unspecified"	"I50.9"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Intracerebral haemorrhage, unspecified"	"I61.9"	26	623657	4.2
+	"2017"	"2017"	"Vermont"	"50"	"Cerebral infarction, unspecified"	"I63.9"	24	623657	3.8
+	"2017"	"2017"	"Vermont"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	106	623657	17.0
+	"2017"	"2017"	"Vermont"	"50"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	18	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	23	623657	3.7
+	"2017"	"2017"	"Vermont"	"50"	"Dissection of aorta [any part]"	"I71.0"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Pneumonia, unspecified"	"J18.9"	56	623657	9.0
+	"2017"	"2017"	"Vermont"	"50"	"Emphysema, unspecified"	"J43.9"	50	623657	8.0
+	"2017"	"2017"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	60	623657	9.6
+	"2017"	"2017"	"Vermont"	"50"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	233	623657	37.4
+	"2017"	"2017"	"Vermont"	"50"	"Asthma, unspecified"	"J45.9"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Pneumonitis due to food and vomit"	"J69.0"	28	623657	4.5
+	"2017"	"2017"	"Vermont"	"50"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	32	623657	5.1
+	"2017"	"2017"	"Vermont"	"50"	"Interstitial pulmonary disease, unspecified"	"J84.9"	16	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Other and unspecified intestinal obstruction"	"K56.6"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	43	623657	6.9
+	"2017"	"2017"	"Vermont"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Fatty (change of) liver, not elsewhere classified"	"K76.0"	10	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	23	623657	3.7
+	"2017"	"2017"	"Vermont"	"50"	"Urinary tract infection, site not specified"	"N39.0"	12	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Fall on and from stairs and steps"	"W10"	14	623657	Unreliable
+	"2017"	"2017"	"Vermont"	"50"	"Other fall on same level"	"W18"	76	623657	12.2
+	"2017"	"2017"	"Vermont"	"50"	"Unspecified fall"	"W19"	33	623657	5.3
+	"2017"	"2017"	"Vermont"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	90	623657	14.4
+	"2017"	"2017"	"Vermont"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	623657	3.2
+	"2017"	"2017"	"Vermont"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	24	623657	3.8
+	"2017"	"2017"	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	38	623657	6.1
+	"2017"	"2017"	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	19	623657	Unreliable

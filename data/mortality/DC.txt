@@ -1,0 +1,1708 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Underlying Cause of death"	"Underlying Cause of death Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	127	570213	22.3
+	"1999"	"1999"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	38	570213	6.7
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in Pneumocystis carinii pneumonia"	"B20.6"	11	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	26	570213	4.6
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	23	570213	4.0
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease with other types of non-Hodgkin lymphoma"	"B21.2"	12	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	16	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified"	"B23.2"	11	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	45	570213	7.9
+	"1999"	"1999"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	42	570213	7.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	46	570213	8.1
+	"1999"	"1999"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	48	570213	8.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	115	570213	20.2
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	16	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	570213	4.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	74	570213	13.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	22	570213	3.9
+	"1999"	"1999"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	297	570213	52.1
+	"1999"	"1999"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	118	570213	20.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	18	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	32	570213	5.6
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	113	570213	19.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	23	570213	4.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Head, face and neck - Malignant neoplasms"	"C76.0"	15	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	76	570213	13.3
+	"1999"	"1999"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	31	570213	5.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	34	570213	6.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	14	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Sarcoidosis, unspecified"	"D86.9"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	18	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	23	570213	4.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	140	570213	24.6
+	"1999"	"1999"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	50	570213	8.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	40	570213	7.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	21	570213	3.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	51	570213	8.9
+	"1999"	"1999"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	17	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	21	570213	3.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	570213	6.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	249	570213	43.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	33	570213	5.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	17	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	274	570213	48.1
+	"1999"	"1999"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	434	570213	76.1
+	"1999"	"1999"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	331	570213	58.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	15	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	31	570213	5.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Primary pulmonary hypertension"	"I27.0"	12	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	15	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	21	570213	3.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	23	570213	4.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Cardiac arrest, unspecified"	"I46.9"	26	570213	4.6
+	"1999"	"1999"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	13	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	18	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	68	570213	11.9
+	"1999"	"1999"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	37	570213	6.5
+	"1999"	"1999"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	28	570213	4.9
+	"1999"	"1999"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	145	570213	25.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	25	570213	4.4
+	"1999"	"1999"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	19	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	93	570213	16.3
+	"1999"	"1999"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	16	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	18	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	113	570213	19.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	12	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	39	570213	6.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Acute vascular disorders of intestine"	"K55.0"	15	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	14	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	17	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	570213	4.2
+	"1999"	"1999"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	570213	3.7
+	"1999"	"1999"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	20	570213	3.5
+	"1999"	"1999"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	29	570213	5.1
+	"1999"	"1999"	"District of Columbia"	"11"	"Chronic renal failure, unspecified"	"N18.9"	20	570213	3.5
+	"1999"	"1999"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	33	570213	5.8
+	"1999"	"1999"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	34	570213	6.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Newborn affected by chorioamnionitis"	"P02.7"	19	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	322	570213	56.5
+	"1999"	"1999"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	40	570213	7.0
+	"1999"	"1999"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	570213	Unreliable
+	"1999"	"1999"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	140	570213	24.6
+	"1999"	"1999"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	23	570213	4.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	110	572059	19.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	21	572059	3.7
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	27	572059	4.7
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in other viral infections"	"B20.3"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in Pneumocystis carinii pneumonia"	"B20.6"	10	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	25	572059	4.4
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	30	572059	5.2
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	21	572059	3.7
+	"2000"	"2000"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	35	572059	6.1
+	"2000"	"2000"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	51	572059	8.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	40	572059	7.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	41	572059	7.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	140	572059	24.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	64	572059	11.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	19	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	318	572059	55.6
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	96	572059	16.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	14	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	26	572059	4.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	26	572059	4.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	104	572059	18.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	572059	3.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	29	572059	5.1
+	"2000"	"2000"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Head, face and neck - Malignant neoplasms"	"C76.0"	17	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	68	572059	11.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	572059	4.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	41	572059	7.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	18	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	21	572059	3.7
+	"2000"	"2000"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	146	572059	25.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	49	572059	8.6
+	"2000"	"2000"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	67	572059	11.7
+	"2000"	"2000"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	24	572059	4.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	70	572059	12.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Multiple sclerosis"	"G35"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	23	572059	4.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	57	572059	10.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	299	572059	52.3
+	"2000"	"2000"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	22	572059	3.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	24	572059	4.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	302	572059	52.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	525	572059	91.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	257	572059	44.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	15	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	19	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Endocarditis, valve unspecified"	"I38"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	31	572059	5.4
+	"2000"	"2000"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	26	572059	4.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	50	572059	8.7
+	"2000"	"2000"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	15	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	19	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	34	572059	5.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	25	572059	4.4
+	"2000"	"2000"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	572059	19.6
+	"2000"	"2000"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	25	572059	4.4
+	"2000"	"2000"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	18	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	94	572059	16.4
+	"2000"	"2000"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	35	572059	6.1
+	"2000"	"2000"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	24	572059	4.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	96	572059	16.8
+	"2000"	"2000"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	34	572059	5.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	24	572059	4.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	572059	3.5
+	"2000"	"2000"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	30	572059	5.2
+	"2000"	"2000"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	13	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	14	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	23	572059	4.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	34	572059	5.9
+	"2000"	"2000"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	36	572059	6.3
+	"2000"	"2000"	"District of Columbia"	"11"	"Newborn affected by chorioamnionitis"	"P02.7"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	193	572059	33.7
+	"2000"	"2000"	"District of Columbia"	"11"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	63	572059	11.0
+	"2000"	"2000"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	134	572059	23.4
+	"2000"	"2000"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	11	572059	Unreliable
+	"2000"	"2000"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	10	572059	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	90	574504	15.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	16	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	29	574504	5.0
+	"2001"	"2001"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	25	574504	4.4
+	"2001"	"2001"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	42	574504	7.3
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	45	574504	7.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	45	574504	7.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	40	574504	7.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	124	574504	21.6
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	16	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	67	574504	11.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	20	574504	3.5
+	"2001"	"2001"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	314	574504	54.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	129	574504	22.5
+	"2001"	"2001"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	14	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	36	574504	6.3
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	92	574504	16.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	25	574504	4.4
+	"2001"	"2001"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	574504	3.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	64	574504	11.1
+	"2001"	"2001"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	29	574504	5.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	34	574504	5.9
+	"2001"	"2001"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	29	574504	5.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	139	574504	24.2
+	"2001"	"2001"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	37	574504	6.4
+	"2001"	"2001"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	56	574504	9.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	34	574504	5.9
+	"2001"	"2001"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	97	574504	16.9
+	"2001"	"2001"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	18	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	22	574504	3.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35	574504	6.1
+	"2001"	"2001"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	205	574504	35.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	25	574504	4.4
+	"2001"	"2001"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	351	574504	61.1
+	"2001"	"2001"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	594	574504	103.4
+	"2001"	"2001"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	268	574504	46.6
+	"2001"	"2001"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Primary pulmonary hypertension"	"I27.0"	12	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	16	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	33	574504	5.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	59	574504	10.3
+	"2001"	"2001"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	38	574504	6.6
+	"2001"	"2001"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	22	574504	3.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	135	574504	23.5
+	"2001"	"2001"	"District of Columbia"	"11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	14	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	14	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	66	574504	11.5
+	"2001"	"2001"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	27	574504	4.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	22	574504	3.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	574504	15.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	37	574504	6.4
+	"2001"	"2001"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	21	574504	3.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Alcoholic hepatic failure"	"K70.4"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	20	574504	3.5
+	"2001"	"2001"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	21	574504	3.7
+	"2001"	"2001"	"District of Columbia"	"11"	"Chronic renal failure, unspecified"	"N18.9"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	29	574504	5.0
+	"2001"	"2001"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	28	574504	4.9
+	"2001"	"2001"	"District of Columbia"	"11"	"Newborn affected by incompetent cervix"	"P01.0"	13	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	177	574504	30.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Terrorism involving destruction of aircraft"	"U01.1"	15	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Fall on and from stairs and steps"	"W10"	11	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	11	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	10	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	75	574504	13.1
+	"2001"	"2001"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	574504	Unreliable
+	"2001"	"2001"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	137	574504	23.8
+	"2001"	"2001"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	26	574504	4.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	114	573158	19.9
+	"2002"	"2002"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	16	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	27	573158	4.7
+	"2002"	"2002"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	29	573158	5.1
+	"2002"	"2002"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	16	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	53	573158	9.2
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	57	573158	9.9
+	"2002"	"2002"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	46	573158	8.0
+	"2002"	"2002"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	48	573158	8.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	118	573158	20.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	12	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	573158	4.0
+	"2002"	"2002"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	72	573158	12.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	15	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	325	573158	56.7
+	"2002"	"2002"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	111	573158	19.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	16	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	16	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	30	573158	5.2
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	102	573158	17.8
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	29	573158	5.1
+	"2002"	"2002"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	12	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	54	573158	9.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	26	573158	4.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	37	573158	6.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	32	573158	5.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	118	573158	20.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Hyperlipidaemia, unspecified"	"E78.5"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	59	573158	10.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	42	573158	7.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	20	573158	3.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	107	573158	18.7
+	"2002"	"2002"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	16	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	42	573158	7.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	201	573158	35.1
+	"2002"	"2002"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	28	573158	4.9
+	"2002"	"2002"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	22	573158	3.8
+	"2002"	"2002"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	293	573158	51.1
+	"2002"	"2002"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	641	573158	111.8
+	"2002"	"2002"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	243	573158	42.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	15	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	573158	3.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Primary pulmonary hypertension"	"I27.0"	12	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	12	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	32	573158	5.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	17	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	28	573158	4.9
+	"2002"	"2002"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	29	573158	5.1
+	"2002"	"2002"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	22	573158	3.8
+	"2002"	"2002"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	147	573158	25.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	17	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	72	573158	12.6
+	"2002"	"2002"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	35	573158	6.1
+	"2002"	"2002"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	20	573158	3.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	573158	12.0
+	"2002"	"2002"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	36	573158	6.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	36	573158	6.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Alcoholic liver disease, unspecified"	"K70.9"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	13	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	573158	4.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	14	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	15	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	36	573158	6.3
+	"2002"	"2002"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	25	573158	4.4
+	"2002"	"2002"	"District of Columbia"	"11"	"Newborn affected by premature rupture of membranes"	"P01.1"	11	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	239	573158	41.7
+	"2002"	"2002"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	19	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	573158	8.5
+	"2002"	"2002"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	573158	Unreliable
+	"2002"	"2002"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	172	573158	30.0
+	"2002"	"2002"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	21	573158	3.7
+	"2002"	"2002"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	21	573158	3.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	105	568502	18.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	22	568502	3.9
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	28	568502	4.9
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	28	568502	4.9
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	18	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease with other types of non-Hodgkin lymphoma"	"B21.2"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	11	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	44	568502	7.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	55	568502	9.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	27	568502	4.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	25	568502	4.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	93	568502	16.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	78	568502	13.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	16	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	283	568502	49.8
+	"2003"	"2003"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	98	568502	17.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	14	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	15	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	73	568502	12.8
+	"2003"	"2003"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	40	568502	7.0
+	"2003"	"2003"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	51	568502	9.0
+	"2003"	"2003"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	34	568502	6.0
+	"2003"	"2003"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	28	568502	4.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	26	568502	4.6
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	110	568502	19.3
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	59	568502	10.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	49	568502	8.6
+	"2003"	"2003"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	24	568502	4.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	95	568502	16.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	15	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	16	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	46	568502	8.1
+	"2003"	"2003"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	203	568502	35.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	28	568502	4.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	17	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	271	568502	47.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	600	568502	105.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	255	568502	44.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	568502	3.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Endocarditis, valve unspecified"	"I38"	15	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	25	568502	4.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	12	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	37	568502	6.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	33	568502	5.8
+	"2003"	"2003"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	24	568502	4.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	115	568502	20.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	17	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	17	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	16	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	15	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	82	568502	14.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	23	568502	4.0
+	"2003"	"2003"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	21	568502	3.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	568502	13.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	37	568502	6.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	31	568502	5.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	14	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	12	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	24	568502	4.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	35	568502	6.2
+	"2003"	"2003"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	22	568502	3.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Newborn affected by premature rupture of membranes"	"P01.1"	11	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	190	568502	33.4
+	"2003"	"2003"	"District of Columbia"	"11"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	15	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	20	568502	3.5
+	"2003"	"2003"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	79	568502	13.9
+	"2003"	"2003"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Exposure to unspecified factor"	"X59"	12	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	568502	Unreliable
+	"2003"	"2003"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	152	568502	26.7
+	"2003"	"2003"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	22	568502	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	92	567754	16.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Acute hepatitis C"	"B17.1"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	27	567754	4.8
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in other viral infections"	"B20.3"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	30	567754	5.3
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	18	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	19	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	33	567754	5.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	59	567754	10.4
+	"2004"	"2004"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	32	567754	5.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	35	567754	6.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	94	567754	16.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	567754	11.1
+	"2004"	"2004"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	281	567754	49.5
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	12	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	90	567754	15.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	14	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	27	567754	4.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	92	567754	16.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	567754	4.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	77	567754	13.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	24	567754	4.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	567754	4.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	33	567754	5.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	147	567754	25.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	16	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	57	567754	10.0
+	"2004"	"2004"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	50	567754	8.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	13	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	10	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	119	567754	21.0
+	"2004"	"2004"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	19	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	567754	6.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	224	567754	39.5
+	"2004"	"2004"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	31	567754	5.5
+	"2004"	"2004"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	209	567754	36.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	587	567754	103.4
+	"2004"	"2004"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	205	567754	36.1
+	"2004"	"2004"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	10	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	26	567754	4.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	14	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	13	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	14	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	16	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	40	567754	7.0
+	"2004"	"2004"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	42	567754	7.4
+	"2004"	"2004"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	18	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	84	567754	14.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	15	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	73	567754	12.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	23	567754	4.1
+	"2004"	"2004"	"District of Columbia"	"11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	109	567754	19.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	17	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	42	567754	7.4
+	"2004"	"2004"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	37	567754	6.5
+	"2004"	"2004"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	26	567754	4.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	19	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	22	567754	3.9
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	26	567754	4.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	35	567754	6.2
+	"2004"	"2004"	"District of Columbia"	"11"	"Newborn affected by premature rupture of membranes"	"P01.1"	13	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	27	567754	4.8
+	"2004"	"2004"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	19	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	14	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Exposure to uncontrolled fire in building or structure"	"X00"	11	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	60	567754	10.6
+	"2004"	"2004"	"District of Columbia"	"11"	"Exposure to unspecified factor"	"X59"	13	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	567754	Unreliable
+	"2004"	"2004"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	136	567754	24.0
+	"2004"	"2004"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	20	567754	3.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	122	567136	21.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	33	567136	5.8
+	"2005"	"2005"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	21	567136	3.7
+	"2005"	"2005"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	21	567136	3.7
+	"2005"	"2005"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	19	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	15	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	27	567136	4.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	49	567136	8.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	567136	4.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	32	567136	5.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	106	567136	18.7
+	"2005"	"2005"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	567136	4.2
+	"2005"	"2005"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	67	567136	11.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	289	567136	51.0
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	95	567136	16.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	14	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	28	567136	4.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	88	567136	15.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	16	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	567136	4.2
+	"2005"	"2005"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	16	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	65	567136	11.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	25	567136	4.4
+	"2005"	"2005"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	567136	4.2
+	"2005"	"2005"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	19	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	134	567136	23.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	79	567136	13.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	22	567136	3.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	27	567136	4.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	112	567136	19.7
+	"2005"	"2005"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	20	567136	3.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	20	567136	3.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	567136	4.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	170	567136	30.0
+	"2005"	"2005"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	33	567136	5.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	20	567136	3.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	218	567136	38.4
+	"2005"	"2005"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	544	567136	95.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	271	567136	47.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	14	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	32	567136	5.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	13	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	26	567136	4.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	23	567136	4.1
+	"2005"	"2005"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	50	567136	8.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	19	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	44	567136	7.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	14	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	567136	19.7
+	"2005"	"2005"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	16	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	13	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	26	567136	4.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	11	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	81	567136	14.3
+	"2005"	"2005"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	15	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	103	567136	18.2
+	"2005"	"2005"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	31	567136	5.5
+	"2005"	"2005"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Other and unspecified intestinal obstruction"	"K56.6"	11	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	26	567136	4.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	567136	4.1
+	"2005"	"2005"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	13	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	19	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	25	567136	4.4
+	"2005"	"2005"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	45	567136	7.9
+	"2005"	"2005"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	184	567136	32.4
+	"2005"	"2005"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	12	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	17	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	44	567136	7.8
+	"2005"	"2005"	"District of Columbia"	"11"	"Exposure to unspecified factor"	"X59"	43	567136	7.6
+	"2005"	"2005"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	137	567136	24.2
+	"2005"	"2005"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	12	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	17	567136	Unreliable
+	"2005"	"2005"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	15	567136	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	102	570681	17.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	29	570681	5.1
+	"2006"	"2006"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	29	570681	5.1
+	"2006"	"2006"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	18	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	24	570681	4.2
+	"2006"	"2006"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	14	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	30	570681	5.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	52	570681	9.1
+	"2006"	"2006"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	42	570681	7.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	22	570681	3.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	108	570681	18.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	19	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	68	570681	11.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	270	570681	47.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	96	570681	16.8
+	"2006"	"2006"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	34	570681	6.0
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	86	570681	15.1
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	570681	3.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	31	570681	5.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	570681	3.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	50	570681	8.8
+	"2006"	"2006"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	30	570681	5.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	38	570681	6.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	18	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	16	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	131	570681	23.0
+	"2006"	"2006"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	82	570681	14.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	30	570681	5.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	22	570681	3.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	26	570681	4.6
+	"2006"	"2006"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	115	570681	20.2
+	"2006"	"2006"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	25	570681	4.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	36	570681	6.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	145	570681	25.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	30	570681	5.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	28	570681	4.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	235	570681	41.2
+	"2006"	"2006"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	613	570681	107.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	272	570681	47.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	14	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Endocarditis, valve unspecified"	"I38"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	22	570681	3.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	21	570681	3.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	50	570681	8.8
+	"2006"	"2006"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	18	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	34	570681	6.0
+	"2006"	"2006"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	107	570681	18.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	20	570681	3.5
+	"2006"	"2006"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	65	570681	11.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	102	570681	17.9
+	"2006"	"2006"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	25	570681	4.4
+	"2006"	"2006"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	24	570681	4.2
+	"2006"	"2006"	"District of Columbia"	"11"	"Hepatic failure, unspecified"	"K72.9"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Liver disease, unspecified"	"K76.9"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Decubitus ulcer"	"L89"	13	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	10	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	26	570681	4.6
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	20	570681	3.5
+	"2006"	"2006"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	36	570681	6.3
+	"2006"	"2006"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	15	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Fall on and from stairs and steps"	"W10"	12	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	14	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	14	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	75	570681	13.1
+	"2006"	"2006"	"District of Columbia"	"11"	"Exposure to unspecified factor"	"X59"	11	570681	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	118	570681	20.7
+	"2006"	"2006"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	14	570681	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	103	574404	17.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	27	574404	4.7
+	"2007"	"2007"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	19	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	24	574404	4.2
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	50	574404	8.7
+	"2007"	"2007"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	574404	5.7
+	"2007"	"2007"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	31	574404	5.4
+	"2007"	"2007"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	102	574404	17.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	15	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	84	574404	14.6
+	"2007"	"2007"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	269	574404	46.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	108	574404	18.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	93	574404	16.2
+	"2007"	"2007"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	574404	4.2
+	"2007"	"2007"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	68	574404	11.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	26	574404	4.5
+	"2007"	"2007"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	574404	5.4
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	112	574404	19.5
+	"2007"	"2007"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	97	574404	16.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	25	574404	4.4
+	"2007"	"2007"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"	"F17.9"	10	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	139	574404	24.2
+	"2007"	"2007"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	24	574404	4.2
+	"2007"	"2007"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	25	574404	4.4
+	"2007"	"2007"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	108	574404	18.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	39	574404	6.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	17	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	193	574404	33.6
+	"2007"	"2007"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	545	574404	94.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	246	574404	42.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	15	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	32	574404	5.6
+	"2007"	"2007"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	22	574404	3.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	29	574404	5.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	62	574404	10.8
+	"2007"	"2007"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	11	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	38	574404	6.6
+	"2007"	"2007"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	17	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	94	574404	16.4
+	"2007"	"2007"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	14	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	74	574404	12.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	105	574404	18.3
+	"2007"	"2007"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	574404	4.0
+	"2007"	"2007"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	28	574404	4.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	19	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Newborn affected by incompetent cervix"	"P01.0"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Newborn affected by chorioamnionitis"	"P02.7"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	103	574404	17.9
+	"2007"	"2007"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	12	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	13	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Exposure to uncontrolled fire in building or structure"	"X00"	10	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	32	574404	5.6
+	"2007"	"2007"	"District of Columbia"	"11"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	16	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	574404	Unreliable
+	"2007"	"2007"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	128	574404	22.3
+	"2007"	"2007"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	20	574404	3.5
+	"2007"	"2007"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	11	574404	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	95	580236	16.4
+	"2008"	"2008"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	32	580236	5.5
+	"2008"	"2008"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	19	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	19	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	26	580236	4.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	46	580236	7.9
+	"2008"	"2008"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	35	580236	6.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	580236	4.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	87	580236	15.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	14	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	21	580236	3.6
+	"2008"	"2008"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	23	580236	4.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	81	580236	14.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	292	580236	50.3
+	"2008"	"2008"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	94	580236	16.2
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	23	580236	4.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	59	580236	10.2
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	580236	4.3
+	"2008"	"2008"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	61	580236	10.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	39	580236	6.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	116	580236	20.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	14	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	113	580236	19.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"	"F17.9"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	26	580236	4.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	132	580236	22.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	26	580236	4.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35	580236	6.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	126	580236	21.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	38	580236	6.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	190	580236	32.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	508	580236	87.6
+	"2008"	"2008"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	235	580236	40.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	16	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	17	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	15	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	10	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	35	580236	6.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Cardiac arrest, unspecified"	"I46.9"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	14	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	21	580236	3.6
+	"2008"	"2008"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	42	580236	7.2
+	"2008"	"2008"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	43	580236	7.4
+	"2008"	"2008"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	107	580236	18.4
+	"2008"	"2008"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	10	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	16	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	12	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	66	580236	11.4
+	"2008"	"2008"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	12	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	30	580236	5.2
+	"2008"	"2008"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	85	580236	14.6
+	"2008"	"2008"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	29	580236	5.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	26	580236	4.5
+	"2008"	"2008"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	25	580236	4.3
+	"2008"	"2008"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	27	580236	4.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	23	580236	4.0
+	"2008"	"2008"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	17	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Newborn affected by premature rupture of membranes"	"P01.1"	16	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	14	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	143	580236	24.6
+	"2008"	"2008"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	13	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	15	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	30	580236	5.2
+	"2008"	"2008"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	120	580236	20.7
+	"2008"	"2008"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	18	580236	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	11	580236	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	77	592228	13.0
+	"2009"	"2009"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	31	592228	5.2
+	"2009"	"2009"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	24	592228	4.1
+	"2009"	"2009"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	13	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	19	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	42	592228	7.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	592228	3.9
+	"2009"	"2009"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	27	592228	4.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	82	592228	13.8
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	14	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	30	592228	5.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	79	592228	13.3
+	"2009"	"2009"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	236	592228	39.8
+	"2009"	"2009"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	99	592228	16.7
+	"2009"	"2009"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	16	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	21	592228	3.5
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	85	592228	14.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	592228	4.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	592228	4.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	14	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	80	592228	13.5
+	"2009"	"2009"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	592228	3.9
+	"2009"	"2009"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	32	592228	5.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	87	592228	14.7
+	"2009"	"2009"	"District of Columbia"	"11"	"Hyperlipidaemia, unspecified"	"E78.5"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	100	592228	16.9
+	"2009"	"2009"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"	"F17.9"	23	592228	3.9
+	"2009"	"2009"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	27	592228	4.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	93	592228	15.7
+	"2009"	"2009"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	21	592228	3.5
+	"2009"	"2009"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	592228	6.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	119	592228	20.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	25	592228	4.2
+	"2009"	"2009"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	169	592228	28.5
+	"2009"	"2009"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	451	592228	76.2
+	"2009"	"2009"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	238	592228	40.2
+	"2009"	"2009"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	14	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	39	592228	6.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	20	592228	3.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	45	592228	7.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	37	592228	6.2
+	"2009"	"2009"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	13	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	91	592228	15.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	66	592228	11.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	12	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	592228	3.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	91	592228	15.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	23	592228	3.9
+	"2009"	"2009"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	19	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	14	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	26	592228	4.4
+	"2009"	"2009"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	12	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	267	592228	45.1
+	"2009"	"2009"	"District of Columbia"	"11"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	17	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Exposure to uncontrolled fire in building or structure"	"X00"	15	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	592228	Unreliable
+	"2009"	"2009"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	104	592228	17.6
+	"2009"	"2009"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	21	592228	3.5
+	"2010"	"2010"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	80	601723	13.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	23	601723	3.8
+	"2010"	"2010"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	23	601723	3.8
+	"2010"	"2010"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	23	601723	3.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	27	601723	4.5
+	"2010"	"2010"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	601723	4.2
+	"2010"	"2010"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	17	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	89	601723	14.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	35	601723	5.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	82	601723	13.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	226	601723	37.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	100	601723	16.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	20	601723	3.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	21	601723	3.5
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	71	601723	11.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	46	601723	7.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	601723	5.2
+	"2010"	"2010"	"District of Columbia"	"11"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	99	601723	16.5
+	"2010"	"2010"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	16	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	126	601723	20.9
+	"2010"	"2010"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	20	601723	3.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	26	601723	4.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	113	601723	18.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	24	601723	4.0
+	"2010"	"2010"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	601723	4.7
+	"2010"	"2010"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	121	601723	20.1
+	"2010"	"2010"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	32	601723	5.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	22	601723	3.7
+	"2010"	"2010"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	175	601723	29.1
+	"2010"	"2010"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	503	601723	83.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	198	601723	32.9
+	"2010"	"2010"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	19	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	601723	3.7
+	"2010"	"2010"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	11	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	11	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Endocarditis, valve unspecified"	"I38"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	24	601723	4.0
+	"2010"	"2010"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	14	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	27	601723	4.5
+	"2010"	"2010"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	37	601723	6.1
+	"2010"	"2010"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	32	601723	5.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	94	601723	15.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	12	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	65	601723	10.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	26	601723	4.3
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	601723	16.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	22	601723	3.7
+	"2010"	"2010"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	25	601723	4.2
+	"2010"	"2010"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic nephritic syndrome, unspecified"	"N03.9"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	24	601723	4.0
+	"2010"	"2010"	"District of Columbia"	"11"	"End-stage renal disease"	"N18.0"	19	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Chronic renal failure, unspecified"	"N18.9"	13	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	17	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	23	601723	3.8
+	"2010"	"2010"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Fall on and from stairs and steps"	"W10"	10	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	37	601723	6.1
+	"2010"	"2010"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	601723	8.1
+	"2010"	"2010"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	601723	Unreliable
+	"2010"	"2010"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	82	601723	13.6
+	"2010"	"2010"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	14	601723	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	86	617996	13.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	35	617996	5.7
+	"2011"	"2011"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	13	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	15	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	24	617996	3.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	617996	3.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	27	617996	4.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	93	617996	15.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	16	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	37	617996	6.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	72	617996	11.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	235	617996	38.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	89	617996	14.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	34	617996	5.5
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	82	617996	13.3
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	29	617996	4.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	52	617996	8.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	21	617996	3.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	21	617996	3.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	25	617996	4.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	74	617996	12.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Hyperlipidaemia, unspecified"	"E78.5"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	27	617996	4.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	148	617996	23.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	35	617996	5.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	25	617996	4.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	118	617996	19.1
+	"2011"	"2011"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	45	617996	7.3
+	"2011"	"2011"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35	617996	5.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	113	617996	18.3
+	"2011"	"2011"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	34	617996	5.5
+	"2011"	"2011"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	18	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	148	617996	23.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	434	617996	70.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	193	617996	31.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	12	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Endocarditis, valve unspecified"	"I38"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	38	617996	6.1
+	"2011"	"2011"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	21	617996	3.4
+	"2011"	"2011"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	40	617996	6.5
+	"2011"	"2011"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	29	617996	4.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	14	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	106	617996	17.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	74	617996	12.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	32	617996	5.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	617996	17.3
+	"2011"	"2011"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	25	617996	4.0
+	"2011"	"2011"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Other and unspecified intestinal obstruction"	"K56.6"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	35	617996	5.7
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	24	617996	3.9
+	"2011"	"2011"	"District of Columbia"	"11"	"Newborn affected by premature rupture of membranes"	"P01.1"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Newborn affected by chorioamnionitis"	"P02.7"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Other lack of expected normal physiological development"	"R62.8"	11	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	10	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	28	617996	4.5
+	"2011"	"2011"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	42	617996	6.8
+	"2011"	"2011"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	617996	3.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	76	617996	12.3
+	"2011"	"2011"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	18	617996	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	12	617996	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	67	632323	10.6
+	"2012"	"2012"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	24	632323	3.8
+	"2012"	"2012"	"District of Columbia"	"11"	"HIV disease resulting in other bacterial infections"	"B20.1"	10	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	19	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	30	632323	4.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	30	632323	4.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	25	632323	4.0
+	"2012"	"2012"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	65	632323	10.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	30	632323	4.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	25	632323	4.0
+	"2012"	"2012"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	79	632323	12.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	241	632323	38.1
+	"2012"	"2012"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	109	632323	17.2
+	"2012"	"2012"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	17	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	10	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	23	632323	3.6
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	74	632323	11.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	632323	3.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	45	632323	7.1
+	"2012"	"2012"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	632323	3.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	12	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	27	632323	4.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	79	632323	12.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	14	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Hyperlipidaemia, unspecified"	"E78.5"	11	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	19	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	146	632323	23.1
+	"2012"	"2012"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	18	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	10	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	21	632323	3.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	128	632323	20.2
+	"2012"	"2012"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	30	632323	4.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	37	632323	5.9
+	"2012"	"2012"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	149	632323	23.6
+	"2012"	"2012"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	38	632323	6.0
+	"2012"	"2012"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	19	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	157	632323	24.8
+	"2012"	"2012"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	463	632323	73.2
+	"2012"	"2012"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	199	632323	31.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	16	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	16	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	18	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	24	632323	3.8
+	"2012"	"2012"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	20	632323	3.2
+	"2012"	"2012"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	35	632323	5.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	37	632323	5.9
+	"2012"	"2012"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	632323	4.9
+	"2012"	"2012"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	632323	17.7
+	"2012"	"2012"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	12	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	70	632323	11.1
+	"2012"	"2012"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	632323	3.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	92	632323	14.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	23	632323	3.6
+	"2012"	"2012"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	25	632323	4.0
+	"2012"	"2012"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	19	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	24	632323	3.8
+	"2012"	"2012"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Senility"	"R54"	17	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	632323	3.3
+	"2012"	"2012"	"District of Columbia"	"11"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	10	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	34	632323	5.4
+	"2012"	"2012"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	44	632323	7.0
+	"2012"	"2012"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	632323	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	54	632323	8.5
+	"2012"	"2012"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	12	632323	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	66	646449	10.2
+	"2013"	"2013"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	35	646449	5.4
+	"2013"	"2013"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	11	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	19	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	646449	3.6
+	"2013"	"2013"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	35	646449	5.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	67	646449	10.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	34	646449	5.3
+	"2013"	"2013"	"District of Columbia"	"11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	23	646449	3.6
+	"2013"	"2013"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	76	646449	11.8
+	"2013"	"2013"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	259	646449	40.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	108	646449	16.7
+	"2013"	"2013"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	20	646449	3.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	26	646449	4.0
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	77	646449	11.9
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	646449	3.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	54	646449	8.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	18	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	48	646449	7.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	10	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Obesity, unspecified"	"E66.9"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	22	646449	3.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	177	646449	27.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	34	646449	5.3
+	"2013"	"2013"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	130	646449	20.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Degenerative disease of nervous system, unspecified"	"G31.9"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	24	646449	3.7
+	"2013"	"2013"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	646449	5.9
+	"2013"	"2013"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	173	646449	26.8
+	"2013"	"2013"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	32	646449	5.0
+	"2013"	"2013"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	24	646449	3.7
+	"2013"	"2013"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	143	646449	22.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	487	646449	75.3
+	"2013"	"2013"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	186	646449	28.8
+	"2013"	"2013"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	10	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	25	646449	3.9
+	"2013"	"2013"	"District of Columbia"	"11"	"Cardiac arrest, unspecified"	"I46.9"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	20	646449	3.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	48	646449	7.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	50	646449	7.7
+	"2013"	"2013"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	11	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	35	646449	5.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	15	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	77	646449	11.9
+	"2013"	"2013"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	16	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	17	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	74	646449	11.4
+	"2013"	"2013"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	646449	3.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	99	646449	15.3
+	"2013"	"2013"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	23	646449	3.6
+	"2013"	"2013"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	646449	3.2
+	"2013"	"2013"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Other and unspecified intestinal obstruction"	"K56.6"	14	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	23	646449	3.6
+	"2013"	"2013"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	646449	3.1
+	"2013"	"2013"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	11	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	26	646449	4.0
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	18	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	12	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Senility"	"R54"	10	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	37	646449	5.7
+	"2013"	"2013"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	57	646449	8.8
+	"2013"	"2013"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	646449	Unreliable
+	"2013"	"2013"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	58	646449	9.0
+	"2013"	"2013"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	12	646449	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	67	658893	10.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	31	658893	4.7
+	"2014"	"2014"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	15	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	27	658893	4.1
+	"2014"	"2014"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	37	658893	5.6
+	"2014"	"2014"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	99	658893	15.0
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	658893	3.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	19	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	17	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of gallbladder"	"C23"	12	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	89	658893	13.5
+	"2014"	"2014"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	243	658893	36.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	104	658893	15.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	15	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	28	658893	4.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	72	658893	10.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	658893	3.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	658893	3.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	12	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	44	658893	6.7
+	"2014"	"2014"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	27	658893	4.1
+	"2014"	"2014"	"District of Columbia"	"11"	"Sarcoidosis, unspecified"	"D86.9"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	28	658893	4.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	55	658893	8.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	12	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	48	658893	7.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	140	658893	21.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	12	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	12	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	32	658893	4.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	117	658893	17.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	32	658893	4.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	658893	5.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	166	658893	25.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	32	658893	4.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	25	658893	3.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	146	658893	22.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	456	658893	69.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	184	658893	27.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	16	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	21	658893	3.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Dilated cardiomyopathy"	"I42.0"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	25	658893	3.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	23	658893	3.5
+	"2014"	"2014"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	55	658893	8.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	35	658893	5.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	658893	4.7
+	"2014"	"2014"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	90	658893	13.7
+	"2014"	"2014"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	20	658893	3.0
+	"2014"	"2014"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	15	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	64	658893	9.7
+	"2014"	"2014"	"District of Columbia"	"11"	"Emphysema, unspecified"	"J43.9"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	95	658893	14.4
+	"2014"	"2014"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	28	658893	4.2
+	"2014"	"2014"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Other and unspecified intestinal obstruction"	"K56.6"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	25	658893	3.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	25	658893	3.8
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified renal failure"	"N19"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	24	658893	3.6
+	"2014"	"2014"	"District of Columbia"	"11"	"Senility"	"R54"	14	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	15	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	30	658893	4.6
+	"2014"	"2014"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	658893	7.4
+	"2014"	"2014"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	26	658893	3.9
+	"2014"	"2014"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to alcohol"	"X45"	10	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	658893	3.3
+	"2014"	"2014"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	66	658893	10.0
+	"2014"	"2014"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	11	658893	Unreliable
+	"2014"	"2014"	"District of Columbia"	"11"	"Assault by unspecified means"	"Y09"	13	658893	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	80	672228	11.9
+	"2015"	"2015"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	40	672228	6.0
+	"2015"	"2015"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	19	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	672228	3.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	29	672228	4.3
+	"2015"	"2015"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	88	672228	13.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	18	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	672228	3.6
+	"2015"	"2015"	"District of Columbia"	"11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	22	672228	3.3
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of gallbladder"	"C23"	11	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	91	672228	13.5
+	"2015"	"2015"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	202	672228	30.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	104	672228	15.5
+	"2015"	"2015"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	13	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	13	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	34	672228	5.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	64	672228	9.5
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	29	672228	4.3
+	"2015"	"2015"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	46	672228	6.8
+	"2015"	"2015"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	26	672228	3.9
+	"2015"	"2015"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	34	672228	5.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	79	672228	11.8
+	"2015"	"2015"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	17	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	148	672228	22.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Motor neuron disease"	"G12.2"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	33	672228	4.9
+	"2015"	"2015"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	129	672228	19.2
+	"2015"	"2015"	"District of Columbia"	"11"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	56	672228	8.3
+	"2015"	"2015"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43	672228	6.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	187	672228	27.8
+	"2015"	"2015"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	30	672228	4.5
+	"2015"	"2015"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	17	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	119	672228	17.7
+	"2015"	"2015"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	339	672228	50.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	171	672228	25.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	23	672228	3.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	16	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	35	672228	5.2
+	"2015"	"2015"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	21	672228	3.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	56	672228	8.3
+	"2015"	"2015"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	67	672228	10.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Heart failure, unspecified"	"I50.9"	11	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	672228	4.6
+	"2015"	"2015"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	21	672228	3.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	86	672228	12.8
+	"2015"	"2015"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	40	672228	6.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	21	672228	3.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	88	672228	13.1
+	"2015"	"2015"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	672228	3.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	99	672228	14.7
+	"2015"	"2015"	"District of Columbia"	"11"	"Asthma, unspecified"	"J45.9"	12	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	35	672228	5.2
+	"2015"	"2015"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	672228	3.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Other and unspecified intestinal obstruction"	"K56.6"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	26	672228	3.9
+	"2015"	"2015"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	672228	3.4
+	"2015"	"2015"	"District of Columbia"	"11"	"Liver disease, unspecified"	"K76.9"	13	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Acute renal failure, unspecified"	"N17.9"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	35	672228	5.2
+	"2015"	"2015"	"District of Columbia"	"11"	"Chronic renal failure, unspecified"	"N18.9"	15	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	16	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	11	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Respiratory arrest"	"R09.2"	12	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Other fall on same level"	"W18"	13	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	31	672228	4.6
+	"2015"	"2015"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	92	672228	13.7
+	"2015"	"2015"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	672228	3.0
+	"2015"	"2015"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to alcohol"	"X45"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	672228	Unreliable
+	"2015"	"2015"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	105	672228	15.6
+	"2015"	"2015"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	21	672228	3.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	75	681170	11.0
+	"2016"	"2016"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	30	681170	4.4
+	"2016"	"2016"	"District of Columbia"	"11"	"HIV disease resulting in multiple infections"	"B20.7"	13	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	13	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	14	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	681170	3.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	28	681170	4.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	77	681170	11.3
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	15	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	50	681170	7.3
+	"2016"	"2016"	"District of Columbia"	"11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	87	681170	12.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	178	681170	26.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	87	681170	12.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	21	681170	3.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	16	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	21	681170	3.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	74	681170	10.9
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	681170	4.0
+	"2016"	"2016"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	49	681170	7.2
+	"2016"	"2016"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	20	681170	2.9
+	"2016"	"2016"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	32	681170	4.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	43	681170	6.3
+	"2016"	"2016"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	12	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Hyperlipidaemia, unspecified"	"E78.5"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	27	681170	4.0
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	131	681170	19.2
+	"2016"	"2016"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	26	681170	3.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	28	681170	4.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	120	681170	17.6
+	"2016"	"2016"	"District of Columbia"	"11"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	39	681170	5.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	16	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	35	681170	5.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	51	681170	7.5
+	"2016"	"2016"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	189	681170	27.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	34	681170	5.0
+	"2016"	"2016"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	28	681170	4.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Acute subendocardial myocardial infarction"	"I21.4"	13	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	126	681170	18.5
+	"2016"	"2016"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	433	681170	63.6
+	"2016"	"2016"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	185	681170	27.2
+	"2016"	"2016"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	25	681170	3.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	16	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	14	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	53	681170	7.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	21	681170	3.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	55	681170	8.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	44	681170	6.5
+	"2016"	"2016"	"District of Columbia"	"11"	"Heart failure, unspecified"	"I50.9"	25	681170	3.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Cardiovascular disease, unspecified"	"I51.6"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	681170	3.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	101	681170	14.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	35	681170	5.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	23	681170	3.4
+	"2016"	"2016"	"District of Columbia"	"11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Generalized and unspecified atherosclerosis"	"I70.9"	11	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	17	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	60	681170	8.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	681170	15.9
+	"2016"	"2016"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	29	681170	4.3
+	"2016"	"2016"	"District of Columbia"	"11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	25	681170	3.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	35	681170	5.1
+	"2016"	"2016"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	32	681170	4.7
+	"2016"	"2016"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	45	681170	6.6
+	"2016"	"2016"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X40"	13	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	163	681170	23.9
+	"2016"	"2016"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	63	681170	9.2
+	"2016"	"2016"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to alcohol"	"X45"	12	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	98	681170	14.4
+	"2016"	"2016"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	17	681170	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	13	681170	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Septicaemia, unspecified"	"A41.9"	60	693972	8.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic viral hepatitis C"	"B18.2"	24	693972	3.5
+	"2017"	"2017"	"District of Columbia"	"11"	"HIV disease resulting in other specified conditions"	"B23.8"	23	693972	3.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	693972	3.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	61	693972	8.8
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of rectum"	"C20"	14	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	31	693972	4.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	18	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	76	693972	11.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	199	693972	28.7
+	"2017"	"2017"	"District of Columbia"	"11"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	92	693972	13.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Endometrium - Malignant neoplasms"	"C54.1"	25	693972	3.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	25	693972	3.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of ovary"	"C56"	24	693972	3.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of prostate"	"C61"	57	693972	8.2
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	30	693972	4.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Malignant neoplasm without specification of site"	"C80"	56	693972	8.1
+	"2017"	"2017"	"District of Columbia"	"11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	30	693972	4.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	13	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	37	693972	5.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	43	693972	6.2
+	"2017"	"2017"	"District of Columbia"	"11"	"Other obesity"	"E66.8"	14	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Vascular dementia, unspecified"	"F01.9"	22	693972	3.2
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified dementia"	"F03"	144	693972	20.8
+	"2017"	"2017"	"District of Columbia"	"11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	20	693972	2.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Parkinson disease"	"G20"	37	693972	5.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Alzheimer disease, unspecified"	"G30.9"	124	693972	17.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	60	693972	8.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Essential (primary) hypertension"	"I10"	38	693972	5.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	693972	5.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	207	693972	29.8
+	"2017"	"2017"	"District of Columbia"	"11"	"Hypertensive renal disease with renal failure"	"I12.0"	37	693972	5.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	18	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Acute subendocardial myocardial infarction"	"I21.4"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Acute myocardial infarction, unspecified"	"I21.9"	140	693972	20.2
+	"2017"	"2017"	"District of Columbia"	"11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	370	693972	53.3
+	"2017"	"2017"	"District of Columbia"	"11"	"Atherosclerotic heart disease"	"I25.1"	143	693972	20.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Ischaemic cardiomyopathy"	"I25.5"	28	693972	4.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Other secondary pulmonary hypertension"	"I27.2"	20	693972	2.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Aortic (valve) stenosis"	"I35.0"	25	693972	3.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Cardiomyopathy, unspecified"	"I42.9"	40	693972	5.8
+	"2017"	"2017"	"District of Columbia"	"11"	"Atrial fibrillation and flutter"	"I48"	32	693972	4.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Cardiac arrhythmia, unspecified"	"I49.9"	41	693972	5.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Congestive heart failure"	"I50.0"	45	693972	6.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Heart failure, unspecified"	"I50.9"	24	693972	3.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	693972	3.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Cerebral infarction, unspecified"	"I63.9"	16	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	83	693972	12.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Cerebral atherosclerosis"	"I67.2"	35	693972	5.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Cerebrovascular disease, unspecified"	"I67.9"	25	693972	3.6
+	"2017"	"2017"	"District of Columbia"	"11"	"Dissection of aorta [any part]"	"I71.0"	16	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Peripheral vascular disease, unspecified"	"I73.9"	20	693972	2.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	12	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Pneumonia, unspecified"	"J18.9"	59	693972	8.5
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	693972	14.4
+	"2017"	"2017"	"District of Columbia"	"11"	"Pneumonitis due to food and vomit"	"J69.0"	27	693972	3.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Alcoholic cirrhosis of liver"	"K70.3"	27	693972	3.9
+	"2017"	"2017"	"District of Columbia"	"11"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	693972	3.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic kidney disease, stage 5"	"N18.5"	42	693972	6.1
+	"2017"	"2017"	"District of Columbia"	"11"	"Chronic renal failure, unspecified"	"N18.9"	12	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Urinary tract infection, site not specified"	"N39.0"	28	693972	4.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Extreme immaturity"	"P07.2"	10	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Unspecified fall"	"W19"	40	693972	5.8
+	"2017"	"2017"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	192	693972	27.7
+	"2017"	"2017"	"District of Columbia"	"11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	83	693972	12.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Assault by other and unspecified firearm discharge"	"X95"	83	693972	12.0
+	"2017"	"2017"	"District of Columbia"	"11"	"Assault by sharp object"	"X99"	14	693972	Unreliable
+	"2017"	"2017"	"District of Columbia"	"11"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	11	693972	Unreliable

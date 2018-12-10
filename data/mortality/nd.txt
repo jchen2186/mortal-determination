@@ -1,0 +1,1821 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Underlying Cause of death"	"Underlying Cause of death Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	28	644259	4.3
+	"1999"	"1999"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	644259	4.3
+	"1999"	"1999"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	37	644259	5.7
+	"1999"	"1999"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	113	644259	17.5
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	17	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	20	644259	3.1
+	"1999"	"1999"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	69	644259	10.7
+	"1999"	"1999"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	294	644259	45.6
+	"1999"	"1999"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	114	644259	17.7
+	"1999"	"1999"	"North Dakota"	"38"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	31	644259	4.8
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	88	644259	13.7
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	38	644259	5.9
+	"1999"	"1999"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	39	644259	6.1
+	"1999"	"1999"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	36	644259	5.6
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	70	644259	10.9
+	"1999"	"1999"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	54	644259	8.4
+	"1999"	"1999"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	27	644259	4.2
+	"1999"	"1999"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	644259	3.7
+	"1999"	"1999"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	29	644259	4.5
+	"1999"	"1999"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	35	644259	5.4
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	13	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	99	644259	15.4
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified protein-energy malnutrition"	"E46"	10	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Volume depletion"	"E86"	14	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	107	644259	16.6
+	"1999"	"1999"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	22	644259	3.4
+	"1999"	"1999"	"North Dakota"	"38"	"Parkinson disease"	"G20"	49	644259	7.6
+	"1999"	"1999"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	150	644259	23.3
+	"1999"	"1999"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	36	644259	5.6
+	"1999"	"1999"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	644259	4.3
+	"1999"	"1999"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	638	644259	99.0
+	"1999"	"1999"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	117	644259	18.2
+	"1999"	"1999"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	478	644259	74.2
+	"1999"	"1999"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	23	644259	3.6
+	"1999"	"1999"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	45	644259	7.0
+	"1999"	"1999"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	25	644259	3.9
+	"1999"	"1999"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	34	644259	5.3
+	"1999"	"1999"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	19	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	11	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	22	644259	3.4
+	"1999"	"1999"	"North Dakota"	"38"	"Sudden cardiac death, so described"	"I46.1"	17	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	33	644259	5.1
+	"1999"	"1999"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	26	644259	4.0
+	"1999"	"1999"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	178	644259	27.6
+	"1999"	"1999"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	13	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	42	644259	6.5
+	"1999"	"1999"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	21	644259	3.3
+	"1999"	"1999"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	314	644259	48.7
+	"1999"	"1999"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	14	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	29	644259	4.5
+	"1999"	"1999"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	19	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	41	644259	6.4
+	"1999"	"1999"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	20	644259	3.1
+	"1999"	"1999"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	21	644259	3.3
+	"1999"	"1999"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	135	644259	21.0
+	"1999"	"1999"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	230	644259	35.7
+	"1999"	"1999"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	14	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	50	644259	7.8
+	"1999"	"1999"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	31	644259	4.8
+	"1999"	"1999"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	13	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	26	644259	4.0
+	"1999"	"1999"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	644259	3.3
+	"1999"	"1999"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	12	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	10	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	22	644259	3.4
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	45	644259	7.0
+	"1999"	"1999"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	16	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Senility"	"R54"	13	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	12	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	34	644259	5.3
+	"1999"	"1999"	"North Dakota"	"38"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	11	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	12	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	31	644259	4.8
+	"1999"	"1999"	"North Dakota"	"38"	"Unspecified fall"	"W19"	27	644259	4.2
+	"1999"	"1999"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	11	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15	644259	Unreliable
+	"1999"	"1999"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	644259	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	32	642200	5.0
+	"2000"	"2000"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	642200	4.0
+	"2000"	"2000"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	33	642200	5.1
+	"2000"	"2000"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	113	642200	17.6
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	20	642200	3.1
+	"2000"	"2000"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	73	642200	11.4
+	"2000"	"2000"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	312	642200	48.6
+	"2000"	"2000"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	99	642200	15.4
+	"2000"	"2000"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	14	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	37	642200	5.8
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	100	642200	15.6
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	31	642200	4.8
+	"2000"	"2000"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	642200	6.5
+	"2000"	"2000"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	22	642200	3.4
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	68	642200	10.6
+	"2000"	"2000"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	61	642200	9.5
+	"2000"	"2000"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	32	642200	5.0
+	"2000"	"2000"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	21	642200	3.3
+	"2000"	"2000"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	22	642200	3.4
+	"2000"	"2000"	"North Dakota"	"38"	"Anaemia, unspecified"	"D64.9"	10	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	24	642200	3.7
+	"2000"	"2000"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	46	642200	7.2
+	"2000"	"2000"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	12	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	96	642200	14.9
+	"2000"	"2000"	"North Dakota"	"38"	"Volume depletion"	"E86"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	41	642200	6.4
+	"2000"	"2000"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	18	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Parkinson disease"	"G20"	59	642200	9.2
+	"2000"	"2000"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	206	642200	32.1
+	"2000"	"2000"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	32	642200	5.0
+	"2000"	"2000"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	642200	4.0
+	"2000"	"2000"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	29	642200	4.5
+	"2000"	"2000"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	597	642200	93.0
+	"2000"	"2000"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	128	642200	19.9
+	"2000"	"2000"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	509	642200	79.3
+	"2000"	"2000"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	15	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	41	642200	6.4
+	"2000"	"2000"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	19	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	27	642200	4.2
+	"2000"	"2000"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	34	642200	5.3
+	"2000"	"2000"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	23	642200	3.6
+	"2000"	"2000"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	19	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	97	642200	15.1
+	"2000"	"2000"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	42	642200	6.5
+	"2000"	"2000"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	26	642200	4.0
+	"2000"	"2000"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	260	642200	40.5
+	"2000"	"2000"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	25	642200	3.9
+	"2000"	"2000"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	31	642200	4.8
+	"2000"	"2000"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	60	642200	9.3
+	"2000"	"2000"	"North Dakota"	"38"	"Dissection of aorta [any part]"	"I71.0"	14	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	24	642200	3.7
+	"2000"	"2000"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	134	642200	20.9
+	"2000"	"2000"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	28	642200	4.4
+	"2000"	"2000"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	240	642200	37.4
+	"2000"	"2000"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	12	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	41	642200	6.4
+	"2000"	"2000"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	642200	3.6
+	"2000"	"2000"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	18	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	12	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	13	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	28	642200	4.4
+	"2000"	"2000"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	15	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Senility"	"R54"	11	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	642200	3.3
+	"2000"	"2000"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Unspecified fall"	"W19"	31	642200	4.8
+	"2000"	"2000"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	13	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	16	642200	Unreliable
+	"2000"	"2000"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	642200	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	33	639062	5.2
+	"2001"	"2001"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	36	639062	5.6
+	"2001"	"2001"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	639062	4.1
+	"2001"	"2001"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	116	639062	18.2
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	23	639062	3.6
+	"2001"	"2001"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	15	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	81	639062	12.7
+	"2001"	"2001"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	340	639062	53.2
+	"2001"	"2001"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	106	639062	16.6
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	30	639062	4.7
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	88	639062	13.8
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	36	639062	5.6
+	"2001"	"2001"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	30	639062	4.7
+	"2001"	"2001"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	36	639062	5.6
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	46	639062	7.2
+	"2001"	"2001"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	50	639062	7.8
+	"2001"	"2001"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	29	639062	4.5
+	"2001"	"2001"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	17	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	31	639062	4.9
+	"2001"	"2001"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	21	639062	3.3
+	"2001"	"2001"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	22	639062	3.4
+	"2001"	"2001"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	48	639062	7.5
+	"2001"	"2001"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	100	639062	15.6
+	"2001"	"2001"	"North Dakota"	"38"	"Unspecified protein-energy malnutrition"	"E46"	15	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	16	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Volume depletion"	"E86"	20	639062	3.1
+	"2001"	"2001"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	56	639062	8.8
+	"2001"	"2001"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	17	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Parkinson disease"	"G20"	43	639062	6.7
+	"2001"	"2001"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	220	639062	34.4
+	"2001"	"2001"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	32	639062	5.0
+	"2001"	"2001"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	639062	4.5
+	"2001"	"2001"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	35	639062	5.5
+	"2001"	"2001"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	583	639062	91.2
+	"2001"	"2001"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	121	639062	18.9
+	"2001"	"2001"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	529	639062	82.8
+	"2001"	"2001"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	22	639062	3.4
+	"2001"	"2001"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	34	639062	5.3
+	"2001"	"2001"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	24	639062	3.8
+	"2001"	"2001"	"North Dakota"	"38"	"Primary pulmonary hypertension"	"I27.0"	12	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	18	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	11	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	31	639062	4.9
+	"2001"	"2001"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	32	639062	5.0
+	"2001"	"2001"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	19	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	83	639062	13.0
+	"2001"	"2001"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	15	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Cardiovascular disease, unspecified"	"I51.6"	14	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	47	639062	7.4
+	"2001"	"2001"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	19	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	36	639062	5.6
+	"2001"	"2001"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	281	639062	44.0
+	"2001"	"2001"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	22	639062	3.4
+	"2001"	"2001"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	35	639062	5.5
+	"2001"	"2001"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	17	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	54	639062	8.4
+	"2001"	"2001"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	17	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	22	639062	3.4
+	"2001"	"2001"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	146	639062	22.8
+	"2001"	"2001"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	28	639062	4.4
+	"2001"	"2001"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	256	639062	40.1
+	"2001"	"2001"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	43	639062	6.7
+	"2001"	"2001"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	639062	3.6
+	"2001"	"2001"	"North Dakota"	"38"	"Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage"	"K27.4"	15	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	16	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	40	639062	6.3
+	"2001"	"2001"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	11	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	20	639062	3.1
+	"2001"	"2001"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	16	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Senility"	"R54"	13	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	10	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	28	639062	4.4
+	"2001"	"2001"	"North Dakota"	"38"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	10	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	30	639062	4.7
+	"2001"	"2001"	"North Dakota"	"38"	"Unspecified fall"	"W19"	33	639062	5.2
+	"2001"	"2001"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	14	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	12	639062	Unreliable
+	"2001"	"2001"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	21	639062	3.3
+	"2002"	"2002"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	39	638168	6.1
+	"2002"	"2002"	"North Dakota"	"38"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	638168	3.4
+	"2002"	"2002"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	25	638168	3.9
+	"2002"	"2002"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	110	638168	17.2
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of rectosigmoid junction"	"C19"	15	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	18	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	638168	9.9
+	"2002"	"2002"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	302	638168	47.3
+	"2002"	"2002"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	104	638168	16.3
+	"2002"	"2002"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	14	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	31	638168	4.9
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	88	638168	13.8
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	42	638168	6.6
+	"2002"	"2002"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	638168	4.2
+	"2002"	"2002"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	32	638168	5.0
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	52	638168	8.1
+	"2002"	"2002"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	43	638168	6.7
+	"2002"	"2002"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	33	638168	5.2
+	"2002"	"2002"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	28	638168	4.4
+	"2002"	"2002"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	13	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	76	638168	11.9
+	"2002"	"2002"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	92	638168	14.4
+	"2002"	"2002"	"North Dakota"	"38"	"Volume depletion"	"E86"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	49	638168	7.7
+	"2002"	"2002"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	13	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Parkinson disease"	"G20"	50	638168	7.8
+	"2002"	"2002"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	290	638168	45.4
+	"2002"	"2002"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	11	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	25	638168	3.9
+	"2002"	"2002"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	34	638168	5.3
+	"2002"	"2002"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	28	638168	4.4
+	"2002"	"2002"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	516	638168	80.9
+	"2002"	"2002"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	146	638168	22.9
+	"2002"	"2002"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	485	638168	76.0
+	"2002"	"2002"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	30	638168	4.7
+	"2002"	"2002"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	42	638168	6.6
+	"2002"	"2002"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	23	638168	3.6
+	"2002"	"2002"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	30	638168	4.7
+	"2002"	"2002"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	17	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	15	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	28	638168	4.4
+	"2002"	"2002"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	31	638168	4.9
+	"2002"	"2002"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	20	638168	3.1
+	"2002"	"2002"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	82	638168	12.8
+	"2002"	"2002"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	14	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	45	638168	7.1
+	"2002"	"2002"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	31	638168	4.9
+	"2002"	"2002"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	248	638168	38.9
+	"2002"	"2002"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	28	638168	4.4
+	"2002"	"2002"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	30	638168	4.7
+	"2002"	"2002"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	26	638168	4.1
+	"2002"	"2002"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	39	638168	6.1
+	"2002"	"2002"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	15	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	28	638168	4.4
+	"2002"	"2002"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	140	638168	21.9
+	"2002"	"2002"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	39	638168	6.1
+	"2002"	"2002"	"North Dakota"	"38"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	256	638168	40.1
+	"2002"	"2002"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	50	638168	7.8
+	"2002"	"2002"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	37	638168	5.8
+	"2002"	"2002"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	20	638168	3.1
+	"2002"	"2002"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	32	638168	5.0
+	"2002"	"2002"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	16	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	21	638168	3.3
+	"2002"	"2002"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Senility"	"R54"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	36	638168	5.6
+	"2002"	"2002"	"North Dakota"	"38"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	15	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	12	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Unspecified fall"	"W19"	25	638168	3.9
+	"2002"	"2002"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	10	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	21	638168	3.3
+	"2002"	"2002"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	16	638168	Unreliable
+	"2002"	"2002"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	16	638168	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	28	638817	4.4
+	"2003"	"2003"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	32	638817	5.0
+	"2003"	"2003"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	638817	4.1
+	"2003"	"2003"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	115	638817	18.0
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	75	638817	11.7
+	"2003"	"2003"	"North Dakota"	"38"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	13	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	310	638817	48.5
+	"2003"	"2003"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	93	638817	14.6
+	"2003"	"2003"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	11	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	37	638817	5.8
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	96	638817	15.0
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	39	638817	6.1
+	"2003"	"2003"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	31	638817	4.9
+	"2003"	"2003"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	638817	3.8
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	67	638817	10.5
+	"2003"	"2003"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	33	638817	5.2
+	"2003"	"2003"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	638817	4.9
+	"2003"	"2003"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	16	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	21	638817	3.3
+	"2003"	"2003"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	23	638817	3.6
+	"2003"	"2003"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	22	638817	3.4
+	"2003"	"2003"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	57	638817	8.9
+	"2003"	"2003"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	96	638817	15.0
+	"2003"	"2003"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	10	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	50	638817	7.8
+	"2003"	"2003"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Parkinson disease"	"G20"	52	638817	8.1
+	"2003"	"2003"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	329	638817	51.5
+	"2003"	"2003"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	34	638817	5.3
+	"2003"	"2003"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	638817	3.4
+	"2003"	"2003"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	46	638817	7.2
+	"2003"	"2003"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	13	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	537	638817	84.1
+	"2003"	"2003"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	144	638817	22.5
+	"2003"	"2003"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	501	638817	78.4
+	"2003"	"2003"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	29	638817	4.5
+	"2003"	"2003"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	42	638817	6.6
+	"2003"	"2003"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	16	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Primary pulmonary hypertension"	"I27.0"	15	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	21	638817	3.3
+	"2003"	"2003"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	29	638817	4.5
+	"2003"	"2003"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	29	638817	4.5
+	"2003"	"2003"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	84	638817	13.1
+	"2003"	"2003"	"North Dakota"	"38"	"Cardiovascular disease, unspecified"	"I51.6"	13	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	48	638817	7.5
+	"2003"	"2003"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	39	638817	6.1
+	"2003"	"2003"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	255	638817	39.9
+	"2003"	"2003"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	31	638817	4.9
+	"2003"	"2003"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	28	638817	4.4
+	"2003"	"2003"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	43	638817	6.7
+	"2003"	"2003"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	18	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	157	638817	24.6
+	"2003"	"2003"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	23	638817	3.6
+	"2003"	"2003"	"North Dakota"	"38"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	247	638817	38.7
+	"2003"	"2003"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	49	638817	7.7
+	"2003"	"2003"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	638817	4.2
+	"2003"	"2003"	"North Dakota"	"38"	"Acute vascular disorders of intestine"	"K55.0"	12	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	38	638817	5.9
+	"2003"	"2003"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	12	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	10	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	16	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	17	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	22	638817	3.4
+	"2003"	"2003"	"North Dakota"	"38"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	11	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Unspecified fall"	"W19"	43	638817	6.7
+	"2003"	"2003"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	10	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	638817	3.4
+	"2003"	"2003"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	14	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	638817	Unreliable
+	"2003"	"2003"	"North Dakota"	"38"	"Assault by other and unspecified firearm discharge"	"X95"	11	638817	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	29	644705	4.5
+	"2004"	"2004"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	644705	4.5
+	"2004"	"2004"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	644705	4.0
+	"2004"	"2004"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	97	644705	15.0
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	16	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	70	644705	10.9
+	"2004"	"2004"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	355	644705	55.1
+	"2004"	"2004"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	90	644705	14.0
+	"2004"	"2004"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	13	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	26	644705	4.0
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	89	644705	13.8
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	42	644705	6.5
+	"2004"	"2004"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	35	644705	5.4
+	"2004"	"2004"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	22	644705	3.4
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	69	644705	10.7
+	"2004"	"2004"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	33	644705	5.1
+	"2004"	"2004"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	33	644705	5.1
+	"2004"	"2004"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	15	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	14	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	17	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	48	644705	7.4
+	"2004"	"2004"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	14	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	109	644705	16.9
+	"2004"	"2004"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	16	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	29	644705	4.5
+	"2004"	"2004"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	12	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Parkinson disease"	"G20"	55	644705	8.5
+	"2004"	"2004"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	310	644705	48.1
+	"2004"	"2004"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	18	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	28	644705	4.3
+	"2004"	"2004"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	644705	5.1
+	"2004"	"2004"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	24	644705	3.7
+	"2004"	"2004"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	451	644705	70.0
+	"2004"	"2004"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	102	644705	15.8
+	"2004"	"2004"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	462	644705	71.7
+	"2004"	"2004"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	32	644705	5.0
+	"2004"	"2004"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	43	644705	6.7
+	"2004"	"2004"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	32	644705	5.0
+	"2004"	"2004"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	19	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	13	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	16	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	32	644705	5.0
+	"2004"	"2004"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	19	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	80	644705	12.4
+	"2004"	"2004"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	49	644705	7.6
+	"2004"	"2004"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	50	644705	7.8
+	"2004"	"2004"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	251	644705	38.9
+	"2004"	"2004"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	37	644705	5.7
+	"2004"	"2004"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	30	644705	4.7
+	"2004"	"2004"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	16	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	29	644705	4.5
+	"2004"	"2004"	"North Dakota"	"38"	"Dissection of aorta [any part]"	"I71.0"	10	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	10	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	21	644705	3.3
+	"2004"	"2004"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	134	644705	20.8
+	"2004"	"2004"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	14	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	236	644705	36.6
+	"2004"	"2004"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	32	644705	5.0
+	"2004"	"2004"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	33	644705	5.1
+	"2004"	"2004"	"North Dakota"	"38"	"Acute vascular disorders of intestine"	"K55.0"	10	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	15	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	29	644705	4.5
+	"2004"	"2004"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	16	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	19	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	23	644705	3.6
+	"2004"	"2004"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	12	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	12	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	11	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Other fall on same level"	"W18"	12	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Unspecified fall"	"W19"	38	644705	5.9
+	"2004"	"2004"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	644705	3.4
+	"2004"	"2004"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	10	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	644705	Unreliable
+	"2004"	"2004"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	644705	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	34	646089	5.3
+	"2005"	"2005"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	646089	5.1
+	"2005"	"2005"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	646089	3.1
+	"2005"	"2005"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	120	646089	18.6
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	19	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	73	646089	11.3
+	"2005"	"2005"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	309	646089	47.8
+	"2005"	"2005"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	93	646089	14.4
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm of uterus, part unspecified"	"C55"	13	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	35	646089	5.4
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	87	646089	13.5
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	32	646089	5.0
+	"2005"	"2005"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	34	646089	5.3
+	"2005"	"2005"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	28	646089	4.3
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	57	646089	8.8
+	"2005"	"2005"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	39	646089	6.0
+	"2005"	"2005"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	646089	3.7
+	"2005"	"2005"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	26	646089	4.0
+	"2005"	"2005"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	21	646089	3.3
+	"2005"	"2005"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	19	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	14	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	50	646089	7.7
+	"2005"	"2005"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	15	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	99	646089	15.3
+	"2005"	"2005"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	17	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Volume depletion"	"E86"	10	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	21	646089	3.3
+	"2005"	"2005"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	49	646089	7.6
+	"2005"	"2005"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Parkinson disease"	"G20"	72	646089	11.1
+	"2005"	"2005"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	282	646089	43.6
+	"2005"	"2005"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	12	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	27	646089	4.2
+	"2005"	"2005"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	646089	5.9
+	"2005"	"2005"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	37	646089	5.7
+	"2005"	"2005"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	443	646089	68.6
+	"2005"	"2005"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	126	646089	19.5
+	"2005"	"2005"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	470	646089	72.7
+	"2005"	"2005"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	31	646089	4.8
+	"2005"	"2005"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	43	646089	6.7
+	"2005"	"2005"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	25	646089	3.9
+	"2005"	"2005"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Mitral (valve) insufficiency"	"I34.0"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	20	646089	3.1
+	"2005"	"2005"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	17	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	26	646089	4.0
+	"2005"	"2005"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	39	646089	6.0
+	"2005"	"2005"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	82	646089	12.7
+	"2005"	"2005"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	43	646089	6.7
+	"2005"	"2005"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	207	646089	32.0
+	"2005"	"2005"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	23	646089	3.6
+	"2005"	"2005"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	20	646089	3.1
+	"2005"	"2005"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	13	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	25	646089	3.9
+	"2005"	"2005"	"North Dakota"	"38"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	21	646089	3.3
+	"2005"	"2005"	"North Dakota"	"38"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	10	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	133	646089	20.6
+	"2005"	"2005"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	21	646089	3.3
+	"2005"	"2005"	"North Dakota"	"38"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	227	646089	35.1
+	"2005"	"2005"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	46	646089	7.1
+	"2005"	"2005"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	40	646089	6.2
+	"2005"	"2005"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	16	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	17	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	33	646089	5.1
+	"2005"	"2005"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	23	646089	3.6
+	"2005"	"2005"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	24	646089	3.7
+	"2005"	"2005"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	21	646089	3.3
+	"2005"	"2005"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	28	646089	4.3
+	"2005"	"2005"	"North Dakota"	"38"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	11	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	23	646089	3.6
+	"2005"	"2005"	"North Dakota"	"38"	"Other fall on same level"	"W18"	13	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Unspecified fall"	"W19"	38	646089	5.9
+	"2005"	"2005"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	18	646089	Unreliable
+	"2005"	"2005"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	646089	3.1
+	"2005"	"2005"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	20	646089	3.1
+	"2005"	"2005"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	646089	3.6
+	"2005"	"2005"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	646089	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	32	649422	4.9
+	"2006"	"2006"	"North Dakota"	"38"	"Chronic viral hepatitis C"	"B18.2"	10	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	649422	4.5
+	"2006"	"2006"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	32	649422	4.9
+	"2006"	"2006"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	105	649422	16.2
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	24	649422	3.7
+	"2006"	"2006"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	92	649422	14.2
+	"2006"	"2006"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	350	649422	53.9
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	12	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	85	649422	13.1
+	"2006"	"2006"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	16	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	36	649422	5.5
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	88	649422	13.6
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	36	649422	5.5
+	"2006"	"2006"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	34	649422	5.2
+	"2006"	"2006"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	40	649422	6.2
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	51	649422	7.9
+	"2006"	"2006"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	38	649422	5.9
+	"2006"	"2006"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	27	649422	4.2
+	"2006"	"2006"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	34	649422	5.2
+	"2006"	"2006"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	22	649422	3.4
+	"2006"	"2006"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	18	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	20	649422	3.1
+	"2006"	"2006"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	47	649422	7.2
+	"2006"	"2006"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	17	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	97	649422	14.9
+	"2006"	"2006"	"North Dakota"	"38"	"Other obesity"	"E66.8"	10	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	25	649422	3.8
+	"2006"	"2006"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	22	649422	3.4
+	"2006"	"2006"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	31	649422	4.8
+	"2006"	"2006"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	59	649422	9.1
+	"2006"	"2006"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	14	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Parkinson disease"	"G20"	59	649422	9.1
+	"2006"	"2006"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	314	649422	48.4
+	"2006"	"2006"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	28	649422	4.3
+	"2006"	"2006"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	649422	4.2
+	"2006"	"2006"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	649422	3.8
+	"2006"	"2006"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	31	649422	4.8
+	"2006"	"2006"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	464	649422	71.4
+	"2006"	"2006"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	132	649422	20.3
+	"2006"	"2006"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	453	649422	69.8
+	"2006"	"2006"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	17	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	40	649422	6.2
+	"2006"	"2006"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	649422	3.1
+	"2006"	"2006"	"North Dakota"	"38"	"Mitral (valve) insufficiency"	"I34.0"	13	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	29	649422	4.5
+	"2006"	"2006"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	18	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	17	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	20	649422	3.1
+	"2006"	"2006"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	10	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	37	649422	5.7
+	"2006"	"2006"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	97	649422	14.9
+	"2006"	"2006"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	12	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	14	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	45	649422	6.9
+	"2006"	"2006"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	266	649422	41.0
+	"2006"	"2006"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	24	649422	3.7
+	"2006"	"2006"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	20	649422	3.1
+	"2006"	"2006"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	18	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	13	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Dissection of aorta [any part]"	"I71.0"	11	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	14	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	15	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	114	649422	17.6
+	"2006"	"2006"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	15	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	16	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	240	649422	37.0
+	"2006"	"2006"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	50	649422	7.7
+	"2006"	"2006"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	26	649422	4.0
+	"2006"	"2006"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	11	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	31	649422	4.8
+	"2006"	"2006"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	12	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	14	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	21	649422	3.2
+	"2006"	"2006"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	23	649422	3.5
+	"2006"	"2006"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	32	649422	4.9
+	"2006"	"2006"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	16	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Other fall on same level"	"W18"	15	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Unspecified fall"	"W19"	35	649422	5.4
+	"2006"	"2006"	"North Dakota"	"38"	"Exposure to unspecified factor"	"X59"	15	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28	649422	4.3
+	"2006"	"2006"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	11	649422	Unreliable
+	"2006"	"2006"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	20	649422	3.1
+	"2006"	"2006"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	649422	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	23	652822	3.5
+	"2007"	"2007"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	652822	3.8
+	"2007"	"2007"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	19	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	90	652822	13.8
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm of rectosigmoid junction"	"C19"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	16	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	79	652822	12.1
+	"2007"	"2007"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	296	652822	45.3
+	"2007"	"2007"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	102	652822	15.6
+	"2007"	"2007"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	34	652822	5.2
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	69	652822	10.6
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	42	652822	6.4
+	"2007"	"2007"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	42	652822	6.4
+	"2007"	"2007"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	30	652822	4.6
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	45	652822	6.9
+	"2007"	"2007"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	34	652822	5.2
+	"2007"	"2007"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	28	652822	4.3
+	"2007"	"2007"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	33	652822	5.1
+	"2007"	"2007"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	62	652822	9.5
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	13	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	104	652822	15.9
+	"2007"	"2007"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	24	652822	3.7
+	"2007"	"2007"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	26	652822	4.0
+	"2007"	"2007"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	17	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	54	652822	8.3
+	"2007"	"2007"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Parkinson disease"	"G20"	57	652822	8.7
+	"2007"	"2007"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	386	652822	59.1
+	"2007"	"2007"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	34	652822	5.2
+	"2007"	"2007"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	652822	6.3
+	"2007"	"2007"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	37	652822	5.7
+	"2007"	"2007"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	408	652822	62.5
+	"2007"	"2007"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	100	652822	15.3
+	"2007"	"2007"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	454	652822	69.5
+	"2007"	"2007"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	30	652822	4.6
+	"2007"	"2007"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	36	652822	5.5
+	"2007"	"2007"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	37	652822	5.7
+	"2007"	"2007"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	17	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	20	652822	3.1
+	"2007"	"2007"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	34	652822	5.2
+	"2007"	"2007"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	75	652822	11.5
+	"2007"	"2007"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	41	652822	6.3
+	"2007"	"2007"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	182	652822	27.9
+	"2007"	"2007"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	14	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	19	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Dissection of aorta [any part]"	"I71.0"	10	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	10	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	120	652822	18.4
+	"2007"	"2007"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	16	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	220	652822	33.7
+	"2007"	"2007"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	44	652822	6.7
+	"2007"	"2007"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	652822	4.1
+	"2007"	"2007"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	23	652822	3.5
+	"2007"	"2007"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	13	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	39	652822	6.0
+	"2007"	"2007"	"North Dakota"	"38"	"Extreme immaturity"	"P07.2"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	10	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	17	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	14	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Other fall on same level"	"W18"	11	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Unspecified fall"	"W19"	29	652822	4.4
+	"2007"	"2007"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21	652822	3.2
+	"2007"	"2007"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	12	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	652822	Unreliable
+	"2007"	"2007"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	652822	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	41	657569	6.2
+	"2008"	"2008"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	32	657569	4.9
+	"2008"	"2008"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	657569	3.2
+	"2008"	"2008"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	103	657569	15.7
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	30	657569	4.6
+	"2008"	"2008"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	17	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	93	657569	14.1
+	"2008"	"2008"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	328	657569	49.9
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	92	657569	14.0
+	"2008"	"2008"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	11	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	38	657569	5.8
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	87	657569	13.2
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	53	657569	8.1
+	"2008"	"2008"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	35	657569	5.3
+	"2008"	"2008"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	657569	3.6
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	61	657569	9.3
+	"2008"	"2008"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	22	657569	3.3
+	"2008"	"2008"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	30	657569	4.6
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	19	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	22	657569	3.3
+	"2008"	"2008"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	59	657569	9.0
+	"2008"	"2008"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	93	657569	14.1
+	"2008"	"2008"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	32	657569	4.9
+	"2008"	"2008"	"North Dakota"	"38"	"Volume depletion"	"E86"	12	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	13	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	23	657569	3.5
+	"2008"	"2008"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	152	657569	23.1
+	"2008"	"2008"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	21	657569	3.2
+	"2008"	"2008"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	19	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Parkinson disease"	"G20"	48	657569	7.3
+	"2008"	"2008"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	307	657569	46.7
+	"2008"	"2008"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	33	657569	5.0
+	"2008"	"2008"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	657569	5.0
+	"2008"	"2008"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	32	657569	4.9
+	"2008"	"2008"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	351	657569	53.4
+	"2008"	"2008"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	92	657569	14.0
+	"2008"	"2008"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	446	657569	67.8
+	"2008"	"2008"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	35	657569	5.3
+	"2008"	"2008"	"North Dakota"	"38"	"Other forms of chronic ischaemic heart disease"	"I25.8"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	657569	3.5
+	"2008"	"2008"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	11	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	33	657569	5.0
+	"2008"	"2008"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	18	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	12	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	31	657569	4.7
+	"2008"	"2008"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	16	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	40	657569	6.1
+	"2008"	"2008"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	14	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	106	657569	16.1
+	"2008"	"2008"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	11	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	31	657569	4.7
+	"2008"	"2008"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	188	657569	28.6
+	"2008"	"2008"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	16	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21	657569	3.2
+	"2008"	"2008"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	12	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	19	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	119	657569	18.1
+	"2008"	"2008"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	15	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	90	657569	13.7
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	20	657569	3.0
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	207	657569	31.5
+	"2008"	"2008"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	47	657569	7.1
+	"2008"	"2008"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	657569	3.5
+	"2008"	"2008"	"North Dakota"	"38"	"Acute vascular disorders of intestine"	"K55.0"	11	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	18	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	18	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	23	657569	3.5
+	"2008"	"2008"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	19	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"End-stage renal disease"	"N18.0"	14	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	24	657569	3.6
+	"2008"	"2008"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	34	657569	5.2
+	"2008"	"2008"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	20	657569	3.0
+	"2008"	"2008"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	16	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	57	657569	8.7
+	"2008"	"2008"	"North Dakota"	"38"	"Fall on and from stairs and steps"	"W10"	11	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Other fall on same level"	"W18"	22	657569	3.3
+	"2008"	"2008"	"North Dakota"	"38"	"Unspecified fall"	"W19"	43	657569	6.5
+	"2008"	"2008"	"North Dakota"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21	657569	3.2
+	"2008"	"2008"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	12	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	657569	3.0
+	"2008"	"2008"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	19	657569	Unreliable
+	"2008"	"2008"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	26	657569	4.0
+	"2008"	"2008"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	657569	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	41	664968	6.2
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic viral hepatitis C"	"B18.2"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	664968	4.4
+	"2009"	"2009"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	664968	3.2
+	"2009"	"2009"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	104	664968	15.6
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	67	664968	10.1
+	"2009"	"2009"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	306	664968	46.0
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	664968	3.2
+	"2009"	"2009"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	89	664968	13.4
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	37	664968	5.6
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	81	664968	12.2
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	34	664968	5.1
+	"2009"	"2009"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	54	664968	8.1
+	"2009"	"2009"	"North Dakota"	"38"	"B-cell lymphoma, unspecified - Malignant neoplasms"	"C85.1"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	26	664968	3.9
+	"2009"	"2009"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	664968	4.7
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	30	664968	4.5
+	"2009"	"2009"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Anaemia, unspecified"	"D64.9"	13	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	59	664968	8.9
+	"2009"	"2009"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	110	664968	16.5
+	"2009"	"2009"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	49	664968	7.4
+	"2009"	"2009"	"North Dakota"	"38"	"Volume depletion"	"E86"	11	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	25	664968	3.8
+	"2009"	"2009"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	151	664968	22.7
+	"2009"	"2009"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	16	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Parkinson disease"	"G20"	52	664968	7.8
+	"2009"	"2009"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	362	664968	54.4
+	"2009"	"2009"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	12	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	31	664968	4.7
+	"2009"	"2009"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	664968	3.3
+	"2009"	"2009"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	26	664968	3.9
+	"2009"	"2009"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	353	664968	53.1
+	"2009"	"2009"	"North Dakota"	"38"	"Acute ischaemic heart disease, unspecified"	"I24.9"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	135	664968	20.3
+	"2009"	"2009"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	422	664968	63.5
+	"2009"	"2009"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	27	664968	4.1
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	12	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	24	664968	3.6
+	"2009"	"2009"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	18	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	25	664968	3.8
+	"2009"	"2009"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	46	664968	6.9
+	"2009"	"2009"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	114	664968	17.1
+	"2009"	"2009"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	15	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	32	664968	4.8
+	"2009"	"2009"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	199	664968	29.9
+	"2009"	"2009"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	12	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	15	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	11	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	122	664968	18.3
+	"2009"	"2009"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	20	664968	3.0
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	92	664968	13.8
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	17	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	195	664968	29.3
+	"2009"	"2009"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	61	664968	9.2
+	"2009"	"2009"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	29	664968	4.4
+	"2009"	"2009"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	13	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	16	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Hepatic failure, unspecified"	"K72.9"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	20	664968	3.0
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic nephritic syndrome, unspecified"	"N03.9"	15	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	24	664968	3.6
+	"2009"	"2009"	"North Dakota"	"38"	"End-stage renal disease"	"N18.0"	18	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	22	664968	3.3
+	"2009"	"2009"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	38	664968	5.7
+	"2009"	"2009"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	22	664968	3.3
+	"2009"	"2009"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	12	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	33	664968	5.0
+	"2009"	"2009"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	59	664968	8.9
+	"2009"	"2009"	"North Dakota"	"38"	"Fall on and from stairs and steps"	"W10"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Unspecified fall"	"W19"	44	664968	6.6
+	"2009"	"2009"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Accidental poisoning by and exposure to alcohol"	"X45"	12	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	664968	Unreliable
+	"2009"	"2009"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28	664968	4.2
+	"2009"	"2009"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	22	664968	3.3
+	"2009"	"2009"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	664968	3.5
+	"2010"	"2010"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	43	672591	6.4
+	"2010"	"2010"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	41	672591	6.1
+	"2010"	"2010"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	22	672591	3.3
+	"2010"	"2010"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	112	672591	16.7
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	18	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	73	672591	10.9
+	"2010"	"2010"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	293	672591	43.6
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	13	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	103	672591	15.3
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	30	672591	4.5
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	68	672591	10.1
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	31	672591	4.6
+	"2010"	"2010"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	51	672591	7.6
+	"2010"	"2010"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	672591	3.0
+	"2010"	"2010"	"North Dakota"	"38"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	73	672591	10.9
+	"2010"	"2010"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	22	672591	3.3
+	"2010"	"2010"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	672591	3.3
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	19	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	27	672591	4.0
+	"2010"	"2010"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	14	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	15	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	43	672591	6.4
+	"2010"	"2010"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	95	672591	14.1
+	"2010"	"2010"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	30	672591	4.5
+	"2010"	"2010"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	32	672591	4.8
+	"2010"	"2010"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	146	672591	21.7
+	"2010"	"2010"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	17	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Parkinson disease"	"G20"	61	672591	9.1
+	"2010"	"2010"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	352	672591	52.3
+	"2010"	"2010"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	36	672591	5.4
+	"2010"	"2010"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	672591	6.1
+	"2010"	"2010"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	27	672591	4.0
+	"2010"	"2010"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	316	672591	47.0
+	"2010"	"2010"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	122	672591	18.1
+	"2010"	"2010"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	415	672591	61.7
+	"2010"	"2010"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	26	672591	3.9
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	38	672591	5.6
+	"2010"	"2010"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	31	672591	4.6
+	"2010"	"2010"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	23	672591	3.4
+	"2010"	"2010"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	20	672591	3.0
+	"2010"	"2010"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	17	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	50	672591	7.4
+	"2010"	"2010"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	135	672591	20.1
+	"2010"	"2010"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	48	672591	7.1
+	"2010"	"2010"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	221	672591	32.9
+	"2010"	"2010"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	16	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	18	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	14	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	118	672591	17.5
+	"2010"	"2010"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	23	672591	3.4
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	66	672591	9.8
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	16	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	232	672591	34.5
+	"2010"	"2010"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	10	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	81	672591	12.0
+	"2010"	"2010"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	672591	3.1
+	"2010"	"2010"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	18	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	24	672591	3.6
+	"2010"	"2010"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	13	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic nephritic syndrome, unspecified"	"N03.9"	12	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	23	672591	3.4
+	"2010"	"2010"	"North Dakota"	"38"	"End-stage renal disease"	"N18.0"	15	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	22	672591	3.3
+	"2010"	"2010"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	30	672591	4.5
+	"2010"	"2010"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	23	672591	3.4
+	"2010"	"2010"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	44	672591	6.5
+	"2010"	"2010"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	19	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	31	672591	4.6
+	"2010"	"2010"	"North Dakota"	"38"	"Fall on same level from slipping, tripping and stumbling"	"W01"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Other fall on same level"	"W18"	24	672591	3.6
+	"2010"	"2010"	"North Dakota"	"38"	"Unspecified fall"	"W19"	29	672591	4.3
+	"2010"	"2010"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	13	672591	Unreliable
+	"2010"	"2010"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	31	672591	4.6
+	"2010"	"2010"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	22	672591	3.3
+	"2010"	"2010"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	25	672591	3.7
+	"2011"	"2011"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	43	683932	6.3
+	"2011"	"2011"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	34	683932	5.0
+	"2011"	"2011"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	683932	3.8
+	"2011"	"2011"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	92	683932	13.5
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm of rectosigmoid junction"	"C19"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	18	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	98	683932	14.3
+	"2011"	"2011"	"North Dakota"	"38"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	327	683932	47.8
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	18	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	84	683932	12.3
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	25	683932	3.7
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	78	683932	11.4
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	35	683932	5.1
+	"2011"	"2011"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	47	683932	6.9
+	"2011"	"2011"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	26	683932	3.8
+	"2011"	"2011"	"North Dakota"	"38"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	72	683932	10.5
+	"2011"	"2011"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	22	683932	3.2
+	"2011"	"2011"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	29	683932	4.2
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	17	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	16	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	16	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	16	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	19	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	26	683932	3.8
+	"2011"	"2011"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	47	683932	6.9
+	"2011"	"2011"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	75	683932	11.0
+	"2011"	"2011"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	30	683932	4.4
+	"2011"	"2011"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	28	683932	4.1
+	"2011"	"2011"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	147	683932	21.5
+	"2011"	"2011"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	22	683932	3.2
+	"2011"	"2011"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	19	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Parkinson disease"	"G20"	55	683932	8.0
+	"2011"	"2011"	"North Dakota"	"38"	"Alzheimer disease with late onset"	"G30.1"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	400	683932	58.5
+	"2011"	"2011"	"North Dakota"	"38"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	12	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	42	683932	6.1
+	"2011"	"2011"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	683932	4.8
+	"2011"	"2011"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	23	683932	3.4
+	"2011"	"2011"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	14	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	277	683932	40.5
+	"2011"	"2011"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	151	683932	22.1
+	"2011"	"2011"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	372	683932	54.4
+	"2011"	"2011"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	27	683932	3.9
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	35	683932	5.1
+	"2011"	"2011"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	33	683932	4.8
+	"2011"	"2011"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	15	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Dilated cardiomyopathy"	"I42.0"	15	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	18	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	13	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	52	683932	7.6
+	"2011"	"2011"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	13	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	110	683932	16.1
+	"2011"	"2011"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	35	683932	5.1
+	"2011"	"2011"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	17	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	193	683932	28.2
+	"2011"	"2011"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	21	683932	3.1
+	"2011"	"2011"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	15	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	114	683932	16.7
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	48	683932	7.0
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	22	683932	3.2
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	244	683932	35.7
+	"2011"	"2011"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	85	683932	12.4
+	"2011"	"2011"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	683932	3.1
+	"2011"	"2011"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	16	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	32	683932	4.7
+	"2011"	"2011"	"North Dakota"	"38"	"Alcoholic hepatic failure"	"K70.4"	10	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	683932	3.5
+	"2011"	"2011"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	27	683932	3.9
+	"2011"	"2011"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	29	683932	4.2
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	16	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	30	683932	4.4
+	"2011"	"2011"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	25	683932	3.7
+	"2011"	"2011"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	17	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Senility"	"R54"	14	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	79	683932	11.6
+	"2011"	"2011"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	27	683932	3.9
+	"2011"	"2011"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	55	683932	8.0
+	"2011"	"2011"	"North Dakota"	"38"	"Other fall on same level"	"W18"	17	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Unspecified fall"	"W19"	33	683932	4.8
+	"2011"	"2011"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	15	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	38	683932	5.6
+	"2011"	"2011"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	17	683932	Unreliable
+	"2011"	"2011"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	683932	3.4
+	"2011"	"2011"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	683932	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	59	699628	8.4
+	"2012"	"2012"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	30	699628	4.3
+	"2012"	"2012"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	18	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	81	699628	11.6
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	14	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	88	699628	12.6
+	"2012"	"2012"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	344	699628	49.2
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	79	699628	11.3
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	17	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	75	699628	10.7
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	40	699628	5.7
+	"2012"	"2012"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	30	699628	4.3
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	66	699628	9.4
+	"2012"	"2012"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	29	699628	4.1
+	"2012"	"2012"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	20	699628	2.9
+	"2012"	"2012"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	20	699628	2.9
+	"2012"	"2012"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	41	699628	5.9
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	31	699628	4.4
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	62	699628	8.9
+	"2012"	"2012"	"North Dakota"	"38"	"Other obesity"	"E66.8"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Obesity, unspecified"	"E66.9"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	35	699628	5.0
+	"2012"	"2012"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	17	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	21	699628	3.0
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	143	699628	20.4
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified mental disorder due to brain damage and dysfunction and to physical disease"	"F06.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	29	699628	4.1
+	"2012"	"2012"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	26	699628	3.7
+	"2012"	"2012"	"North Dakota"	"38"	"Parkinson disease"	"G20"	66	699628	9.4
+	"2012"	"2012"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	356	699628	50.9
+	"2012"	"2012"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	50	699628	7.1
+	"2012"	"2012"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	24	699628	3.4
+	"2012"	"2012"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	32	699628	4.6
+	"2012"	"2012"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	309	699628	44.2
+	"2012"	"2012"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	153	699628	21.9
+	"2012"	"2012"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	358	699628	51.2
+	"2012"	"2012"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	699628	3.3
+	"2012"	"2012"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	17	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	36	699628	5.1
+	"2012"	"2012"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	22	699628	3.1
+	"2012"	"2012"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	27	699628	3.9
+	"2012"	"2012"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	66	699628	9.4
+	"2012"	"2012"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	139	699628	19.9
+	"2012"	"2012"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	41	699628	5.9
+	"2012"	"2012"	"North Dakota"	"38"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	19	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	184	699628	26.3
+	"2012"	"2012"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	15	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	35	699628	5.0
+	"2012"	"2012"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	116	699628	16.6
+	"2012"	"2012"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	61	699628	8.7
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	206	699628	29.4
+	"2012"	"2012"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	86	699628	12.3
+	"2012"	"2012"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	31	699628	4.4
+	"2012"	"2012"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	14	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Perforation of intestine (nontraumatic)"	"K63.1"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	36	699628	5.1
+	"2012"	"2012"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	699628	3.3
+	"2012"	"2012"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	26	699628	3.7
+	"2012"	"2012"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	25	699628	3.6
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	28	699628	4.0
+	"2012"	"2012"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	28	699628	4.0
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	32	699628	4.6
+	"2012"	"2012"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	12	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Senility"	"R54"	14	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	97	699628	13.9
+	"2012"	"2012"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	21	699628	3.0
+	"2012"	"2012"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	51	699628	7.3
+	"2012"	"2012"	"North Dakota"	"38"	"Other fall on same level"	"W18"	15	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Unspecified fall"	"W19"	28	699628	4.0
+	"2012"	"2012"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	36	699628	5.1
+	"2012"	"2012"	"North Dakota"	"38"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	10	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	27	699628	3.9
+	"2012"	"2012"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	30	699628	4.3
+	"2012"	"2012"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	699628	Unreliable
+	"2012"	"2012"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	699628	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Enterocolitis due to Clostridium difficile"	"A04.7"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	63	723393	8.7
+	"2013"	"2013"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	31	723393	4.3
+	"2013"	"2013"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	14	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	107	723393	14.8
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	14	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	21	723393	2.9
+	"2013"	"2013"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	77	723393	10.6
+	"2013"	"2013"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	335	723393	46.3
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	22	723393	3.0
+	"2013"	"2013"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	79	723393	10.9
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	48	723393	6.6
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	21	723393	2.9
+	"2013"	"2013"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	723393	3.7
+	"2013"	"2013"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	44	723393	6.1
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	76	723393	10.5
+	"2013"	"2013"	"North Dakota"	"38"	"B-cell lymphoma, unspecified - Malignant neoplasms"	"C85.1"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	723393	3.2
+	"2013"	"2013"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	34	723393	4.7
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	13	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	723393	3.3
+	"2013"	"2013"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	16	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	20	723393	2.8
+	"2013"	"2013"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	23	723393	3.2
+	"2013"	"2013"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	51	723393	7.1
+	"2013"	"2013"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	30	723393	4.1
+	"2013"	"2013"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	55	723393	7.6
+	"2013"	"2013"	"North Dakota"	"38"	"Other obesity"	"E66.8"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Obesity, unspecified"	"E66.9"	12	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	46	723393	6.4
+	"2013"	"2013"	"North Dakota"	"38"	"Volume depletion"	"E86"	11	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Multi-infarct dementia"	"F01.1"	12	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	31	723393	4.3
+	"2013"	"2013"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	169	723393	23.4
+	"2013"	"2013"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	24	723393	3.3
+	"2013"	"2013"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	18	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Parkinson disease"	"G20"	59	723393	8.2
+	"2013"	"2013"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	356	723393	49.2
+	"2013"	"2013"	"North Dakota"	"38"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	11	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	58	723393	8.0
+	"2013"	"2013"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35	723393	4.8
+	"2013"	"2013"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	28	723393	3.9
+	"2013"	"2013"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	277	723393	38.3
+	"2013"	"2013"	"North Dakota"	"38"	"Acute ischaemic heart disease, unspecified"	"I24.9"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	142	723393	19.6
+	"2013"	"2013"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	396	723393	54.7
+	"2013"	"2013"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	38	723393	5.3
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	723393	3.0
+	"2013"	"2013"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	11	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	23	723393	3.2
+	"2013"	"2013"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	29	723393	4.0
+	"2013"	"2013"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	66	723393	9.1
+	"2013"	"2013"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	131	723393	18.1
+	"2013"	"2013"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	16	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Cardiovascular disease, unspecified"	"I51.6"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	33	723393	4.6
+	"2013"	"2013"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	14	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	164	723393	22.7
+	"2013"	"2013"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	18	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	29	723393	4.0
+	"2013"	"2013"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	38	723393	5.3
+	"2013"	"2013"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	16	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	114	723393	15.8
+	"2013"	"2013"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	14	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	82	723393	11.3
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	207	723393	28.6
+	"2013"	"2013"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	71	723393	9.8
+	"2013"	"2013"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	26	723393	3.6
+	"2013"	"2013"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	15	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Perforation of intestine (nontraumatic)"	"K63.1"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	35	723393	4.8
+	"2013"	"2013"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	16	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Hepatic failure, unspecified"	"K72.9"	12	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	26	723393	3.6
+	"2013"	"2013"	"North Dakota"	"38"	"Acute pancreatitis, unspecified"	"K85.9"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	11	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	21	723393	2.9
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	29	723393	4.0
+	"2013"	"2013"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	29	723393	4.0
+	"2013"	"2013"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	33	723393	4.6
+	"2013"	"2013"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	20	723393	2.8
+	"2013"	"2013"	"North Dakota"	"38"	"Extreme immaturity"	"P07.2"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Senility"	"R54"	13	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Other lack of expected normal physiological development"	"R62.8"	13	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	90	723393	12.4
+	"2013"	"2013"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	25	723393	3.5
+	"2013"	"2013"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	49	723393	6.8
+	"2013"	"2013"	"North Dakota"	"38"	"Fall on and from stairs and steps"	"W10"	10	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Other fall on same level"	"W18"	12	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Unspecified fall"	"W19"	44	723393	6.1
+	"2013"	"2013"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	14	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	31	723393	4.3
+	"2013"	"2013"	"North Dakota"	"38"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	12	723393	Unreliable
+	"2013"	"2013"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	38	723393	5.3
+	"2013"	"2013"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	34	723393	4.7
+	"2013"	"2013"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	27	723393	3.7
+	"2013"	"2013"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	723393	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Enterocolitis due to Clostridium difficile"	"A04.7"	12	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	73	739482	9.9
+	"2014"	"2014"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	739482	3.4
+	"2014"	"2014"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	94	739482	12.7
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	76	739482	10.3
+	"2014"	"2014"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	320	739482	43.3
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	67	739482	9.1
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	20	739482	2.7
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	87	739482	11.8
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	37	739482	5.0
+	"2014"	"2014"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	35	739482	4.7
+	"2014"	"2014"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	37	739482	5.0
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	89	739482	12.0
+	"2014"	"2014"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	27	739482	3.7
+	"2014"	"2014"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	32	739482	4.3
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	29	739482	3.9
+	"2014"	"2014"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	17	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	15	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	22	739482	3.0
+	"2014"	"2014"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24	739482	3.2
+	"2014"	"2014"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	34	739482	4.6
+	"2014"	"2014"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	56	739482	7.6
+	"2014"	"2014"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	26	739482	3.5
+	"2014"	"2014"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	35	739482	4.7
+	"2014"	"2014"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	181	739482	24.5
+	"2014"	"2014"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	24	739482	3.2
+	"2014"	"2014"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	28	739482	3.8
+	"2014"	"2014"	"North Dakota"	"38"	"Parkinson disease"	"G20"	63	739482	8.5
+	"2014"	"2014"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	362	739482	49.0
+	"2014"	"2014"	"North Dakota"	"38"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	12	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	47	739482	6.4
+	"2014"	"2014"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	739482	3.0
+	"2014"	"2014"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	24	739482	3.2
+	"2014"	"2014"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	29	739482	3.9
+	"2014"	"2014"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	245	739482	33.1
+	"2014"	"2014"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	139	739482	18.8
+	"2014"	"2014"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	382	739482	51.7
+	"2014"	"2014"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	24	739482	3.2
+	"2014"	"2014"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	22	739482	3.0
+	"2014"	"2014"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	28	739482	3.8
+	"2014"	"2014"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	13	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	20	739482	2.7
+	"2014"	"2014"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	46	739482	6.2
+	"2014"	"2014"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	68	739482	9.2
+	"2014"	"2014"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	166	739482	22.4
+	"2014"	"2014"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	35	739482	4.7
+	"2014"	"2014"	"North Dakota"	"38"	"Cardiovascular disease, unspecified"	"I51.6"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Heart disease, unspecified"	"I51.9"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	39	739482	5.3
+	"2014"	"2014"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	26	739482	3.5
+	"2014"	"2014"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	184	739482	24.9
+	"2014"	"2014"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	12	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	54	739482	7.3
+	"2014"	"2014"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Influenza with pneumonia, virus not identified"	"J11.0"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	140	739482	18.9
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	64	739482	8.7
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	24	739482	3.2
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	203	739482	27.5
+	"2014"	"2014"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	69	739482	9.3
+	"2014"	"2014"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	42	739482	5.7
+	"2014"	"2014"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	19	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	15	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	31	739482	4.2
+	"2014"	"2014"	"North Dakota"	"38"	"Hepatic failure, unspecified"	"K72.9"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	30	739482	4.1
+	"2014"	"2014"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	14	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	25	739482	3.4
+	"2014"	"2014"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	32	739482	4.3
+	"2014"	"2014"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	31	739482	4.2
+	"2014"	"2014"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	27	739482	3.7
+	"2014"	"2014"	"North Dakota"	"38"	"Senility"	"R54"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Other lack of expected normal physiological development"	"R62.8"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	22	739482	3.0
+	"2014"	"2014"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	41	739482	5.5
+	"2014"	"2014"	"North Dakota"	"38"	"Fall on and from stairs and steps"	"W10"	10	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Other fall on same level"	"W18"	25	739482	3.4
+	"2014"	"2014"	"North Dakota"	"38"	"Unspecified fall"	"W19"	50	739482	6.8
+	"2014"	"2014"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	22	739482	3.0
+	"2014"	"2014"	"North Dakota"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	739482	2.7
+	"2014"	"2014"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	16	739482	Unreliable
+	"2014"	"2014"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	35	739482	4.7
+	"2014"	"2014"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	28	739482	3.8
+	"2014"	"2014"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	25	739482	3.4
+	"2014"	"2014"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	32	739482	4.3
+	"2015"	"2015"	"North Dakota"	"38"	"Enterocolitis due to Clostridium difficile"	"A04.7"	14	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	74	756927	9.8
+	"2015"	"2015"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	47	756927	6.2
+	"2015"	"2015"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	78	756927	10.3
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	19	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	16	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	102	756927	13.5
+	"2015"	"2015"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	285	756927	37.7
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	20	756927	2.6
+	"2015"	"2015"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	92	756927	12.2
+	"2015"	"2015"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	36	756927	4.8
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	70	756927	9.2
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	36	756927	4.8
+	"2015"	"2015"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	35	756927	4.6
+	"2015"	"2015"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	32	756927	4.2
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	79	756927	10.4
+	"2015"	"2015"	"North Dakota"	"38"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	756927	3.0
+	"2015"	"2015"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	25	756927	3.3
+	"2015"	"2015"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	38	756927	5.0
+	"2015"	"2015"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	17	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	19	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	30	756927	4.0
+	"2015"	"2015"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	51	756927	6.7
+	"2015"	"2015"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	57	756927	7.5
+	"2015"	"2015"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	23	756927	3.0
+	"2015"	"2015"	"North Dakota"	"38"	"Acidosis"	"E87.2"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	42	756927	5.5
+	"2015"	"2015"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	140	756927	18.5
+	"2015"	"2015"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	19	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	16	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Parkinson disease"	"G20"	65	756927	8.6
+	"2015"	"2015"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	370	756927	48.9
+	"2015"	"2015"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	20	756927	2.6
+	"2015"	"2015"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	52	756927	6.9
+	"2015"	"2015"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	31	756927	4.1
+	"2015"	"2015"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	26	756927	3.4
+	"2015"	"2015"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Acute subendocardial myocardial infarction"	"I21.4"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	252	756927	33.3
+	"2015"	"2015"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	135	756927	17.8
+	"2015"	"2015"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	340	756927	44.9
+	"2015"	"2015"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	28	756927	3.7
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	22	756927	2.9
+	"2015"	"2015"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	756927	2.6
+	"2015"	"2015"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	20	756927	2.6
+	"2015"	"2015"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	41	756927	5.4
+	"2015"	"2015"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	24	756927	3.2
+	"2015"	"2015"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	26	756927	3.4
+	"2015"	"2015"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	31	756927	4.1
+	"2015"	"2015"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	62	756927	8.2
+	"2015"	"2015"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	134	756927	17.7
+	"2015"	"2015"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Heart disease, unspecified"	"I51.9"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	14	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	32	756927	4.2
+	"2015"	"2015"	"North Dakota"	"38"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	24	756927	3.2
+	"2015"	"2015"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	153	756927	20.2
+	"2015"	"2015"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	36	756927	4.8
+	"2015"	"2015"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	10	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	12	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	126	756927	16.6
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	77	756927	10.2
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	237	756927	31.3
+	"2015"	"2015"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	77	756927	10.2
+	"2015"	"2015"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	34	756927	4.5
+	"2015"	"2015"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	18	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	41	756927	5.4
+	"2015"	"2015"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	756927	2.9
+	"2015"	"2015"	"North Dakota"	"38"	"Acute pancreatitis, unspecified"	"K85.9"	12	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	11	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	23	756927	3.0
+	"2015"	"2015"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	36	756927	4.8
+	"2015"	"2015"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	39	756927	5.2
+	"2015"	"2015"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	27	756927	3.6
+	"2015"	"2015"	"North Dakota"	"38"	"Sudden infant death syndrome - SIDS"	"R95"	13	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	26	756927	3.4
+	"2015"	"2015"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	45	756927	5.9
+	"2015"	"2015"	"North Dakota"	"38"	"Other fall on same level"	"W18"	21	756927	2.8
+	"2015"	"2015"	"North Dakota"	"38"	"Unspecified fall"	"W19"	49	756927	6.5
+	"2015"	"2015"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	19	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	29	756927	3.8
+	"2015"	"2015"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	12	756927	Unreliable
+	"2015"	"2015"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28	756927	3.7
+	"2015"	"2015"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	31	756927	4.1
+	"2015"	"2015"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	22	756927	2.9
+	"2015"	"2015"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	756927	3.0
+	"2015"	"2015"	"North Dakota"	"38"	"Assault by other and unspecified firearm discharge"	"X95"	11	756927	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Enterocolitis due to Clostridium difficile"	"A04.7"	18	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Septicaemia due to Staphylococcus aureus"	"A41.0"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	61	757952	8.0
+	"2016"	"2016"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	41	757952	5.4
+	"2016"	"2016"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	21	757952	2.8
+	"2016"	"2016"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	89	757952	11.7
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	17	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	757952	2.9
+	"2016"	"2016"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	77	757952	10.2
+	"2016"	"2016"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	302	757952	39.8
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	13	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	82	757952	10.8
+	"2016"	"2016"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	16	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	26	757952	3.4
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	57	757952	7.5
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	38	757952	5.0
+	"2016"	"2016"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	28	757952	3.7
+	"2016"	"2016"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	757952	3.2
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm of thyroid gland"	"C73"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	84	757952	11.1
+	"2016"	"2016"	"North Dakota"	"38"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	23	757952	3.0
+	"2016"	"2016"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	31	757952	4.1
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	16	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	24	757952	3.2
+	"2016"	"2016"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	22	757952	2.9
+	"2016"	"2016"	"North Dakota"	"38"	"Anaemia, unspecified"	"D64.9"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	17	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	23	757952	3.0
+	"2016"	"2016"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	27	757952	3.6
+	"2016"	"2016"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	67	757952	8.8
+	"2016"	"2016"	"North Dakota"	"38"	"Other obesity"	"E66.8"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	34	757952	4.5
+	"2016"	"2016"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	73	757952	9.6
+	"2016"	"2016"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	147	757952	19.4
+	"2016"	"2016"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	25	757952	3.3
+	"2016"	"2016"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	20	757952	2.6
+	"2016"	"2016"	"North Dakota"	"38"	"Parkinson disease"	"G20"	66	757952	8.7
+	"2016"	"2016"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	354	757952	46.7
+	"2016"	"2016"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	47	757952	6.2
+	"2016"	"2016"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	32	757952	4.2
+	"2016"	"2016"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	24	757952	3.2
+	"2016"	"2016"	"North Dakota"	"38"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Acute subendocardial myocardial infarction"	"I21.4"	11	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	204	757952	26.9
+	"2016"	"2016"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	119	757952	15.7
+	"2016"	"2016"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	363	757952	47.9
+	"2016"	"2016"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	37	757952	4.9
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	30	757952	4.0
+	"2016"	"2016"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	26	757952	3.4
+	"2016"	"2016"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	53	757952	7.0
+	"2016"	"2016"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	15	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	25	757952	3.3
+	"2016"	"2016"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	37	757952	4.9
+	"2016"	"2016"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	60	757952	7.9
+	"2016"	"2016"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	15	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	143	757952	18.9
+	"2016"	"2016"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	28	757952	3.7
+	"2016"	"2016"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	33	757952	4.4
+	"2016"	"2016"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	18	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	186	757952	24.5
+	"2016"	"2016"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	11	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	28	757952	3.7
+	"2016"	"2016"	"North Dakota"	"38"	"Dissection of aorta [any part]"	"I71.0"	17	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Peripheral vascular disease, unspecified"	"I73.9"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	116	757952	15.3
+	"2016"	"2016"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	53	757952	7.0
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	13	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	221	757952	29.2
+	"2016"	"2016"	"North Dakota"	"38"	"Asthma, unspecified"	"J45.9"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	85	757952	11.2
+	"2016"	"2016"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	29	757952	3.8
+	"2016"	"2016"	"North Dakota"	"38"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	20	757952	2.6
+	"2016"	"2016"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	37	757952	4.9
+	"2016"	"2016"	"North Dakota"	"38"	"Alcoholic hepatic failure"	"K70.4"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Hepatic failure, unspecified"	"K72.9"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	29	757952	3.8
+	"2016"	"2016"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	34	757952	4.5
+	"2016"	"2016"	"North Dakota"	"38"	"Rheumatoid arthritis, unspecified"	"M06.9"	14	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	22	757952	2.9
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	28	757952	3.7
+	"2016"	"2016"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	31	757952	4.1
+	"2016"	"2016"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	20	757952	2.6
+	"2016"	"2016"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	32	757952	4.2
+	"2016"	"2016"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	757952	3.3
+	"2016"	"2016"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	25	757952	3.3
+	"2016"	"2016"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	49	757952	6.5
+	"2016"	"2016"	"North Dakota"	"38"	"Other fall on same level"	"W18"	24	757952	3.2
+	"2016"	"2016"	"North Dakota"	"38"	"Unspecified fall"	"W19"	42	757952	5.5
+	"2016"	"2016"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	12	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	29	757952	3.8
+	"2016"	"2016"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	26	757952	3.4
+	"2016"	"2016"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	43	757952	5.7
+	"2016"	"2016"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	23	757952	3.0
+	"2016"	"2016"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	19	757952	Unreliable
+	"2016"	"2016"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	33	757952	4.4
+	"2017"	"2017"	"North Dakota"	"38"	"Enterocolitis due to Clostridium difficile"	"A04.7"	10	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Septicaemia, unspecified"	"A41.9"	63	755393	8.3
+	"2017"	"2017"	"North Dakota"	"38"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	30	755393	4.0
+	"2017"	"2017"	"North Dakota"	"38"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	755393	2.6
+	"2017"	"2017"	"North Dakota"	"38"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	70	755393	9.3
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm of rectum"	"C20"	15	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	755393	2.9
+	"2017"	"2017"	"North Dakota"	"38"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	17	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	103	755393	13.6
+	"2017"	"2017"	"North Dakota"	"38"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	304	755393	40.2
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	755393	2.8
+	"2017"	"2017"	"North Dakota"	"38"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	97	755393	12.8
+	"2017"	"2017"	"North Dakota"	"38"	"Endometrium - Malignant neoplasms"	"C54.1"	10	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm of ovary"	"C56"	26	755393	3.4
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm of prostate"	"C61"	79	755393	10.5
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	26	755393	3.4
+	"2017"	"2017"	"North Dakota"	"38"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	755393	3.3
+	"2017"	"2017"	"North Dakota"	"38"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	29	755393	3.8
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasm without specification of site"	"C80"	70	755393	9.3
+	"2017"	"2017"	"North Dakota"	"38"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	25	755393	3.3
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	12	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	29	755393	3.8
+	"2017"	"2017"	"North Dakota"	"38"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	25	755393	3.3
+	"2017"	"2017"	"North Dakota"	"38"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	23	755393	3.0
+	"2017"	"2017"	"North Dakota"	"38"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	26	755393	3.4
+	"2017"	"2017"	"North Dakota"	"38"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	30	755393	4.0
+	"2017"	"2017"	"North Dakota"	"38"	"Unspecified diabetes mellitus, without complications"	"E14.9"	69	755393	9.1
+	"2017"	"2017"	"North Dakota"	"38"	"Other obesity"	"E66.8"	11	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Obesity, unspecified"	"E66.9"	13	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Hyperlipidaemia, unspecified"	"E78.5"	52	755393	6.9
+	"2017"	"2017"	"North Dakota"	"38"	"Vascular dementia, unspecified"	"F01.9"	74	755393	9.8
+	"2017"	"2017"	"North Dakota"	"38"	"Unspecified dementia"	"F03"	150	755393	19.9
+	"2017"	"2017"	"North Dakota"	"38"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	37	755393	4.9
+	"2017"	"2017"	"North Dakota"	"38"	"Motor neuron disease"	"G12.2"	14	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Parkinson disease"	"G20"	79	755393	10.5
+	"2017"	"2017"	"North Dakota"	"38"	"Alzheimer disease with late onset"	"G30.1"	13	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Alzheimer disease, unspecified"	"G30.9"	373	755393	49.4
+	"2017"	"2017"	"North Dakota"	"38"	"Other specified degenerative diseases of nervous system"	"G31.8"	18	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Multiple sclerosis"	"G35"	16	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	15	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Essential (primary) hypertension"	"I10"	69	755393	9.1
+	"2017"	"2017"	"North Dakota"	"38"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	755393	3.7
+	"2017"	"2017"	"North Dakota"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Hypertensive renal disease with renal failure"	"I12.0"	35	755393	4.6
+	"2017"	"2017"	"North Dakota"	"38"	"Acute subendocardial myocardial infarction"	"I21.4"	31	755393	4.1
+	"2017"	"2017"	"North Dakota"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	215	755393	28.5
+	"2017"	"2017"	"North Dakota"	"38"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	115	755393	15.2
+	"2017"	"2017"	"North Dakota"	"38"	"Atherosclerotic heart disease"	"I25.1"	344	755393	45.5
+	"2017"	"2017"	"North Dakota"	"38"	"Ischaemic cardiomyopathy"	"I25.5"	29	755393	3.8
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	22	755393	2.9
+	"2017"	"2017"	"North Dakota"	"38"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	20	755393	2.6
+	"2017"	"2017"	"North Dakota"	"38"	"Other secondary pulmonary hypertension"	"I27.2"	16	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Aortic (valve) stenosis"	"I35.0"	36	755393	4.8
+	"2017"	"2017"	"North Dakota"	"38"	"Endocarditis, valve unspecified"	"I38"	23	755393	3.0
+	"2017"	"2017"	"North Dakota"	"38"	"Cardiomyopathy, unspecified"	"I42.9"	17	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Cardiac arrest, unspecified"	"I46.9"	42	755393	5.6
+	"2017"	"2017"	"North Dakota"	"38"	"Atrial fibrillation and flutter"	"I48"	75	755393	9.9
+	"2017"	"2017"	"North Dakota"	"38"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Congestive heart failure"	"I50.0"	143	755393	18.9
+	"2017"	"2017"	"North Dakota"	"38"	"Heart failure, unspecified"	"I50.9"	34	755393	4.5
+	"2017"	"2017"	"North Dakota"	"38"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Intracerebral haemorrhage, unspecified"	"I61.9"	37	755393	4.9
+	"2017"	"2017"	"North Dakota"	"38"	"Subdural haemorrhage (acute)(nontraumatic)"	"I62.0"	14	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	25	755393	3.3
+	"2017"	"2017"	"North Dakota"	"38"	"Cerebral infarction, unspecified"	"I63.9"	32	755393	4.2
+	"2017"	"2017"	"North Dakota"	"38"	"Stroke, not specified as haemorrhage or infarction"	"I64"	151	755393	20.0
+	"2017"	"2017"	"North Dakota"	"38"	"Cerebrovascular disease, unspecified"	"I67.9"	20	755393	2.6
+	"2017"	"2017"	"North Dakota"	"38"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Generalized and unspecified atherosclerosis"	"I70.9"	54	755393	7.1
+	"2017"	"2017"	"North Dakota"	"38"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	11	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Pneumonia, unspecified"	"J18.9"	112	755393	14.8
+	"2017"	"2017"	"North Dakota"	"38"	"Emphysema, unspecified"	"J43.9"	12	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	68	755393	9.0
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	24	755393	3.2
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	228	755393	30.2
+	"2017"	"2017"	"North Dakota"	"38"	"Pneumonitis due to food and vomit"	"J69.0"	86	755393	11.4
+	"2017"	"2017"	"North Dakota"	"38"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	33	755393	4.4
+	"2017"	"2017"	"North Dakota"	"38"	"Interstitial pulmonary disease, unspecified"	"J84.9"	24	755393	3.2
+	"2017"	"2017"	"North Dakota"	"38"	"Respiratory failure, unspecified"	"J96.9"	15	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Other and unspecified intestinal obstruction"	"K56.6"	19	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	32	755393	4.2
+	"2017"	"2017"	"North Dakota"	"38"	"Alcoholic liver disease, unspecified"	"K70.9"	13	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Other and unspecified cirrhosis of liver"	"K74.6"	28	755393	3.7
+	"2017"	"2017"	"North Dakota"	"38"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	32	755393	4.2
+	"2017"	"2017"	"North Dakota"	"38"	"Acute renal failure, unspecified"	"N17.9"	13	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic kidney disease, stage 5"	"N18.5"	32	755393	4.2
+	"2017"	"2017"	"North Dakota"	"38"	"Chronic renal failure, unspecified"	"N18.9"	37	755393	4.9
+	"2017"	"2017"	"North Dakota"	"38"	"Unspecified renal failure"	"N19"	33	755393	4.4
+	"2017"	"2017"	"North Dakota"	"38"	"Urinary tract infection, site not specified"	"N39.0"	26	755393	3.4
+	"2017"	"2017"	"North Dakota"	"38"	"Senility"	"R54"	10	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Other ill-defined and unspecified causes of mortality"	"R99"	34	755393	4.5
+	"2017"	"2017"	"North Dakota"	"38"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	18	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	45	755393	6.0
+	"2017"	"2017"	"North Dakota"	"38"	"Other fall on same level"	"W18"	20	755393	2.6
+	"2017"	"2017"	"North Dakota"	"38"	"Unspecified fall"	"W19"	31	755393	4.1
+	"2017"	"2017"	"North Dakota"	"38"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	21	755393	2.8
+	"2017"	"2017"	"North Dakota"	"38"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	17	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	23	755393	3.0
+	"2017"	"2017"	"North Dakota"	"38"	"Exposure to unspecified factor causing fracture"	"X59.0"	15	755393	Unreliable
+	"2017"	"2017"	"North Dakota"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	38	755393	5.0
+	"2017"	"2017"	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	29	755393	3.8
+	"2017"	"2017"	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	24	755393	3.2
+	"2017"	"2017"	"North Dakota"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	40	755393	5.3

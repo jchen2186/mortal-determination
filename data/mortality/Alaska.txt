@@ -1,0 +1,1470 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Underlying Cause of death"	"Underlying Cause of death Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	19	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	23	624779	3.7
+	"1999"	"1999"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	49	624779	7.8
+	"1999"	"1999"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	10	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	46	624779	7.4
+	"1999"	"1999"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	178	624779	28.5
+	"1999"	"1999"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	42	624779	6.7
+	"1999"	"1999"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	20	624779	3.2
+	"1999"	"1999"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	48	624779	7.7
+	"1999"	"1999"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	33	624779	5.3
+	"1999"	"1999"	"Alaska"	"02"	"Unspecified dementia"	"F03"	29	624779	4.6
+	"1999"	"1999"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	28	624779	4.5
+	"1999"	"1999"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Parkinson disease"	"G20"	15	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	24	624779	3.8
+	"1999"	"1999"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	123	624779	19.7
+	"1999"	"1999"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	105	624779	16.8
+	"1999"	"1999"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	144	624779	23.0
+	"1999"	"1999"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	25	624779	4.0
+	"1999"	"1999"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	40	624779	6.4
+	"1999"	"1999"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	23	624779	3.7
+	"1999"	"1999"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	14	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	79	624779	12.6
+	"1999"	"1999"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	32	624779	5.1
+	"1999"	"1999"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	18	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	624779	17.1
+	"1999"	"1999"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	10	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	10	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	20	624779	3.2
+	"1999"	"1999"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	14	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	33	624779	5.3
+	"1999"	"1999"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	23	624779	3.7
+	"1999"	"1999"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	11	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Unspecified drowning and submersion"	"W74"	14	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Victim of avalanche, landslide and other earth movements"	"X36"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	14	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	15	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21	624779	3.4
+	"1999"	"1999"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	16	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	624779	Unreliable
+	"1999"	"1999"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	624779	3.4
+	"1999"	"1999"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	25	624779	4.0
+	"2000"	"2000"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	626932	3.5
+	"2000"	"2000"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	51	626932	8.1
+	"2000"	"2000"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	626932	4.9
+	"2000"	"2000"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	203	626932	32.4
+	"2000"	"2000"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	626932	9.7
+	"2000"	"2000"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	16	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	30	626932	4.8
+	"2000"	"2000"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	36	626932	5.7
+	"2000"	"2000"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	21	626932	3.3
+	"2000"	"2000"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	42	626932	6.7
+	"2000"	"2000"	"Alaska"	"02"	"Unspecified dementia"	"F03"	23	626932	3.7
+	"2000"	"2000"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	34	626932	5.4
+	"2000"	"2000"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	11	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Parkinson disease"	"G20"	19	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	46	626932	7.3
+	"2000"	"2000"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	124	626932	19.8
+	"2000"	"2000"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	119	626932	19.0
+	"2000"	"2000"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	142	626932	22.6
+	"2000"	"2000"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	21	626932	3.3
+	"2000"	"2000"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	22	626932	3.5
+	"2000"	"2000"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	39	626932	6.2
+	"2000"	"2000"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	75	626932	12.0
+	"2000"	"2000"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	33	626932	5.3
+	"2000"	"2000"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	15	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	105	626932	16.7
+	"2000"	"2000"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	15	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Chronic renal failure, unspecified"	"N18.9"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	15	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	10	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	60	626932	9.6
+	"2000"	"2000"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	25	626932	4.0
+	"2000"	"2000"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	11	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	626932	3.3
+	"2000"	"2000"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	13	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	16	626932	Unreliable
+	"2000"	"2000"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	24	626932	3.8
+	"2000"	"2000"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	30	626932	4.8
+	"2000"	"2000"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	28	626932	4.5
+	"2000"	"2000"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	626932	6.1
+	"2000"	"2000"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	16	626932	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	20	633714	3.2
+	"2001"	"2001"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	53	633714	8.4
+	"2001"	"2001"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	15	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	38	633714	6.0
+	"2001"	"2001"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	195	633714	30.8
+	"2001"	"2001"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	633714	7.4
+	"2001"	"2001"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	31	633714	4.9
+	"2001"	"2001"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	36	633714	5.7
+	"2001"	"2001"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	43	633714	6.8
+	"2001"	"2001"	"Alaska"	"02"	"Unspecified dementia"	"F03"	34	633714	5.4
+	"2001"	"2001"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	17	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	34	633714	5.4
+	"2001"	"2001"	"Alaska"	"02"	"Parkinson disease"	"G20"	19	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	44	633714	6.9
+	"2001"	"2001"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	108	633714	17.0
+	"2001"	"2001"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	146	633714	23.0
+	"2001"	"2001"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	109	633714	17.2
+	"2001"	"2001"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	12	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	22	633714	3.5
+	"2001"	"2001"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	12	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	11	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	28	633714	4.4
+	"2001"	"2001"	"Alaska"	"02"	"Heart disease, unspecified"	"I51.9"	28	633714	4.4
+	"2001"	"2001"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	75	633714	11.8
+	"2001"	"2001"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Generalized and unspecified atherosclerosis"	"I70.9"	60	633714	9.5
+	"2001"	"2001"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	24	633714	3.8
+	"2001"	"2001"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	20	633714	3.2
+	"2001"	"2001"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	109	633714	17.2
+	"2001"	"2001"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	12	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	15	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	16	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Other and unspecified convulsions"	"R56.8"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	54	633714	8.5
+	"2001"	"2001"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	17	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Unspecified drowning and submersion"	"W74"	14	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	13	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	633714	5.8
+	"2001"	"2001"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Accidental poisoning by and exposure to other gases and vapours"	"X47"	10	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	15	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	19	633714	Unreliable
+	"2001"	"2001"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	61	633714	9.6
+	"2001"	"2001"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	21	633714	3.3
+	"2002"	"2002"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	16	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	23	642337	3.6
+	"2002"	"2002"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	48	642337	7.5
+	"2002"	"2002"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	14	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	642337	6.1
+	"2002"	"2002"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	197	642337	30.7
+	"2002"	"2002"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	12	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	642337	7.3
+	"2002"	"2002"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	17	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	40	642337	6.2
+	"2002"	"2002"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	642337	3.1
+	"2002"	"2002"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	41	642337	6.4
+	"2002"	"2002"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	52	642337	8.1
+	"2002"	"2002"	"Alaska"	"02"	"Unspecified dementia"	"F03"	51	642337	7.9
+	"2002"	"2002"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	59	642337	9.2
+	"2002"	"2002"	"Alaska"	"02"	"Parkinson disease"	"G20"	18	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	57	642337	8.9
+	"2002"	"2002"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	642337	3.4
+	"2002"	"2002"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	77	642337	12.0
+	"2002"	"2002"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	196	642337	30.5
+	"2002"	"2002"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	105	642337	16.3
+	"2002"	"2002"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	12	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	14	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	14	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	30	642337	4.7
+	"2002"	"2002"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	12	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	85	642337	13.2
+	"2002"	"2002"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Generalized and unspecified atherosclerosis"	"I70.9"	26	642337	4.0
+	"2002"	"2002"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	41	642337	6.4
+	"2002"	"2002"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	116	642337	18.1
+	"2002"	"2002"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	11	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	17	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Other and unspecified convulsions"	"R56.8"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	17	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	13	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	40	642337	6.2
+	"2002"	"2002"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	13	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	19	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	58	642337	9.0
+	"2002"	"2002"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	21	642337	3.3
+	"2002"	"2002"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	10	642337	Unreliable
+	"2002"	"2002"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	642337	3.4
+	"2002"	"2002"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	87	642337	13.5
+	"2002"	"2002"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	24	642337	3.7
+	"2003"	"2003"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	20	648414	3.1
+	"2003"	"2003"	"Alaska"	"02"	"Acute hepatitis C"	"B17.1"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	648414	3.5
+	"2003"	"2003"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	19	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	51	648414	7.9
+	"2003"	"2003"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	10	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	648414	6.0
+	"2003"	"2003"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	212	648414	32.7
+	"2003"	"2003"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	55	648414	8.5
+	"2003"	"2003"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	21	648414	3.2
+	"2003"	"2003"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	648414	3.2
+	"2003"	"2003"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	18	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	43	648414	6.6
+	"2003"	"2003"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	65	648414	10.0
+	"2003"	"2003"	"Alaska"	"02"	"Unspecified dementia"	"F03"	60	648414	9.3
+	"2003"	"2003"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, acute intoxication"	"F10.0"	14	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	46	648414	7.1
+	"2003"	"2003"	"Alaska"	"02"	"Parkinson disease"	"G20"	19	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	53	648414	8.2
+	"2003"	"2003"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	11	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	46	648414	7.1
+	"2003"	"2003"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	103	648414	15.9
+	"2003"	"2003"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	164	648414	25.3
+	"2003"	"2003"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	109	648414	16.8
+	"2003"	"2003"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	11	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	10	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	15	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	46	648414	7.1
+	"2003"	"2003"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	87	648414	13.4
+	"2003"	"2003"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Generalized and unspecified atherosclerosis"	"I70.9"	64	648414	9.9
+	"2003"	"2003"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	48	648414	7.4
+	"2003"	"2003"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	14	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	113	648414	17.4
+	"2003"	"2003"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	12	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	23	648414	3.5
+	"2003"	"2003"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	11	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	12	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	56	648414	8.6
+	"2003"	"2003"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	56	648414	8.6
+	"2003"	"2003"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	16	648414	Unreliable
+	"2003"	"2003"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	24	648414	3.7
+	"2003"	"2003"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	76	648414	11.7
+	"2003"	"2003"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	30	648414	4.6
+	"2004"	"2004"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	15	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	48	659286	7.3
+	"2004"	"2004"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	42	659286	6.4
+	"2004"	"2004"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	226	659286	34.3
+	"2004"	"2004"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	45	659286	6.8
+	"2004"	"2004"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	32	659286	4.9
+	"2004"	"2004"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	659286	3.6
+	"2004"	"2004"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	42	659286	6.4
+	"2004"	"2004"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	67	659286	10.2
+	"2004"	"2004"	"Alaska"	"02"	"Unspecified dementia"	"F03"	56	659286	8.5
+	"2004"	"2004"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	49	659286	7.4
+	"2004"	"2004"	"Alaska"	"02"	"Parkinson disease"	"G20"	17	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	48	659286	7.3
+	"2004"	"2004"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	34	659286	5.2
+	"2004"	"2004"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	59	659286	8.9
+	"2004"	"2004"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	175	659286	26.5
+	"2004"	"2004"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	114	659286	17.3
+	"2004"	"2004"	"Alaska"	"02"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	23	659286	3.5
+	"2004"	"2004"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	51	659286	7.7
+	"2004"	"2004"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Cerebral infarction, unspecified"	"I63.9"	12	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	81	659286	12.3
+	"2004"	"2004"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	13	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	39	659286	5.9
+	"2004"	"2004"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	18	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	659286	16.2
+	"2004"	"2004"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	10	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	18	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	13	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	57	659286	8.6
+	"2004"	"2004"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	11	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Unspecified drowning and submersion"	"W74"	15	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	55	659286	8.3
+	"2004"	"2004"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	15	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	14	659286	Unreliable
+	"2004"	"2004"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	33	659286	5.0
+	"2004"	"2004"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	89	659286	13.5
+	"2004"	"2004"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	18	659286	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	23	666946	3.4
+	"2005"	"2005"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	666946	3.4
+	"2005"	"2005"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	16	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	43	666946	6.4
+	"2005"	"2005"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	33	666946	4.9
+	"2005"	"2005"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	215	666946	32.2
+	"2005"	"2005"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	666946	7.0
+	"2005"	"2005"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	17	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	33	666946	4.9
+	"2005"	"2005"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	18	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	53	666946	7.9
+	"2005"	"2005"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	20	666946	3.0
+	"2005"	"2005"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	62	666946	9.3
+	"2005"	"2005"	"Alaska"	"02"	"Unspecified dementia"	"F03"	74	666946	11.1
+	"2005"	"2005"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	25	666946	3.7
+	"2005"	"2005"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	41	666946	6.1
+	"2005"	"2005"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	10	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Parkinson disease"	"G20"	23	666946	3.4
+	"2005"	"2005"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	60	666946	9.0
+	"2005"	"2005"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	666946	5.7
+	"2005"	"2005"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	10	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	78	666946	11.7
+	"2005"	"2005"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	173	666946	25.9
+	"2005"	"2005"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	88	666946	13.2
+	"2005"	"2005"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	21	666946	3.1
+	"2005"	"2005"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	20	666946	3.0
+	"2005"	"2005"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	27	666946	4.0
+	"2005"	"2005"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	54	666946	8.1
+	"2005"	"2005"	"Alaska"	"02"	"Heart disease, unspecified"	"I51.9"	13	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	22	666946	3.3
+	"2005"	"2005"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	86	666946	12.9
+	"2005"	"2005"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	15	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Peripheral vascular disease, unspecified"	"I73.9"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	37	666946	5.5
+	"2005"	"2005"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	29	666946	4.3
+	"2005"	"2005"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	110	666946	16.5
+	"2005"	"2005"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	10	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	666946	3.1
+	"2005"	"2005"	"Alaska"	"02"	"Other disorders of lung"	"J98.4"	12	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	21	666946	3.1
+	"2005"	"2005"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	20	666946	3.0
+	"2005"	"2005"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	15	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	24	666946	3.6
+	"2005"	"2005"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	11	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Accidental suffocation and strangulation in bed"	"W75"	10	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	13	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	15	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	666946	3.0
+	"2005"	"2005"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	40	666946	6.0
+	"2005"	"2005"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	16	666946	Unreliable
+	"2005"	"2005"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28	666946	4.2
+	"2005"	"2005"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	81	666946	12.1
+	"2005"	"2005"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	23	666946	3.4
+	"2006"	"2006"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	21	675302	3.1
+	"2006"	"2006"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	18	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	28	675302	4.1
+	"2006"	"2006"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	675302	3.0
+	"2006"	"2006"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	57	675302	8.4
+	"2006"	"2006"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	675302	7.3
+	"2006"	"2006"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	205	675302	30.4
+	"2006"	"2006"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	74	675302	11.0
+	"2006"	"2006"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	18	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	28	675302	4.1
+	"2006"	"2006"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	43	675302	6.4
+	"2006"	"2006"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	20	675302	3.0
+	"2006"	"2006"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	67	675302	9.9
+	"2006"	"2006"	"Alaska"	"02"	"Unspecified dementia"	"F03"	85	675302	12.6
+	"2006"	"2006"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	16	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	36	675302	5.3
+	"2006"	"2006"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	40	675302	5.9
+	"2006"	"2006"	"Alaska"	"02"	"Parkinson disease"	"G20"	28	675302	4.1
+	"2006"	"2006"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	73	675302	10.8
+	"2006"	"2006"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	675302	5.3
+	"2006"	"2006"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	11	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	83	675302	12.3
+	"2006"	"2006"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	134	675302	19.8
+	"2006"	"2006"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	105	675302	15.5
+	"2006"	"2006"	"Alaska"	"02"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	16	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	19	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	11	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	27	675302	4.0
+	"2006"	"2006"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	18	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	56	675302	8.3
+	"2006"	"2006"	"Alaska"	"02"	"Cardiovascular disease, unspecified"	"I51.6"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Heart disease, unspecified"	"I51.9"	19	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	13	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	22	675302	3.3
+	"2006"	"2006"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	83	675302	12.3
+	"2006"	"2006"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	38	675302	5.6
+	"2006"	"2006"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	21	675302	3.1
+	"2006"	"2006"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	106	675302	15.7
+	"2006"	"2006"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	11	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	12	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	20	675302	3.0
+	"2006"	"2006"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	22	675302	3.3
+	"2006"	"2006"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	10	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	675302	3.0
+	"2006"	"2006"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	35	675302	5.2
+	"2006"	"2006"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	14	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	12	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	14	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	28	675302	4.1
+	"2006"	"2006"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	36	675302	5.3
+	"2006"	"2006"	"Alaska"	"02"	"Exposure to unspecified factor"	"X59"	14	675302	Unreliable
+	"2006"	"2006"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	35	675302	5.2
+	"2006"	"2006"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	68	675302	10.1
+	"2006"	"2006"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	25	675302	3.7
+	"2007"	"2007"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	28	680300	4.1
+	"2007"	"2007"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	17	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	680300	3.2
+	"2007"	"2007"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	17	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	68	680300	10.0
+	"2007"	"2007"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	48	680300	7.1
+	"2007"	"2007"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	253	680300	37.2
+	"2007"	"2007"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	69	680300	10.1
+	"2007"	"2007"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	22	680300	3.2
+	"2007"	"2007"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	29	680300	4.3
+	"2007"	"2007"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	680300	3.2
+	"2007"	"2007"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	680300	2.9
+	"2007"	"2007"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	59	680300	8.7
+	"2007"	"2007"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	64	680300	9.4
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified dementia"	"F03"	82	680300	12.1
+	"2007"	"2007"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	33	680300	4.9
+	"2007"	"2007"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	26	680300	3.8
+	"2007"	"2007"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"	"F10.9"	12	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Parkinson disease"	"G20"	16	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	64	680300	9.4
+	"2007"	"2007"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	53	680300	7.8
+	"2007"	"2007"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	59	680300	8.7
+	"2007"	"2007"	"Alaska"	"02"	"Acute ischaemic heart disease, unspecified"	"I24.9"	26	680300	3.8
+	"2007"	"2007"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	109	680300	16.0
+	"2007"	"2007"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	130	680300	19.1
+	"2007"	"2007"	"Alaska"	"02"	"Other secondary pulmonary hypertension"	"I27.2"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	20	680300	2.9
+	"2007"	"2007"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	14	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	20	680300	2.9
+	"2007"	"2007"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	45	680300	6.6
+	"2007"	"2007"	"Alaska"	"02"	"Heart disease, unspecified"	"I51.9"	15	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	85	680300	12.5
+	"2007"	"2007"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	12	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	41	680300	6.0
+	"2007"	"2007"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	22	680300	3.2
+	"2007"	"2007"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	137	680300	20.1
+	"2007"	"2007"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	23	680300	3.4
+	"2007"	"2007"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	26	680300	3.8
+	"2007"	"2007"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	19	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Alcoholic liver disease, unspecified"	"K70.9"	12	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	13	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	20	680300	2.9
+	"2007"	"2007"	"Alaska"	"02"	"Other and unspecified convulsions"	"R56.8"	13	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	26	680300	3.8
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	53	680300	7.8
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	14	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Unspecified fall"	"W19"	11	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	19	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Accidental suffocation and strangulation in bed"	"W75"	10	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	17	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	19	680300	Unreliable
+	"2007"	"2007"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	680300	2.9
+	"2007"	"2007"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	40	680300	5.9
+	"2007"	"2007"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	21	680300	3.1
+	"2007"	"2007"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	40	680300	5.9
+	"2007"	"2007"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	87	680300	12.8
+	"2007"	"2007"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	22	680300	3.2
+	"2007"	"2007"	"Alaska"	"02"	"Assault by unspecified means"	"Y09"	12	680300	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	22	687455	3.2
+	"2008"	"2008"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	687455	3.6
+	"2008"	"2008"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	18	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	62	687455	9.0
+	"2008"	"2008"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	19	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	687455	9.2
+	"2008"	"2008"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	255	687455	37.1
+	"2008"	"2008"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	687455	7.0
+	"2008"	"2008"	"Alaska"	"02"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	39	687455	5.7
+	"2008"	"2008"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	23	687455	3.3
+	"2008"	"2008"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	49	687455	7.1
+	"2008"	"2008"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	59	687455	8.6
+	"2008"	"2008"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	15	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Unspecified dementia"	"F03"	79	687455	11.5
+	"2008"	"2008"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	20	687455	2.9
+	"2008"	"2008"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	40	687455	5.8
+	"2008"	"2008"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Parkinson disease"	"G20"	19	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	80	687455	11.6
+	"2008"	"2008"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	14	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	32	687455	4.7
+	"2008"	"2008"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	88	687455	12.8
+	"2008"	"2008"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	166	687455	24.1
+	"2008"	"2008"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	106	687455	15.4
+	"2008"	"2008"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	17	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	15	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	18	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	15	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	20	687455	2.9
+	"2008"	"2008"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	52	687455	7.6
+	"2008"	"2008"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	687455	2.9
+	"2008"	"2008"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	77	687455	11.2
+	"2008"	"2008"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	13	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	39	687455	5.7
+	"2008"	"2008"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	27	687455	3.9
+	"2008"	"2008"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	28	687455	4.1
+	"2008"	"2008"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	115	687455	16.7
+	"2008"	"2008"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	12	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	687455	3.2
+	"2008"	"2008"	"Alaska"	"02"	"End-stage renal disease"	"N18.0"	14	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	17	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	687455	3.6
+	"2008"	"2008"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	15	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	18	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	11	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	32	687455	4.7
+	"2008"	"2008"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	48	687455	7.0
+	"2008"	"2008"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	30	687455	4.4
+	"2008"	"2008"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	12	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	34	687455	4.9
+	"2008"	"2008"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	58	687455	8.4
+	"2008"	"2008"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	42	687455	6.1
+	"2008"	"2008"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	16	687455	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent"	"Y12"	12	687455	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	19	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	21	698895	3.0
+	"2009"	"2009"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	26	698895	3.7
+	"2009"	"2009"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	59	698895	8.4
+	"2009"	"2009"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	58	698895	8.3
+	"2009"	"2009"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	262	698895	37.5
+	"2009"	"2009"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	72	698895	10.3
+	"2009"	"2009"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	16	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	38	698895	5.4
+	"2009"	"2009"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	24	698895	3.4
+	"2009"	"2009"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	698895	3.4
+	"2009"	"2009"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	44	698895	6.3
+	"2009"	"2009"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	698895	3.1
+	"2009"	"2009"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	41	698895	5.9
+	"2009"	"2009"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Unspecified dementia"	"F03"	101	698895	14.5
+	"2009"	"2009"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	31	698895	4.4
+	"2009"	"2009"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Parkinson disease"	"G20"	21	698895	3.0
+	"2009"	"2009"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	65	698895	9.3
+	"2009"	"2009"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	20	698895	2.9
+	"2009"	"2009"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	14	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	31	698895	4.4
+	"2009"	"2009"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	88	698895	12.6
+	"2009"	"2009"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	216	698895	30.9
+	"2009"	"2009"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	115	698895	16.5
+	"2009"	"2009"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	12	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Other secondary pulmonary hypertension"	"I27.2"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	17	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	13	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	12	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	20	698895	2.9
+	"2009"	"2009"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	12	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	21	698895	3.0
+	"2009"	"2009"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	44	698895	6.3
+	"2009"	"2009"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	13	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	698895	3.0
+	"2009"	"2009"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	72	698895	10.3
+	"2009"	"2009"	"Alaska"	"02"	"Cerebrovascular disease, unspecified"	"I67.9"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	39	698895	5.6
+	"2009"	"2009"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	24	698895	3.4
+	"2009"	"2009"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	44	698895	6.3
+	"2009"	"2009"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	14	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	698895	14.3
+	"2009"	"2009"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Respiratory failure, unspecified"	"J96.9"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	28	698895	4.0
+	"2009"	"2009"	"Alaska"	"02"	"Alcoholic hepatic failure"	"K70.4"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Alcoholic liver disease, unspecified"	"K70.9"	15	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	698895	3.4
+	"2009"	"2009"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"End-stage renal disease"	"N18.0"	11	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	17	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	27	698895	3.9
+	"2009"	"2009"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	698895	3.6
+	"2009"	"2009"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	12	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	25	698895	3.6
+	"2009"	"2009"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	19	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	30	698895	4.3
+	"2009"	"2009"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	60	698895	8.6
+	"2009"	"2009"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	28	698895	4.0
+	"2009"	"2009"	"Alaska"	"02"	"Exposure to unspecified factor causing fracture"	"X59.0"	15	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	15	698895	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	27	698895	3.9
+	"2009"	"2009"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	43	698895	6.2
+	"2009"	"2009"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	33	698895	4.7
+	"2009"	"2009"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	15	698895	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	31	710231	4.4
+	"2010"	"2010"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	20	710231	2.8
+	"2010"	"2010"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	23	710231	3.2
+	"2010"	"2010"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	63	710231	8.9
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	16	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	51	710231	7.2
+	"2010"	"2010"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	240	710231	33.8
+	"2010"	"2010"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	14	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	710231	8.4
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	16	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	43	710231	6.1
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	29	710231	4.1
+	"2010"	"2010"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	24	710231	3.4
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	55	710231	7.7
+	"2010"	"2010"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	28	710231	3.9
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	710231	4.9
+	"2010"	"2010"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	17	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified dementia"	"F03"	137	710231	19.3
+	"2010"	"2010"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	20	710231	2.8
+	"2010"	"2010"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	15	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Parkinson disease"	"G20"	30	710231	4.2
+	"2010"	"2010"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	84	710231	11.8
+	"2010"	"2010"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	49	710231	6.9
+	"2010"	"2010"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	87	710231	12.2
+	"2010"	"2010"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	128	710231	18.0
+	"2010"	"2010"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	142	710231	20.0
+	"2010"	"2010"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	11	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	24	710231	3.4
+	"2010"	"2010"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	14	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	16	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	20	710231	2.8
+	"2010"	"2010"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	15	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	46	710231	6.5
+	"2010"	"2010"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	11	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Cardiovascular disease, unspecified"	"I51.6"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Cardiomegaly"	"I51.7"	25	710231	3.5
+	"2010"	"2010"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	83	710231	11.7
+	"2010"	"2010"	"Alaska"	"02"	"Peripheral vascular disease, unspecified"	"I73.9"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Bronchopneumonia, unspecified"	"J18.0"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	51	710231	7.2
+	"2010"	"2010"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	27	710231	3.8
+	"2010"	"2010"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	28	710231	3.9
+	"2010"	"2010"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	710231	14.1
+	"2010"	"2010"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	19	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	710231	3.8
+	"2010"	"2010"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	11	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	20	710231	2.8
+	"2010"	"2010"	"Alaska"	"02"	"Alcoholic liver disease, unspecified"	"K70.9"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"End-stage renal disease"	"N18.0"	17	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	18	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	13	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	11	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	27	710231	3.8
+	"2010"	"2010"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	27	710231	3.8
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	25	710231	3.5
+	"2010"	"2010"	"Alaska"	"02"	"Unspecified fall"	"W19"	10	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	14	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Drowning and submersion following fall into natural water"	"W70"	11	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	12	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	710231	3.8
+	"2010"	"2010"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	40	710231	5.6
+	"2010"	"2010"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	35	710231	4.9
+	"2010"	"2010"	"Alaska"	"02"	"Exposure to unspecified factor causing fracture"	"X59.0"	17	710231	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	44	710231	6.2
+	"2010"	"2010"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	67	710231	9.4
+	"2010"	"2010"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	32	710231	4.5
+	"2010"	"2010"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	28	710231	3.9
+	"2011"	"2011"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	31	722718	4.3
+	"2011"	"2011"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	19	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	37	722718	5.1
+	"2011"	"2011"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	55	722718	7.6
+	"2011"	"2011"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	36	722718	5.0
+	"2011"	"2011"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	59	722718	8.2
+	"2011"	"2011"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	264	722718	36.5
+	"2011"	"2011"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	57	722718	7.9
+	"2011"	"2011"	"Alaska"	"02"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	24	722718	3.3
+	"2011"	"2011"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	39	722718	5.4
+	"2011"	"2011"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	28	722718	3.9
+	"2011"	"2011"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	37	722718	5.1
+	"2011"	"2011"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	53	722718	7.3
+	"2011"	"2011"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	19	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	49	722718	6.8
+	"2011"	"2011"	"Alaska"	"02"	"Obesity, unspecified"	"E66.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified dementia"	"F03"	144	722718	19.9
+	"2011"	"2011"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	21	722718	2.9
+	"2011"	"2011"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Parkinson disease"	"G20"	24	722718	3.3
+	"2011"	"2011"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	71	722718	9.8
+	"2011"	"2011"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	24	722718	3.3
+	"2011"	"2011"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	16	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	722718	3.2
+	"2011"	"2011"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	13	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	81	722718	11.2
+	"2011"	"2011"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	173	722718	23.9
+	"2011"	"2011"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	154	722718	21.3
+	"2011"	"2011"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	13	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	23	722718	3.2
+	"2011"	"2011"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	30	722718	4.2
+	"2011"	"2011"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	19	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	23	722718	3.2
+	"2011"	"2011"	"Alaska"	"02"	"Cardiac arrhythmia, unspecified"	"I49.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	60	722718	8.3
+	"2011"	"2011"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Cardiovascular disease, unspecified"	"I51.6"	15	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Cardiomegaly"	"I51.7"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	85	722718	11.8
+	"2011"	"2011"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	41	722718	5.7
+	"2011"	"2011"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	30	722718	4.2
+	"2011"	"2011"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	130	722718	18.0
+	"2011"	"2011"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	722718	3.2
+	"2011"	"2011"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	15	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	29	722718	4.0
+	"2011"	"2011"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	33	722718	4.6
+	"2011"	"2011"	"Alaska"	"02"	"Acute renal failure, unspecified"	"N17.9"	15	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	17	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	34	722718	4.7
+	"2011"	"2011"	"Alaska"	"02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	10	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	42	722718	5.8
+	"2011"	"2011"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	18	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	20	722718	2.8
+	"2011"	"2011"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	34	722718	4.7
+	"2011"	"2011"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	50	722718	6.9
+	"2011"	"2011"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	31	722718	4.3
+	"2011"	"2011"	"Alaska"	"02"	"Accidental poisoning by and exposure to other gases and vapours"	"X47"	12	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	11	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	31	722718	4.3
+	"2011"	"2011"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	49	722718	6.8
+	"2011"	"2011"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	31	722718	4.3
+	"2011"	"2011"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	722718	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	17	722718	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	34	731449	4.6
+	"2012"	"2012"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	20	731449	2.7
+	"2012"	"2012"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	731449	3.6
+	"2012"	"2012"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	23	731449	3.1
+	"2012"	"2012"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	66	731449	9.0
+	"2012"	"2012"	"Alaska"	"02"	"Malignant neoplasm of rectosigmoid junction"	"C19"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	21	731449	2.9
+	"2012"	"2012"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	63	731449	8.6
+	"2012"	"2012"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	260	731449	35.5
+	"2012"	"2012"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	731449	8.1
+	"2012"	"2012"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	21	731449	2.9
+	"2012"	"2012"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	35	731449	4.8
+	"2012"	"2012"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	731449	2.9
+	"2012"	"2012"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	26	731449	3.6
+	"2012"	"2012"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	60	731449	8.2
+	"2012"	"2012"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	22	731449	3.0
+	"2012"	"2012"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	21	731449	2.9
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	49	731449	6.7
+	"2012"	"2012"	"Alaska"	"02"	"Obesity, unspecified"	"E66.9"	10	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	13	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified dementia"	"F03"	153	731449	20.9
+	"2012"	"2012"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	25	731449	3.4
+	"2012"	"2012"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Parkinson disease"	"G20"	30	731449	4.1
+	"2012"	"2012"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	101	731449	13.8
+	"2012"	"2012"	"Alaska"	"02"	"Multiple sclerosis"	"G35"	12	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	19	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	18	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	731449	3.7
+	"2012"	"2012"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	77	731449	10.5
+	"2012"	"2012"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	164	731449	22.4
+	"2012"	"2012"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	149	731449	20.4
+	"2012"	"2012"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	13	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	12	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	24	731449	3.3
+	"2012"	"2012"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	28	731449	3.8
+	"2012"	"2012"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	51	731449	7.0
+	"2012"	"2012"	"Alaska"	"02"	"Cardiomegaly"	"I51.7"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	22	731449	3.0
+	"2012"	"2012"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	99	731449	13.5
+	"2012"	"2012"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	45	731449	6.2
+	"2012"	"2012"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	12	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	731449	2.9
+	"2012"	"2012"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	129	731449	17.6
+	"2012"	"2012"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	19	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Vascular disorder of intestine, unspecified"	"K55.9"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	24	731449	3.3
+	"2012"	"2012"	"Alaska"	"02"	"Alcoholic liver disease, unspecified"	"K70.9"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	27	731449	3.7
+	"2012"	"2012"	"Alaska"	"02"	"Liver disease, unspecified"	"K76.9"	12	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Acute renal failure, unspecified"	"N17.9"	10	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	16	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	33	731449	4.5
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	10	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	32	731449	4.4
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified fall"	"W19"	13	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Unspecified drowning and submersion"	"W74"	14	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	13	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	46	731449	6.3
+	"2012"	"2012"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	61	731449	8.3
+	"2012"	"2012"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	15	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Exposure to unspecified factor causing fracture"	"X59.0"	19	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	11	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	44	731449	6.0
+	"2012"	"2012"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	42	731449	5.7
+	"2012"	"2012"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	29	731449	4.0
+	"2012"	"2012"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	27	731449	3.7
+	"2012"	"2012"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	17	731449	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Assault by unspecified means"	"Y09"	10	731449	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	34	735132	4.6
+	"2013"	"2013"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	20	735132	2.7
+	"2013"	"2013"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	31	735132	4.2
+	"2013"	"2013"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	33	735132	4.5
+	"2013"	"2013"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	82	735132	11.2
+	"2013"	"2013"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	25	735132	3.4
+	"2013"	"2013"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	15	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	69	735132	9.4
+	"2013"	"2013"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	271	735132	36.9
+	"2013"	"2013"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	62	735132	8.4
+	"2013"	"2013"	"Alaska"	"02"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	18	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	39	735132	5.3
+	"2013"	"2013"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	27	735132	3.7
+	"2013"	"2013"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	28	735132	3.8
+	"2013"	"2013"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	67	735132	9.1
+	"2013"	"2013"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	17	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	20	735132	2.7
+	"2013"	"2013"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	32	735132	4.4
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	32	735132	4.4
+	"2013"	"2013"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	12	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified dementia"	"F03"	176	735132	23.9
+	"2013"	"2013"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Parkinson disease"	"G20"	35	735132	4.8
+	"2013"	"2013"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	71	735132	9.7
+	"2013"	"2013"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	19	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	25	735132	3.4
+	"2013"	"2013"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	735132	3.5
+	"2013"	"2013"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	85	735132	11.6
+	"2013"	"2013"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	118	735132	16.1
+	"2013"	"2013"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	160	735132	21.8
+	"2013"	"2013"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	14	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	22	735132	3.0
+	"2013"	"2013"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	13	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	30	735132	4.1
+	"2013"	"2013"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	16	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	34	735132	4.6
+	"2013"	"2013"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	41	735132	5.6
+	"2013"	"2013"	"Alaska"	"02"	"Cardiovascular disease, unspecified"	"I51.6"	14	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Cardiomegaly"	"I51.7"	29	735132	3.9
+	"2013"	"2013"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	112	735132	15.2
+	"2013"	"2013"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	51	735132	6.9
+	"2013"	"2013"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	735132	3.4
+	"2013"	"2013"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	135	735132	18.4
+	"2013"	"2013"	"Alaska"	"02"	"Asthma, unspecified"	"J45.9"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	16	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	735132	2.9
+	"2013"	"2013"	"Alaska"	"02"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	20	735132	2.7
+	"2013"	"2013"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	24	735132	3.3
+	"2013"	"2013"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Liver disease, unspecified"	"K76.9"	17	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Chronic kidney disease, stage 5"	"N18.5"	13	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Chronic renal failure, unspecified"	"N18.9"	11	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	16	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	32	735132	4.4
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	15	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	19	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Other fall on same level"	"W18"	12	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	10	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	30	735132	4.1
+	"2013"	"2013"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	48	735132	6.5
+	"2013"	"2013"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	31	735132	4.2
+	"2013"	"2013"	"Alaska"	"02"	"Exposure to unspecified factor causing fracture"	"X59.0"	11	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	30	735132	4.1
+	"2013"	"2013"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	65	735132	8.8
+	"2013"	"2013"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	40	735132	5.4
+	"2013"	"2013"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	16	735132	Unreliable
+	"2013"	"2013"	"Alaska"	"02"	"Assault by unspecified means"	"Y09"	18	735132	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	37	736732	5.0
+	"2014"	"2014"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	34	736732	4.6
+	"2014"	"2014"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	736732	3.9
+	"2014"	"2014"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	20	736732	2.7
+	"2014"	"2014"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	69	736732	9.4
+	"2014"	"2014"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	35	736732	4.8
+	"2014"	"2014"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	61	736732	8.3
+	"2014"	"2014"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	235	736732	31.9
+	"2014"	"2014"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	74	736732	10.0
+	"2014"	"2014"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	17	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	53	736732	7.2
+	"2014"	"2014"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	23	736732	3.1
+	"2014"	"2014"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	52	736732	7.1
+	"2014"	"2014"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	20	736732	2.7
+	"2014"	"2014"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	736732	3.0
+	"2014"	"2014"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	44	736732	6.0
+	"2014"	"2014"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	22	736732	3.0
+	"2014"	"2014"	"Alaska"	"02"	"Unspecified dementia"	"F03"	183	736732	24.8
+	"2014"	"2014"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	23	736732	3.1
+	"2014"	"2014"	"Alaska"	"02"	"Parkinson disease"	"G20"	23	736732	3.1
+	"2014"	"2014"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	68	736732	9.2
+	"2014"	"2014"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	24	736732	3.3
+	"2014"	"2014"	"Alaska"	"02"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	736732	3.5
+	"2014"	"2014"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	109	736732	14.8
+	"2014"	"2014"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	164	736732	22.3
+	"2014"	"2014"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	148	736732	20.1
+	"2014"	"2014"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	17	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	13	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Other secondary pulmonary hypertension"	"I27.2"	10	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	19	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	11	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Dilated cardiomyopathy"	"I42.0"	12	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	17	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	38	736732	5.2
+	"2014"	"2014"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	58	736732	7.9
+	"2014"	"2014"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Cardiomegaly"	"I51.7"	18	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	19	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	75	736732	10.2
+	"2014"	"2014"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	51	736732	6.9
+	"2014"	"2014"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	20	736732	2.7
+	"2014"	"2014"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	736732	3.0
+	"2014"	"2014"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	129	736732	17.5
+	"2014"	"2014"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	22	736732	3.0
+	"2014"	"2014"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	16	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	28	736732	3.8
+	"2014"	"2014"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	736732	2.9
+	"2014"	"2014"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	20	736732	2.7
+	"2014"	"2014"	"Alaska"	"02"	"Acute renal failure, unspecified"	"N17.9"	10	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	13	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	43	736732	5.8
+	"2014"	"2014"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	16	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Other fall on same level"	"W18"	22	736732	3.0
+	"2014"	"2014"	"Alaska"	"02"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	44	736732	6.0
+	"2014"	"2014"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	43	736732	5.8
+	"2014"	"2014"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	28	736732	3.8
+	"2014"	"2014"	"Alaska"	"02"	"Exposure to unspecified factor causing fracture"	"X59.0"	15	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	14	736732	Unreliable
+	"2014"	"2014"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	31	736732	4.2
+	"2014"	"2014"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	52	736732	7.1
+	"2014"	"2014"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	25	736732	3.4
+	"2014"	"2014"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	736732	5.2
+	"2014"	"2014"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	18	736732	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	31	738432	4.2
+	"2015"	"2015"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	18	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	738432	4.5
+	"2015"	"2015"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	28	738432	3.8
+	"2015"	"2015"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	68	738432	9.2
+	"2015"	"2015"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	12	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	20	738432	2.7
+	"2015"	"2015"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	65	738432	8.8
+	"2015"	"2015"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	258	738432	34.9
+	"2015"	"2015"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	17	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	62	738432	8.4
+	"2015"	"2015"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	24	738432	3.3
+	"2015"	"2015"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	35	738432	4.7
+	"2015"	"2015"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	27	738432	3.7
+	"2015"	"2015"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	738432	2.8
+	"2015"	"2015"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	72	738432	9.8
+	"2015"	"2015"	"Alaska"	"02"	"B-cell lymphoma, unspecified - Malignant neoplasms"	"C85.1"	13	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	18	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	27	738432	3.7
+	"2015"	"2015"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	27	738432	3.7
+	"2015"	"2015"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	48	738432	6.5
+	"2015"	"2015"	"Alaska"	"02"	"Other obesity"	"E66.8"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Obesity, unspecified"	"E66.9"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	17	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	22	738432	3.0
+	"2015"	"2015"	"Alaska"	"02"	"Unspecified dementia"	"F03"	155	738432	21.0
+	"2015"	"2015"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	21	738432	2.8
+	"2015"	"2015"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	12	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Parkinson disease"	"G20"	36	738432	4.9
+	"2015"	"2015"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	67	738432	9.1
+	"2015"	"2015"	"Alaska"	"02"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Multiple sclerosis"	"G35"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	24	738432	3.3
+	"2015"	"2015"	"Alaska"	"02"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	738432	3.1
+	"2015"	"2015"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	13	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	109	738432	14.8
+	"2015"	"2015"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	182	738432	24.6
+	"2015"	"2015"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	172	738432	23.3
+	"2015"	"2015"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	16	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Other secondary pulmonary hypertension"	"I27.2"	15	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	26	738432	3.5
+	"2015"	"2015"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	32	738432	4.3
+	"2015"	"2015"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	25	738432	3.4
+	"2015"	"2015"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	33	738432	4.5
+	"2015"	"2015"	"Alaska"	"02"	"Cardiac arrhythmia, unspecified"	"I49.9"	14	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	66	738432	8.9
+	"2015"	"2015"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	20	738432	2.7
+	"2015"	"2015"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	13	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	84	738432	11.4
+	"2015"	"2015"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21	738432	2.8
+	"2015"	"2015"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	36	738432	4.9
+	"2015"	"2015"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	22	738432	3.0
+	"2015"	"2015"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	32	738432	4.3
+	"2015"	"2015"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	127	738432	17.2
+	"2015"	"2015"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	24	738432	3.3
+	"2015"	"2015"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	28	738432	3.8
+	"2015"	"2015"	"Alaska"	"02"	"Vascular disorder of intestine, unspecified"	"K55.9"	14	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Alcoholic fatty liver"	"K70.0"	12	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	37	738432	5.0
+	"2015"	"2015"	"Alaska"	"02"	"Alcoholic hepatic failure"	"K70.4"	16	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	29	738432	3.9
+	"2015"	"2015"	"Alaska"	"02"	"Liver disease, unspecified"	"K76.9"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Chronic kidney disease, stage 5"	"N18.5"	14	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Chronic renal failure, unspecified"	"N18.9"	15	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	11	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Other specified general symptoms and signs"	"R68.8"	12	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Sudden infant death syndrome - SIDS"	"R95"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	36	738432	4.9
+	"2015"	"2015"	"Alaska"	"02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Other fall on same level"	"W18"	33	738432	4.5
+	"2015"	"2015"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	12	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	18	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	738432	Unreliable
+	"2015"	"2015"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	738432	6.6
+	"2015"	"2015"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	738432	6.2
+	"2015"	"2015"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	25	738432	3.4
+	"2015"	"2015"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	53	738432	7.2
+	"2015"	"2015"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	64	738432	8.7
+	"2015"	"2015"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	21	738432	2.8
+	"2015"	"2015"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	738432	5.1
+	"2015"	"2015"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	33	738432	4.5
+	"2016"	"2016"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	41	741894	5.5
+	"2016"	"2016"	"Alaska"	"02"	"Chronic viral hepatitis C"	"B18.2"	20	741894	2.7
+	"2016"	"2016"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	43	741894	5.8
+	"2016"	"2016"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	30	741894	4.0
+	"2016"	"2016"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	56	741894	7.5
+	"2016"	"2016"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	20	741894	2.7
+	"2016"	"2016"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	25	741894	3.4
+	"2016"	"2016"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	80	741894	10.8
+	"2016"	"2016"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	225	741894	30.3
+	"2016"	"2016"	"Alaska"	"02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	68	741894	9.2
+	"2016"	"2016"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	20	741894	2.7
+	"2016"	"2016"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	43	741894	5.8
+	"2016"	"2016"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	26	741894	3.5
+	"2016"	"2016"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	35	741894	4.7
+	"2016"	"2016"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	63	741894	8.5
+	"2016"	"2016"	"Alaska"	"02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	20	741894	2.7
+	"2016"	"2016"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	31	741894	4.2
+	"2016"	"2016"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	37	741894	5.0
+	"2016"	"2016"	"Alaska"	"02"	"Other obesity"	"E66.8"	12	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Obesity, unspecified"	"E66.9"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	15	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	16	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Unspecified dementia"	"F03"	143	741894	19.3
+	"2016"	"2016"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	17	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	21	741894	2.8
+	"2016"	"2016"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Parkinson disease"	"G20"	17	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	110	741894	14.8
+	"2016"	"2016"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	26	741894	3.5
+	"2016"	"2016"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	741894	5.0
+	"2016"	"2016"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	95	741894	12.8
+	"2016"	"2016"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	189	741894	25.5
+	"2016"	"2016"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	147	741894	19.8
+	"2016"	"2016"	"Alaska"	"02"	"Ischaemic cardiomyopathy"	"I25.5"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Other secondary pulmonary hypertension"	"I27.2"	17	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	28	741894	3.8
+	"2016"	"2016"	"Alaska"	"02"	"Endocarditis, valve unspecified"	"I38"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Alcoholic cardiomyopathy"	"I42.6"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	34	741894	4.6
+	"2016"	"2016"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	21	741894	2.8
+	"2016"	"2016"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	24	741894	3.2
+	"2016"	"2016"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	61	741894	8.2
+	"2016"	"2016"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	89	741894	12.0
+	"2016"	"2016"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	22	741894	3.0
+	"2016"	"2016"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	45	741894	6.1
+	"2016"	"2016"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	17	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	33	741894	4.4
+	"2016"	"2016"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	167	741894	22.5
+	"2016"	"2016"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	28	741894	3.8
+	"2016"	"2016"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	23	741894	3.1
+	"2016"	"2016"	"Alaska"	"02"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Other and unspecified intestinal obstruction"	"K56.6"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Alcoholic fatty liver"	"K70.0"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	14	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	46	741894	6.2
+	"2016"	"2016"	"Alaska"	"02"	"Alcoholic hepatic failure"	"K70.4"	15	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Hepatic failure, unspecified"	"K72.9"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	28	741894	3.8
+	"2016"	"2016"	"Alaska"	"02"	"Liver disease, unspecified"	"K76.9"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Acute renal failure, unspecified"	"N17.9"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Chronic kidney disease, stage 5"	"N18.5"	15	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Chronic renal failure, unspecified"	"N18.9"	12	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	12	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	14	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26	741894	3.5
+	"2016"	"2016"	"Alaska"	"02"	"Unspecified aircraft accident injuring occupant"	"V95.9"	18	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Fall on and from stairs and steps"	"W10"	10	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Other fall on same level"	"W18"	45	741894	6.1
+	"2016"	"2016"	"Alaska"	"02"	"Drowning and submersion while in natural water"	"W69"	14	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	11	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	13	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	741894	Unreliable
+	"2016"	"2016"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	36	741894	4.9
+	"2016"	"2016"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	51	741894	6.9
+	"2016"	"2016"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	23	741894	3.1
+	"2016"	"2016"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	48	741894	6.5
+	"2016"	"2016"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	47	741894	6.3
+	"2016"	"2016"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	20	741894	2.7
+	"2016"	"2016"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	46	741894	6.2
+	"2016"	"2016"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	43	741894	5.8
+	"2017"	"2017"	"Alaska"	"02"	"Septicaemia, unspecified"	"A41.9"	39	739795	5.3
+	"2017"	"2017"	"Alaska"	"02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	35	739795	4.7
+	"2017"	"2017"	"Alaska"	"02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	25	739795	3.4
+	"2017"	"2017"	"Alaska"	"02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	79	739795	10.7
+	"2017"	"2017"	"Alaska"	"02"	"Malignant neoplasm of rectum"	"C20"	20	739795	2.7
+	"2017"	"2017"	"Alaska"	"02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	739795	3.2
+	"2017"	"2017"	"Alaska"	"02"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	60	739795	8.1
+	"2017"	"2017"	"Alaska"	"02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	199	739795	26.9
+	"2017"	"2017"	"Alaska"	"02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	739795	8.2
+	"2017"	"2017"	"Alaska"	"02"	"Malignant neoplasm of ovary"	"C56"	17	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Malignant neoplasm of prostate"	"C61"	39	739795	5.3
+	"2017"	"2017"	"Alaska"	"02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	739795	3.0
+	"2017"	"2017"	"Alaska"	"02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	739795	3.6
+	"2017"	"2017"	"Alaska"	"02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	31	739795	4.2
+	"2017"	"2017"	"Alaska"	"02"	"Malignant neoplasm without specification of site"	"C80"	64	739795	8.7
+	"2017"	"2017"	"Alaska"	"02"	"B-cell lymphoma, unspecified - Malignant neoplasms"	"C85.1"	10	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	15	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	36	739795	4.9
+	"2017"	"2017"	"Alaska"	"02"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	43	739795	5.8
+	"2017"	"2017"	"Alaska"	"02"	"Other obesity"	"E66.8"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Obesity, unspecified"	"E66.9"	15	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Hyperlipidaemia, unspecified"	"E78.5"	23	739795	3.1
+	"2017"	"2017"	"Alaska"	"02"	"Vascular dementia, unspecified"	"F01.9"	25	739795	3.4
+	"2017"	"2017"	"Alaska"	"02"	"Unspecified dementia"	"F03"	111	739795	15.0
+	"2017"	"2017"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	17	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Motor neuron disease"	"G12.2"	14	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Parkinson disease"	"G20"	34	739795	4.6
+	"2017"	"2017"	"Alaska"	"02"	"Alzheimer disease, unspecified"	"G30.9"	97	739795	13.1
+	"2017"	"2017"	"Alaska"	"02"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	21	739795	2.8
+	"2017"	"2017"	"Alaska"	"02"	"Essential (primary) hypertension"	"I10"	22	739795	3.0
+	"2017"	"2017"	"Alaska"	"02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	739795	5.8
+	"2017"	"2017"	"Alaska"	"02"	"Hypertensive renal disease with renal failure"	"I12.0"	16	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Acute subendocardial myocardial infarction"	"I21.4"	10	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Acute myocardial infarction, unspecified"	"I21.9"	86	739795	11.6
+	"2017"	"2017"	"Alaska"	"02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	178	739795	24.1
+	"2017"	"2017"	"Alaska"	"02"	"Atherosclerotic heart disease"	"I25.1"	169	739795	22.8
+	"2017"	"2017"	"Alaska"	"02"	"Aortic (valve) stenosis"	"I35.0"	15	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Cardiomyopathy, unspecified"	"I42.9"	22	739795	3.0
+	"2017"	"2017"	"Alaska"	"02"	"Cardiac arrest, unspecified"	"I46.9"	19	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Atrial fibrillation and flutter"	"I48"	43	739795	5.8
+	"2017"	"2017"	"Alaska"	"02"	"Congestive heart failure"	"I50.0"	68	739795	9.2
+	"2017"	"2017"	"Alaska"	"02"	"Heart failure, unspecified"	"I50.9"	20	739795	2.7
+	"2017"	"2017"	"Alaska"	"02"	"Cardiovascular disease, unspecified"	"I51.6"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	739795	2.8
+	"2017"	"2017"	"Alaska"	"02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	16	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	95	739795	12.8
+	"2017"	"2017"	"Alaska"	"02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Peripheral vascular disease, unspecified"	"I73.9"	13	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Pneumonia, unspecified"	"J18.9"	41	739795	5.5
+	"2017"	"2017"	"Alaska"	"02"	"Emphysema, unspecified"	"J43.9"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	29	739795	3.9
+	"2017"	"2017"	"Alaska"	"02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	145	739795	19.6
+	"2017"	"2017"	"Alaska"	"02"	"Pneumonitis due to food and vomit"	"J69.0"	32	739795	4.3
+	"2017"	"2017"	"Alaska"	"02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Other and unspecified intestinal obstruction"	"K56.6"	11	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Alcoholic fatty liver"	"K70.0"	14	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Alcoholic hepatitis"	"K70.1"	17	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Alcoholic cirrhosis of liver"	"K70.3"	40	739795	5.4
+	"2017"	"2017"	"Alaska"	"02"	"Alcoholic hepatic failure"	"K70.4"	15	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Other and unspecified cirrhosis of liver"	"K74.6"	26	739795	3.5
+	"2017"	"2017"	"Alaska"	"02"	"Liver disease, unspecified"	"K76.9"	14	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Rheumatoid arthritis, unspecified"	"M06.9"	14	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Chronic kidney disease, stage 5"	"N18.5"	20	739795	2.7
+	"2017"	"2017"	"Alaska"	"02"	"Chronic renal failure, unspecified"	"N18.9"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Unspecified renal failure"	"N19"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Urinary tract infection, site not specified"	"N39.0"	11	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Other specified general symptoms and signs"	"R68.8"	13	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	739795	3.2
+	"2017"	"2017"	"Alaska"	"02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	10	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	13	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	12	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	24	739795	3.2
+	"2017"	"2017"	"Alaska"	"02"	"Other fall on same level"	"W18"	50	739795	6.8
+	"2017"	"2017"	"Alaska"	"02"	"Exposure to uncontrolled fire in building or structure"	"X00"	11	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Exposure to excessive natural cold"	"X31"	23	739795	3.1
+	"2017"	"2017"	"Alaska"	"02"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	20	739795	2.7
+	"2017"	"2017"	"Alaska"	"02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	36	739795	4.9
+	"2017"	"2017"	"Alaska"	"02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	67	739795	9.1
+	"2017"	"2017"	"Alaska"	"02"	"Accidental poisoning by and exposure to alcohol"	"X45"	22	739795	3.0
+	"2017"	"2017"	"Alaska"	"02"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	15	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	53	739795	7.2
+	"2017"	"2017"	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	35	739795	4.7
+	"2017"	"2017"	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	739795	Unreliable
+	"2017"	"2017"	"Alaska"	"02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	67	739795	9.1
+	"2017"	"2017"	"Alaska"	"02"	"Assault by other and unspecified firearm discharge"	"X95"	44	739795	5.9
+	"2017"	"2017"	"Alaska"	"02"	"Assault by sharp object"	"X99"	15	739795	Unreliable
