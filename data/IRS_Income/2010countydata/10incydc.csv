@@ -1,0 +1,80 @@
+County FIPS code,Size of adjusted gross income by county,Number of returns,Number of joint returns,Number with paid preparer's signature,Number of exemptions,Number of dependents,Adjusted gross income (AGI),Salaries and wages in AGI Number of returns,Salaries and wages in AGI Amount,Taxable interest Number of returns,Taxable interest Amount,Ordinary dividends Number of returns,Ordinary dividends Amount,Qualified dividends Number of returns,Qualified dividends Amount,Business or profession net income (less loss) Number of returns,Business or profession net income (less loss) Amount,Number of farm returns,Net capital gain (less loss) in AGI Number of returns,Net capital gain (less loss) in AGI Amount,Taxable individual retirement arrangement distributions Number of returns,Taxable individual retirement arrangement distributions Amount,Pensions and annuities in AGI Number of returns,Pensions and annuities in AGI Amount,Unemployment compensation Number of returns,Unemployment compensation Amount,Social Security benefits in AGI Number of returns,Social Security benefits in AGI Amount,Self-employment retirement plans Number of returns,Self-employment retirement plans Amount,Total itemized deductions Number of returns,Total itemized deductions Amount,State and local income taxes Number of returns,State and local income taxes Amount,State and local general sales taxes Number of returns,State and local general sales taxes Amount,Real estate taxes Number of returns,Real estate taxes Amount,Taxes paid Number of returns,Taxes paid Amount,Mortgage interest paid Number of returns,Mortgage interest paid Amount,Contributions Number of returns,Contributions Amount,Taxable income Number of returns,Taxable income Amount,Total tax credits Number of returns,Total tax credits Amount,Residential energy credit Number of returns,Residential energy credit Amount,Child tax credit Number of returns,Child tax credit Amount,Child and dependent care credit Number of returns,Child and dependent care credit Amount,Additional child tax credit Number of returns,Additional child tax credit Amount,Earned income credit Number of returns,Earned income credit Amount,Excess earned income credit (refundable) Number of returns,Excess earned income credit (refundable) Amount,Alternative minimum tax Number of returns,Alternative minimum tax Amount,Income tax Number of returns,Income tax Amount,Total tax liability Number of returns,Total tax liability Amount,Tax due at time of filing Number of returns,Tax due at time of filing Amount,Overpayments refunded  Number of returns,Overpayments refunded  Amount
+0,DISTRICT OF COLUMBIA,322844,49922,151615,512462,131526,24387673,267684,17112764,121450,299786,69235,620722,62314,455209,53754,1010108,275,50716,1425538,15748,298902,47619,1488171,21420,163123,22620,267021,5348,173691,128036,4121223,115915,1220038,6286,5960,86759,334258,127078,1590639,81579,1221715,105648,667050,262306,17574239,93091,147221,10707,12557,29308,28394,14494,8745,34415,39243,54080,112460,48034,96710,17535,131444,235669,3702981,253150,3937076,61489,290586,252456,1020101
+0,Under $1,5093,458,2596,5566,642,-40725,1258,37515,1680,28000,1401,14129,1242,9656,1177,-20292,20,1629,76482,145,4175,263,4462,74,681,0,0,30,824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,146,548,238,410,162,0,0,0,0,841,3143,488,1288,2128,58986
+0,"$1 under $25,000",104308,4444,48517,157762,48401,1324873,77097,981782,16747,10723,8589,15937,7499,10058,20508,137031,21,5837,-1420,2236,12269,10388,119969,11410,89572,1932,4261,122,915,10296,139777,5851,7381,2447,1038,4697,11417,9725,21390,4234,41980,6645,15324,51269,328718,18232,8287,323,135,4872,1773,1761,680,22947,24635,41259,93162,37179,79878,24,33,37662,27188,52409,51021,11093,8068,87712,198087
+0,"$25,000 under $50,000",83526,5990,36641,130786,35754,3066348,73755,2627722,22001,13550,9674,19703,8427,12798,9237,61437,23,6014,2375,2568,20272,12029,275227,5966,45446,6505,34906,264,2154,22859,368503,19833,39870,1670,1262,11165,22978,22651,67409,10996,102590,18476,64475,81759,1831191,30545,34078,1496,1166,13859,13094,5737,3971,10288,13187,12273,19060,10445,16670,24,99,70235,205369,71664,220533,13846,20110,69289,178914
+0,"$50,000 under $75,000",47474,5377,20380,68150,13655,2901653,42151,2463614,21294,17049,10381,27520,9133,18390,6142,62900,24,6558,4313,2630,28480,8366,264416,1844,12069,4487,49913,315,3457,22873,443145,21115,75999,859,945,14836,32832,22783,113750,14520,150726,19124,74193,47135,2055567,12878,17634,1881,1679,5601,7549,1881,1169,900,1064,0,0,0,0,154,344,45975,312561,46262,327006,11117,23355,36181,97513
+0,"$75,000 under $100,000",26612,5168,12025,39532,7152,2299073,23781,1923312,15631,16221,8279,30536,7384,21120,4146,56087,24,5631,6506,1975,26452,5041,198072,810,5665,2780,39664,317,4636,19818,427442,18759,101823,463,657,13708,34502,19784,140656,13002,158928,16012,58549,26472,1682766,7582,8806,1678,1622,2682,3444,879,516,140,177,0,0,0,0,352,664,26257,293151,26339,305925,6685,19331,19843,69065
+0,"$100,000 under $200,000",37557,15290,18715,66324,13091,5154713,33918,4205565,27607,44365,17498,97361,15922,70825,7375,191969,74,13094,43764,3791,78805,7560,360196,1056,7780,4343,78063,1179,19671,34106,1020305,32807,299288,588,1162,26191,95740,34061,403672,24356,395243,28696,117952,37427,3864875,13230,14055,3215,4034,2294,2534,2141,1214,33,34,0,0,0,0,3051,6608,37299,762947,37382,801051,10417,52659,26986,140751
+0,"$200,000 or more",18274,13195,12741,44342,12831,9681738,15724,4873254,16490,169878,13413,415536,12707,312362,5169,520976,89,11953,1293518,2403,128449,3972,265829,260,1910,2573,60214,3121,142034,18084,1722051,17550,695677,259,896,16162,136789,18074,843762,14471,372248,16695,336557,18244,7811122,10624,64361,2114,3921,0,0,2095,1195,0,0,0,0,0,0,13930,123696,18241,2101765,18253,2228397,7843,165775,10317,276785
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,District of Columbia,322844,49922,151615,512462,131526,24387673,267684,17112764,121450,299786,69235,620722,62314,455209,53754,1010108,275,50716,1425538,15748,298902,47619,1488171,21420,163123,22620,267021,5348,173691,128036,4121223,115915,1220038,6286,5960,86759,334258,127078,1590639,81579,1221715,105648,667050,262306,17574239,93091,147221,10707,12557,29308,28394,14494,8745,34415,39243,54080,112460,48034,96710,17535,131444,235669,3702981,253150,3937076,61489,290586,252456,1020101
+1,Under $1,5093,458,2596,5566,642,-40725,1258,37515,1680,28000,1401,14129,1242,9656,1177,-20292,20,1629,76482,145,4175,263,4462,74,681,0,0,30,824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,146,548,238,410,162,0,0,0,0,841,3143,488,1288,2128,58986
+1,"$1 under $25,000",104308,4444,48517,157762,48401,1324873,77097,981782,16747,10723,8589,15937,7499,10058,20508,137031,21,5837,-1420,2236,12269,10388,119969,11410,89572,1932,4261,122,915,10296,139777,5851,7381,2447,1038,4697,11417,9725,21390,4234,41980,6645,15324,51269,328718,18232,8287,323,135,4872,1773,1761,680,22947,24635,41259,93162,37179,79878,24,33,37662,27188,52409,51021,11093,8068,87712,198087
+1,"$25,000 under $50,000",83526,5990,36641,130786,35754,3066348,73755,2627722,22001,13550,9674,19703,8427,12798,9237,61437,23,6014,2375,2568,20272,12029,275227,5966,45446,6505,34906,264,2154,22859,368503,19833,39870,1670,1262,11165,22978,22651,67409,10996,102590,18476,64475,81759,1831191,30545,34078,1496,1166,13859,13094,5737,3971,10288,13187,12273,19060,10445,16670,24,99,70235,205369,71664,220533,13846,20110,69289,178914
+1,"$50,000 under $75,000",47474,5377,20380,68150,13655,2901653,42151,2463614,21294,17049,10381,27520,9133,18390,6142,62900,24,6558,4313,2630,28480,8366,264416,1844,12069,4487,49913,315,3457,22873,443145,21115,75999,859,945,14836,32832,22783,113750,14520,150726,19124,74193,47135,2055567,12878,17634,1881,1679,5601,7549,1881,1169,900,1064,0,0,0,0,154,344,45975,312561,46262,327006,11117,23355,36181,97513
+1,"$75,000 under $100,000",26612,5168,12025,39532,7152,2299073,23781,1923312,15631,16221,8279,30536,7384,21120,4146,56087,24,5631,6506,1975,26452,5041,198072,810,5665,2780,39664,317,4636,19818,427442,18759,101823,463,657,13708,34502,19784,140656,13002,158928,16012,58549,26472,1682766,7582,8806,1678,1622,2682,3444,879,516,140,177,0,0,0,0,352,664,26257,293151,26339,305925,6685,19331,19843,69065
+1,"$100,000 under $200,000",37557,15290,18715,66324,13091,5154713,33918,4205565,27607,44365,17498,97361,15922,70825,7375,191969,74,13094,43764,3791,78805,7560,360196,1056,7780,4343,78063,1179,19671,34106,1020305,32807,299288,588,1162,26191,95740,34061,403672,24356,395243,28696,117952,37427,3864875,13230,14055,3215,4034,2294,2534,2141,1214,33,34,0,0,0,0,3051,6608,37299,762947,37382,801051,10417,52659,26986,140751
+1,"$200,000 or more",18274,13195,12741,44342,12831,9681738,15724,4873254,16490,169878,13413,415536,12707,312362,5169,520976,89,11953,1293518,2403,128449,3972,265829,260,1910,2573,60214,3121,142034,18084,1722051,17550,695677,259,896,16162,136789,18074,843762,14471,372248,16695,336557,18244,7811122,10624,64361,2114,3921,0,0,2095,1195,0,0,0,0,0,0,13930,123696,18241,2101765,18253,2228397,7843,165775,10317,276785
+"** - Not shown to avoid disclosure of information 
+about specific taxpayers.  However, the data are 
+combined with data in an adjacent size class, 
+as appropriate, and included in the appropriate totals.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[1] The County Federal Information Processing System (FIPS) 
+Codes used for these statistics were derived from the 
+U.S. Census Bureau.  A complete list of codes can be obtained from",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://www.census.gov/popest/geographic/codes02.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2] Less deficit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[3] ""Qualified dividends"" are ordinary dividends received 
+in tax years beginning after 2002 that meet certain 
+conditions and receive preferential tax rates. 
+The maximum qualified dividends tax rate is 15%.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[4] Includes the Alaskan permanent fund, reported by 
+residents of Alaska on Forms 1040A and 1040EZ's.  
+This fund only applies to statistics in the totals, and the 
+state of Alaska.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[5] ""Earned income credit"" includes both the refundable 
+and non-refundable portions.  The non-refundable portion 
+could reduce income tax and certain related taxes to zero. 
+The earned income credit amounts in excess of total tax 
+liability, or amounts when there was no tax liability at all, 
+were refundable.  See footnote 6 below for explanation 
+of the refundable portion of the earned income credit.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[6] The refundable portion of the ""earned income credit"" 
+equals ""total income tax"" minus the ""earned income credit.""  
+If the result is negative, this amount is considered the 
+refundable portion.  No other refundable credits were 
+taken into account for this calculation.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[7]  ""Income tax"" reflects the amount reported on 
+Form 1040 line 55.  It also includes data from 
+Form 1040A and 1040EZ filers.  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[8] ""Total tax liability"" differs from ""Income tax,"" in that
+""Total tax liability"" includes the taxes from recapture of 
+certain prior-year credits, tax applicable to individual 
+retirement arrangements (IRA's), social security taxes 
+on self-employment income and on certain tip income, 
+advanced earned income payments, household
+employment taxes, and certain ""other taxes"" listed 
+in the Form 1040 instructions.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[9] Reflects payments to or withholdings made to 
+""Total tax liability"".  This is the amount the tax filer 
+owes when the income tax return is filed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"[10]  The amount of overpayments the tax filer requested to 
+have refunded. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"NOTE: This table presents aggregates of all returns filed and
+processed through the Individual Master File (IMF) system 
+during Calendar Year 2011, including any returns filed for 
+tax years preceding 2010.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In general, during administrative or Master File processing, taxpayer
+reporting discrepancies are corrected only to the extent necessary to
+verify the total tax liability reported.  Most of the other corrections to
+the taxpayer records used for these statistics could not be made
+because of time and resource constraints.  The statistics in the 
+county data should, therefore, be used with the knowledge that 
+some of the data have not been perfected or edited for statistical 
+purposes and that State totals in this table may not be altogether 
+comparable to other State totals published by the IRS, 
+Statistics of Income Division. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Detail may not add to totals because of rounding.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SOURCE: IRS, Statistics of Income Division, 
+Individual Master File System, August 2014.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
